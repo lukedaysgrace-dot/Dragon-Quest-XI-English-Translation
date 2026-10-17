@@ -1,0 +1,56 @@
+# battle main window (Fight/Tactics/Swap/Flee/Pep)
+0x325410	たたかう	Fight
+0x325424	さくせん	Tactics
+0x325438	いれかえ	Swap
+0x32544c	にげる	Flee
+0x32545c	れんけい	Pep
+# battle command window
+0x4020bc	こうげき	Attack
+0x4020d0	じゅもん	Spells
+0x4020e4	ぼうぎょ	Defend
+0x4020f8	とくぎ	Skills
+0x402108	どうぐ	Items
+0x402118	そうび	Equip
+0x324d10	きりかえ	Switch
+0x324e6c	いれかえ	Swap
+0x403134	いれかえ	Swap
+0x403148	そうがえ	Re-equip
+# equipment slots
+0x4034a4	そうびなし	(none)
+0x4034b0	ひだりて	L. hand
+0x4034bc	みぎて	R. hand
+0x4034c4	あたま	Head
+0x4034cc	からだ	Body
+0x4034d4	アクセ１	Acc. 1
+0x4034e0	アクセ２	Acc. 2
+0x4ab4dc	ひだりて	L. hand
+0x4ab4e8	みぎて	R. hand
+0x4ab4f0	あたま	Head
+0x4ab4f8	からだ	Body
+0x4ab500	アクセ１	Acc. 1
+0x4ab50c	アクセ２	Acc. 2
+0x4ab7b0	ふくろ	Bag
+0x4ab7b8	そうび中	Equipped
+0x4ab7c4	もちもの	Items
+0x46a518	ぜんいん	All
+0x4d3d9c	さくせんがえ	Tactics
+0x4d3db4	せってい	Settings
+0x1c3944	これまでのあらすじ	The Story So Far
+0x15c534	アイテム	Item
+0x3cee98	しに	Dead
+0x3ceea0	どく	Poison
+0x3ceea8	のろい	Curse
+0x3ea930	クリアずみ	Cleared
+0x4c9fc8	タンス	Wardrobe
+0x4c9fd0	引き出し	Drawer
+0x4aac9c	レディファースト	Ladies first
+0x4aacb0	ビーストモード	Beast mode
+0x4c42fc	デルカダール兵たち	Heliodor soldiers
+0x15c3ec	依頼主に　報告しに行きましょう。	Go report back!
+0x38b1e8	%d匹	%d
+# enemy letter suffix: name + space + A/B/C
+0x43f120	%ls%c	%ls %c
+0x5e5c2c	%ls%c	%ls %c
+# victory message: "{name}は" / "{name}たちは　それぞれ" prefixes (battle_Text EXP line)
+0x7bfb58	は	 gets
+0x7bfb46	たちは　それぞれ	 & co. each get

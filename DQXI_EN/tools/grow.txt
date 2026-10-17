@@ -1,0 +1,12 @@
+win_sakusen_tutorial3_3d.bflyt|txt=1024
+win_sakusen_tutorial3_2d.bflyt|txt=1024
+# battle bottom-screen action/target labels: wider panes + room for English names
+win_target_3d.bflyt|txt_command=130,40,20,-18
+win_target_3d.bflyt|txt_target=130,40,20,-70
+win_target_3d.bflyt|txt_command=64
+win_target_3d.bflyt|txt_target=64
+win_target_2d.bflyt|txt_command=110,30,22,-25
+win_target_2d.bflyt|txt_target=110,30,22,-64
+win_target_2d.bflyt|txt_command=64
+win_target_2d.bflyt|txt_target=64
+common_3d_up_senreki.bflyt|txt_story=512

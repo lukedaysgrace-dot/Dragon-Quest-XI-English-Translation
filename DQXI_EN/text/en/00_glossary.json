@@ -1,0 +1,28 @@
+{
+ "_comment": "Proper names (character, place, party). Short terminology chosen to stay consistent with the series' established English naming. Swap entries here if you supply an official term list; every string using the Japanese name follows automatically.",
+ "status": "translated",
+ "source": "name",
+ "tm": {
+  "ペルラ": "Amber",
+  "エマ": "Gemma",
+  "ダン": "Dunstan",
+  "テオ": "Chalky",
+  "ルキ": "Sandy",
+  "カミュ": "Erik",
+  "ベロニカ": "Veronica",
+  "セーニャ": "Serena",
+  "シルビア": "Sylvando",
+  "マルティナ": "Jade",
+  "ロウ": "Rab",
+  "グレイグ": "Hendrik",
+  "ホメロス": "Jasper",
+  "デルカダール王": "King Carnelian",
+  "セレン": "Seren",
+  "ロトゼタシア": "Erdrea",
+  "イシの村": "Cobblestone",
+  "デルカダール城": "Heliodor Castle",
+  "デルカダール": "Heliodor",
+  "マノロ": "Cole",
+  "ゼッケンドルフ": "Zeckendorf"
+ }
+}

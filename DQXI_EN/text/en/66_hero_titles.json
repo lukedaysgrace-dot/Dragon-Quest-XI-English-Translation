@@ -1,0 +1,22 @@
+{
+ "_comment": "Hero titles shown on the status screen (gamecmn another_name_hero.bxon). Fan translation.",
+ "status": "translated",
+ "source": "fan",
+ "tm": {
+  "イシの村の青年": "Cobblestone lad",
+  "勇者の生まれ変わり": "Luminary reborn",
+  "囚われの勇者": "Captive Luminary",
+  "追われる勇者": "Hunted Luminary",
+  "命の大樹に選ばれし者": "Chosen of Yggdrasil",
+  "ユグノアの王子": "Prince of Dundrasil",
+  "勇者の使命を継ぐ者": "Heir to the mission",
+  "さすらいの魚": "Wandering fish",
+  "希望の灯をともす者": "Bringer of hope",
+  "パレードのボス": "Parade leader",
+  "勇者": "Luminary",
+  "救世主": "Saviour",
+  "時の旅人": "Time traveller",
+  "伝説に挑む者": "Legend challenger",
+  "伝説の勇者": "Legendary Luminary"
+ }
+}

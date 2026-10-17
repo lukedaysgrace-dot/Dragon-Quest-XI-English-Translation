@@ -1,0 +1,11 @@
+{
+ "_comment": "Opening: prologue cutscenes a_010_cs_010/030/040 and the first playable area (script/a_010.pack ie.bxon). Fan translation; dialogue is auto-wrapped at build time.",
+ "status": "translated",
+ "source": "fan",
+ "id": {
+  "/script/a_010.pack|ie.bxon|24c": "Use the Circle Pad to move in 3D on the top screen, or the +Control Pad to move in 2D on the bottom screen.",
+  "/script/a_010.pack|ie.bxon|f90": "Here to see the King? His Majesty has already retired for the night. Come back in the morning.",
+  "/script/a_010.pack|ie.bxon|1050": "It seems you can't enter the castle until morning. Wait here until morning?",
+  "/script/a_010.pack|ie.bxon|115c": "Closed - shopkeeper out"
+ }
+}

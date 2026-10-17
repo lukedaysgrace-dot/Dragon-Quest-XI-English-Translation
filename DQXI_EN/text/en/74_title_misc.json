@@ -1,0 +1,16 @@
+{
+ "_comment": "Title-screen leftovers: story-recap bubble, delete/confirm messages. Fan translation.",
+ "status": "translated",
+ "source": "fan",
+ "tm": {
+  "これまでの\nあらすじ": "Here's the\nstory so far!",
+  "{var:5}\n{var:6}を\n消しても　よろしいですか？": "Really delete\n{var:5}\n{var:6}?",
+  "冒険の書{var:8}に\nしばりプレイを　設定しますか？": "Set Draconian Quest rules\nfor adventure log {var:8}?",
+  "『{var:6}』で　間違いありませんか？": "Is \"{var:6}\" correct?",
+  "最新の利用規約に同意していないため\nすれちがい通信で交換するプロフィールを\n{var:5}{var:8}　に設定できませ": "You haven't accepted the latest\nService Agreement, so your StreetPass\nprofile can't be set to {var:5}{var:8}.",
+  "ＳＤカードが挿入されていません。\n電源をきって　ＳＤカードを挿入してください。": "No SD Card is inserted.\nTurn off the power and insert an SD Card."
+ },
+ "id": {
+  "/ui/title.pack|title.arc|blyt/win_load_story_3d.bflyt|txt_story2": "\n "
+ }
+}

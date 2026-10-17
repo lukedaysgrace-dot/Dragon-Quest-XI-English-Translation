@@ -1,0 +1,30 @@
+# ---- Never upload: the game itself (copyrighted, and 4 GB is far over GitHub's 100 MB file limit) ----
+*.3ds
+*.cia
+*.cxi
+*.cci
+*.app
+*.bin
+*.zip
+
+# ---- Data extracted from / rebuilt out of the game ----
+DQXI_EN/db/
+DQXI_EN/release/
+DQXI_EN/work_tmp/
+DQXI_EN/work/
+DQXI_EN/build/
+DQXI_EN/text/jp/
+Claude outputs/
+
+# ---- Official English script (Square Enix text, not ours to redistribute) ----
+DQXI_EN/text/en/*_official.json
+DQXI_EN/official/
+# map scripts that contain official lines (needed only to regenerate the *_official.json files)
+DQXI_EN/maps/cob_*.py
+DQXI_EN/maps/hel_*.py
+DQXI_EN/maps/quests_a1.py
+
+# ---- misc ----
+__pycache__/
+*.pyc
+*.sqlite-journal

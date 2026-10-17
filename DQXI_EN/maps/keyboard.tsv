@@ -1,0 +1,20 @@
+# Name-entry keyboard (code.bin .rodata key tables). 2 pages x 69 keys, each key = 3 string pointers
+# (base, dakuten, handakuten). Grid is 6 rows x 12 columns, stored column-major (col 11 has 3 keys).
+# Rows below are the visible rows; cells separated by single spaces.
+# Tokens: _ = blank key, SP = space; cols 10/11 hold the function keys (relabelled only).
+# page 1 (was hiragana) @0x72cdac
+page	0x72cdac
+A B C D E a b c d e _ !
+F G H I J f g h i j _ ?
+K L M N O k l m n o ~ .
+P Q R S T p q r s t 123 _
+U V W X Y u v w x y Back _
+Z - ' & , z SP ? ! . End _
+# page 2 (was katakana) @0x72d0e8
+page	0x72d0e8
+1 2 3 4 5 A B C D E _ !
+6 7 8 9 0 F G H I J _ ?
+. , ! ? ' K L M N O ~ .
+- & + = / P Q R S T ABC _
+( ) : ; * U V W X Y Back _
+" % @ ~ SP Z _ _ _ _ End _
