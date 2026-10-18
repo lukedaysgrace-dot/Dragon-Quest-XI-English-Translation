@@ -25,7 +25,7 @@
   "/param/scenario/cs/a_030_cs_040.pack|cs_text.bxon|57c": "Right, let's go and get it. The rubbish heap's just through here.",
   "/param/scenario/cs/a_030_cs_050.pack|cs_text.bxon|4b8": "Up ahead is the lodging house we used to hole up in. It's two storeys, so you can't miss it. Let's head there first.",
   "/param/scenario/cs/a_030_cs_085.pack|cs_text.bxon|778": "Right, {var:1}, now's our chance. Let's get up into town.",
-  "/param/scenario/cs/a_030_cs_100.pack|cs_text.bxon|c40": "...The Woodlands, huh? Heard they're wild. But it's the only way. Fine, bring it on.",
+  "/param/scenario/cs/a_030_cs_100.pack|cs_text.bxon|c40": "...The Manglegrove, huh? Heard they're wild. But it's the only way. Fine, bring it on.",
   "/param/region/r002.pack|npc_ie.bxon|4284": "Working together\nis wonderful...",
   "/script/a_020.pack|ie.bxon|72c": "A mysterious force has returned you to the Heliodor sewers.",
   "/gamecmn.pack|ui_text.bxon|1a60": "No story summary found.",

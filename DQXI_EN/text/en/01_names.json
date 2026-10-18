@@ -1,0 +1,28 @@
+{
+ "status": "translated",
+ "source": "name",
+ "_comment": "Speaker names and proper nouns added in session 5 (names follow the official localization).",
+ "tm": {
+  "デク": "Derk",
+  "マンプク": "Flint",
+  "いたずらデビル": "Tricky Devil",
+  "ファーリス": "Prince Faris",
+  "イメルダ": "Mistress Bev",
+  "ジェット": "Cammo",
+  "ドラコ": "Bullseye",
+  "ダイアナ": "Roxy",
+  "ルコ": "Connie",
+  "ルパス": "Noah",
+  "マスター": "Bartender",
+  "ヤヤク": "Miko",
+  "ハリマ": "Ryu",
+  "テバ": "Atsuo",
+  "サキ": "Atsuko",
+  "サマディー王": "Sultan of Gallopolis",
+  "シルビア": "Sylvando",
+  "オグイ": "Faiz",
+  "サマちゃん": "Princess Furris",
+  "デスコピオン": "Slayer of the Sands",
+  "モグパックン": "Sharukh"
+ }
+}

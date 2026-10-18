@@ -11,5 +11,5 @@ for l in open('maps/story_en.txt',encoding='utf8'):
     if len(lines)>5: bad.append((i,len(lines)))
     tm[jp[int(i)-1].replace('⏎','\n')]='\n'.join(lines)
 json.dump({"_comment":"Story-so-far recaps (gamecmn story_*.bxon), fan translation, 5 lines max.","status":"translated","source":"fan","tm":tm},
- open('/mnt/user-data/outputs/en/73_story_recap.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
+ open('text/en/73_story_recap.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
 print(len(tm),bad, max(len(v) for v in tm.values()))

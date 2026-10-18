@@ -14,6 +14,6 @@ for f in sorted(glob.glob('maps/guide*.txt')):
         if len(lines)>2: bad.append(lines)
         tm[j.replace('⏎','\n')]='\n'.join(lines)
 json.dump({"_comment":"Bottom-screen objective hints (gamecmn scenario_guide.bxon). Fan translation; place names follow the official localisation where known.",
- "status":"translated","source":"fan","tm":tm},open('/mnt/user-data/outputs/en/65_scenario_guide.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
+ "status":"translated","source":"fan","tm":tm},open('text/en/65_scenario_guide.json','w',encoding='utf8'),ensure_ascii=False,indent=1)
 print(len(tm),'over2',len(bad))
 for b in bad: print(b)

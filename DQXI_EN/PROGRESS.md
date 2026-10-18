@@ -347,3 +347,13 @@ Ruby, Roxy (3DS "Diana"), Mistress Bev, Cammo, Bullseye, Amelia (the cat).
 3. Continue story in scenario order: Cobblestone return/Kingsbarrow (a_040/a_050), then Gallopolis (a_060+);
    remaining scenario guide, story recaps, party chat, books/signs and quests along the way.
 4. Real-hardware test (Luma) when possible.
+
+## 12. Session 5 (2026-10-17) — rebuilt private files, a_050 → a_070
+* Private (git-ignored) files were missing from the PC copy, so the official-line mappings were rebuilt
+  from the script RTFs with `tools/omap2json.py` (`maps/*.omap` → `text/en/*_official.json` / `_fan.json`).
+* New areas, all `check_fit` problems: 0: a_050 (Kingsbarrow / ruined + past Cobblestone), a_060 Hotto
+  (cutscenes, haiku NPCs, party chat, quests), a_070 Gallopolis (cutscenes `89_`, NPCs `89b_`,
+  script + party chat `89c_`, quests + quest logs `89d_`), quest titles, story recaps / guide up to Hotto.
+* Rebuild: packs 705, entries changed 862, errors 0. No a_070 string in the overflow report.
+* In-game verified this session: name entry, prologue, Gemma cutscene, Cobblestone NPCs.
+  **Hotto and Gallopolis are fit-checked only — not yet seen in the emulator.**

@@ -28,3 +28,6 @@ DQXI_EN/maps/quests_a1.py
 __pycache__/
 *.pyc
 *.sqlite-journal
+
+# compact map files that reference/condense official script lines
+DQXI_EN/maps/*.omap
