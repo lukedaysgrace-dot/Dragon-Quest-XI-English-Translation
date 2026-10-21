@@ -10,6 +10,13 @@ if '--cond' in av: i=av.index('--cond'); av=av[:i]+av[i+2:]
 a=[x for x in av if not x.startswith('--')]
 short=a[0]; ent=a[1] if len(a)>1 else ('npc_ie.bxon' if short.startswith('r') else 'ie.bxon')
 allf='--all' in sys.argv
+import json,glob
+COVER_ID=set(); COVER_TM=set()
+for _f in glob.glob('/home/claude/text/en/*.json'):
+    try: _d=json.load(open(_f))
+    except Exception: continue
+    COVER_ID|=set(_d.get('id',{}).keys()); COVER_TM|=set(_d.get('tm',{}).keys())
+
 cp=None
 if '--cond' in sys.argv: cp=sys.argv[sys.argv.index('--cond')+1]
 pack=db.execute("select distinct pack from strings where pack like ?",('%/'+short+'.pack',)).fetchone()[0]
@@ -29,7 +36,7 @@ for i in info:
     if cp and not i.get('cond','').startswith(cp): continue
     if jp in seen: continue
     seen.add(jp)
-    if st=='translated' and not allf: continue
+    if (st=='translated' or (pack+'|'+ent+'|%x'%o) in COVER_ID or jp in COVER_TM) and not allf: continue
     hdr=(i.get('npc'),i.get('cond'))
     if hdr!=last: print('# npc %s cond %s'%hdr); last=hdr
     offs=[x for x in byjp[jp]]

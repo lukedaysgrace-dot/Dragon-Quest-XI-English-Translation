@@ -357,3 +357,17 @@ Ruby, Roxy (3DS "Diana"), Mistress Bev, Cammo, Bullseye, Amelia (the cat).
 * Rebuild: packs 705, entries changed 862, errors 0. No a_070 string in the overflow report.
 * In-game verified this session: name entry, prologue, Gemma cutscene, Cobblestone NPCs.
   **Hotto and Gallopolis are fit-checked only — not yet seen in the emulator.**
+
+## 13. Session 6 (2026-10-21) — cutscene (cs_text) packs, a_180 → c_020_cs_105
+* Translated ~300 `cs_text.bxon` cutscene packs (`maps/cs_<pack>.omap`): a_180, all of b_010–b_170
+  (Sword of Light forging, Indignus, Jasper, Mordegon, epilogue, Time's Sphere decision) and c_010–c_020_cs_105
+  (past-timeline Heliodor, Calasmos reveal, Watchers' village, Morcant/Seer reveal). All `cs_run` = "problems: 0".
+* Patch was rebuilt once mid-session (includes up to ~b_060). Everything later is **fit-checked only**,
+  not rebuilt or seen in the emulator (late-game scenes can't be reached from the current save).
+* **Stopped at:** `c_020_cs_105` done. NEXT PACK = line 306 of `/tmp/cs_list.txt`: **c_020_cs_110**,
+  then c_020_cs_140, c_040_cs_010, c_050_cs_010, c_060_cs_010, c_090_cs_010/020, c_100_cs_010 … (list has 350 packs;
+  regenerate with `tools/cs_dump.sh` / the pack list if /tmp was lost: packs are the `cs/*.pack` files, sorted).
+* Still to do after cs packs: talk_content (talk_party a100+), ie.bxon cutscene/b-series, enemy_book, achievement,
+  cutscene_chapter_param, staffroll_text_1/2, passive_skill, dummy_player_message/name, quest_ui_param, scenario_guide,
+  spirit_* tables, script_message, ui_profile_text, item_add_effect_text, quest_param, casino slot_msg, misc,
+  ~237 cosmetic overflows in m2d_ui_map_param. Then rebuild (`tests_emu/rebuild.sh`), retest in emulator, re-sync.

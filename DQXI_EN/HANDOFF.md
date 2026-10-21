@@ -78,3 +78,15 @@ in the parent folder, the official English script RTFs are in `../DQXI SCRIPT/`.
 * `{var:1}` = hero name. Speaker-name plates are separate strings (`text/en/01_names.json`).
 * Hotto natives speak in haiku (official style); 3-page official haiku become 3 lines.
 * Names: see `00_glossary.json`, `01_names.json`, `72_places.json`.
+
+## 14. Session 6 notes (cutscene packs) — READ if continuing
+* Workflow per pack: `tools/cs_dump.sh cs_text.bxon <packs>` (JP + /tmp/cs/<pack>.txt) → write `/tmp/cs/<pack>.src`
+  (line 1 `@<pack> cs_text.bxon`; then `<firstoffset> f: text`; dialogue starts with `"`; `{var:1}` = hero name;
+  forced break = literal `\n`, max 3 lines, ~95 chars/line) → `tools/cs_run.sh cs_text.bxon cs <packs>` until
+  "problems: 0". Fix overflows with `tools/setl.py` (stdin `<pack> <offset> <text>`; fixed this session to not
+  mangle `\n`). Multi-offset name lines: put only the first offset. The `maps/cs_*.omap` files are the durable copy.
+* Sync to PC: tar `maps text/en/*_fan.json tools dq/*.md`, SendUserFile, commit into `DQXI_EN/work_tmp/`, extract (see old notes).
+* Names used: Yggdrasil (not "World Tree"), Sword of Shadows (魔王の剣), Time's Sphere, Timekeeper, Timeless Vault,
+  Wheel of Time (神秘の歯車), Tower of Lost Time, Spirits of Lost Time, Erdwin's Lantern, Guiding Light, Igoltap (elder),
+  Neresen, Serenica, Morcant (=Seer 預言者), Mordegon, Calasmos, Indignus, Jasper, Hendrik, Jade, Rab, Sylvando, Erik, Mia, Gemma.
+* Official script `official/rows.jsonl` is the primary source for wording; grep it for terms.
