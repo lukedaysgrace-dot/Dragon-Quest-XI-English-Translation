@@ -1,0 +1,432 @@
+@fieldcmn dummy_player_message.bxon
+6ec f: Hokkaido is the best!
+704 f: Aomori is the best!
+71c f: Iwate is the best!
+734 f: Miyagi is the best!
+74c f: Akita is the best!
+764 f: Yamagata is the best!
+77c f: Fukushima is the best!
+794 f: Ibaraki is the best!
+7ac f: Tochigi is the best!
+7c4 f: Gunma is the best!
+7dc f: Saitama is the best!
+7f4 f: Chiba is the best!
+80c f: Tokyo is the best!
+824 f: Kanagawa is the best!
+83c f: Niigata is the best!
+854 f: Yamanashi is the best!
+86c f: Nagano is the best!
+884 f: Toyama is the best!
+89c f: Ishikawa is the best!
+8b4 f: Fukui is the best!
+8cc f: Gifu is the best!
+8e4 f: Shizuoka is the best!
+8fc f: Aichi is the best!
+914 f: Mie is the best!
+92c f: Shiga is the best!
+944 f: Kyoto is the best!
+95c f: Osaka is the best!
+974 f: Hyogo is the best!
+98c f: Nara is the best!
+9a4 f: Wakayama is the best!
+9bc f: Tottori is the best!
+9d4 f: Shimane is the best!
+9ec f: Okayama is the best!
+a04 f: Hiroshima is the best!
+a1c f: Yamaguchi is the best!
+a34 f: Tokushima is the best!
+a4c f: Kagawa is the best!
+a64 f: Ehime is the best!
+a7c f: Kochi is the best!
+a94 f: Fukuoka is the best!
+aac f: Saga is the best!
+ac4 f: Nagasaki is the best!
+adc f: Kumamoto is the best!
+af4 f: Oita is the best!
+b0c f: Miyazaki is the best!
+b24 f: Kagoshima is the best!
+b3c f: Okinawa is the best!
+b54 f: Asia is the best!
+b6c f: Europe is the best!
+b88 f: Africa is the best!
+ba4 f: America is the best!
+bc0 f: Oceania is the best!
+bdc f: Antarctica is the best!
+bf4 f: The countryside is the best!
+c0c f: The big city is the best!
+c24 f: Faraway lands is the best!
+c3c f: Alefgard is the best!
+c5c f: Erdrea is the best!
+c7c f: Astoltia is the best!
+c9c f: Tantegel is the best!
+cb8 f: Lorasia is the best!
+cd4 f: Aliahan is the best!
+cf0 f: Mountain villages is the best!
+d0c f: Sancrest is the best!
+d2c f: Lifecod is the best!
+d4c f: Fishbel is the best!
+d6c f: Trodain is the best!
+d88 f: Wallrow is the best!
+da4 f: Ethene is the best!
+dc4 f: Cobblestone is the best!
+de0 f: The puff-puff parlor is the best!
+e00 f: The forest is the best!
+e18 f: The kotatsu is the best!
+e30 f: Viva Hokkaido!
+e48 f: Viva Aomori!
+e5c f: Viva Iwate!
+e70 f: Viva Miyagi!
+e84 f: Viva Akita!
+e98 f: Viva Yamagata!
+eac f: Viva Fukushima!
+ec0 f: Viva Ibaraki!
+ed4 f: Viva Tochigi!
+ee8 f: Viva Gunma!
+efc f: Viva Saitama!
+f10 f: Viva Chiba!
+f24 f: Viva Tokyo!
+f38 f: Viva Kanagawa!
+f50 f: Viva Niigata!
+f64 f: Viva Yamanashi!
+f78 f: Viva Nagano!
+f8c f: Viva Toyama!
+fa0 f: Viva Ishikawa!
+fb4 f: Viva Fukui!
+fc8 f: Viva Gifu!
+fdc f: Viva Shizuoka!
+ff0 f: Viva Aichi!
+1004 f: Viva Mie!
+1018 f: Viva Shiga!
+102c f: Viva Kyoto!
+1040 f: Viva Osaka!
+1054 f: Viva Hyogo!
+1068 f: Viva Nara!
+107c f: Viva Wakayama!
+1094 f: Viva Tottori!
+10a8 f: Viva Shimane!
+10bc f: Viva Okayama!
+10d0 f: Viva Hiroshima!
+10e4 f: Viva Yamaguchi!
+10f8 f: Viva Tokushima!
+110c f: Viva Kagawa!
+1120 f: Viva Ehime!
+1134 f: Viva Kochi!
+1148 f: Viva Fukuoka!
+115c f: Viva Saga!
+1170 f: Viva Nagasaki!
+1184 f: Viva Kumamoto!
+1198 f: Viva Oita!
+11ac f: Viva Miyazaki!
+11c0 f: Viva Kagoshima!
+11d8 f: Viva Okinawa!
+11ec f: Viva Asia!
+1204 f: Viva Europe!
+1220 f: Viva Africa!
+1238 f: Viva America!
+1250 f: Viva Oceania!
+126c f: Viva Antarctica!
+1280 f: Viva The countryside!
+1298 f: Viva The big city!
+12ac f: Viva Faraway lands!
+12c4 f: Viva Alefgard!
+12e0 f: Viva Erdrea!
+12fc f: Viva Astoltia!
+131c f: Viva Tantegel!
+1338 f: Viva Lorasia!
+1354 f: Viva Aliahan!
+1370 f: Viva Mountain villages!
+1388 f: Viva Sancrest!
+13a4 f: Viva Lifecod!
+13c0 f: Viva Fishbel!
+13e0 f: Viva Trodain!
+13fc f: Viva Wallrow!
+1418 f: Viva Ethene!
+1434 f: Viva Cobblestone!
+144c f: Viva The puff-puff parlor!
+1468 f: Viva The forest!
+1480 f: Viva The kotatsu!
+1498 f: My favorite thing is the outdoors!
+14b8 f: My favorite thing is swimming!
+14d4 f: My favorite thing is baseball!
+14f0 f: My favorite thing is shooting!
+150c f: My favorite thing is strength training!
+1528 f: My favorite thing is walks!
+1544 f: My favorite thing is cycling!
+1560 f: My favorite thing is canoeing!
+157c f: My favorite thing is golf!
+1598 f: My favorite thing is surfing!
+15b8 f: My favorite thing is soccer!
+15d8 f: My favorite thing is horseback riding!
+15f4 f: My favorite thing is airsoft!
+1614 f: My favorite thing is scuba diving!
+1634 f: My favorite thing is watching sports!
+1658 f: My favorite thing is hiking!
+1678 f: My favorite thing is basketball!
+16a0 f: My favorite thing is dancing!
+16bc f: My favorite thing is tennis!
+16d8 f: My favorite thing is bouldering!
+16fc f: My favorite thing is idols!
+171c f: My favorite thing is live shows!
+1738 f: My favorite thing is voice training!
+1758 f: My favorite thing is playing instruments!
+1778 f: My favorite thing is karaoke!
+1798 f: My favorite thing is video streaming!
+17b8 f: My favorite thing is commentary!
+17d4 f: My favorite thing is anime songs!
+17f4 f: My favorite thing is cosplay!
+1814 f: My favorite thing is drawing!
+1834 f: My favorite thing is anime!
+1850 f: My favorite thing is games!
+186c f: My favorite thing is board games!
+1890 f: My favorite thing is online games!
+18b4 f: My favorite thing is card games!
+18d8 f: My favorite thing is werewolf games!
+18f8 f: My favorite thing is puzzle solving!
+1914 f: My favorite thing is mahjong!
+1930 f: My favorite thing is puzzles!
+194c f: My favorite thing is smartphones!
+1968 f: My favorite thing is social media!
+1984 f: My favorite thing is blogging!
+19a0 f: My favorite thing is the internet!
+19c4 f: My favorite thing is auctions!
+19e8 f: My favorite thing is shopping!
+1a0c f: My favorite thing is house parties!
+1a34 f: My favorite thing is banquets!
+1a50 f: My favorite thing is travel!
+1a6c f: My favorite thing is drives!
+1a8c f: My favorite thing is touring ruins!
+1aac f: My favorite thing is cameras!
+1ac8 f: My favorite thing is reading!
+1ae4 f: My favorite thing is movies!
+1b00 f: My favorite thing is Go!
+1b1c f: My favorite thing is shogi!
+1b38 f: My favorite thing is stocks!
+1b50 f: My favorite thing is filial piety!
+1b6c f: My favorite thing is finding myself!
+1b8c f: My favorite thing is rock-paper-scissors!
+1bac f: My favorite thing is hunting for the Tsuchinoko!
+1bd0 f: My favorite thing is DIY!
+1bf0 f: My favorite thing is model kits!
+1c10 f: My favorite thing is completing collections!
+1c30 f: My favorite thing is daydreaming!
+1c4c f: My favorite thing is eating!
+1c6c f: My favorite thing is cooking!
+1c88 f: My favorite thing is history!
+1ca4 f: My favorite thing is helping people!
+1cc0 f: My favorite thing is stamp collecting!
+1ce0 f: My favorite thing is fortune-telling!
+1cfc f: My favorite thing is tea ceremony!
+1d18 f: My favorite thing is saving money!
+1d34 f: My favorite thing is fishing!
+1d50 f: My favorite thing is trains!
+1d6c f: My favorite thing is studying!
+1d88 f: My favorite thing is bonsai!
+1da4 f: My favorite thing is crafts!
+1dc0 f: My favorite thing is chatting!
+1de0 f: My favorite thing is fashion!
+1e00 f: My favorite thing is cleaning!
+1e20 f: My favorite thing is dieting!
+1e40 f: My favorite thing is nail art!
+1e64 f: My favorite thing is cats!
+1e80 f: My favorite thing is dogs!
+1e9c f: My favorite thing is sleeping!
+1ebc f: My favorite thing is adventure!
+1ed8 f: My favorite thing is leveling up!
+1ef8 f: My favorite thing is alchemy and smithing!
+1f18 f: My favorite thing is challenge runs!
+1f3c f: My favorite thing is puff-puff!
+1f5c f: My favorite thing is metal slime hunting!
+1f7c f: My favorite thing is roulette!
+1f9c f: My favorite thing is poker!
+1fbc f: My favorite thing is slots!
+1fdc f: My favorite thing is solo camping!
+2000 f: I love the outdoors!
+201c f: I love swimming!
+2030 f: I love baseball!
+2044 f: I love shooting!
+2058 f: I love strength training!
+2070 f: I love walks!
+2084 f: I love cycling!
+209c f: I love canoeing!
+20b4 f: I love golf!
+20cc f: I love surfing!
+20e8 f: I love soccer!
+2100 f: I love horseback riding!
+2114 f: I love airsoft!
+212c f: I love scuba diving!
+2148 f: I love watching sports!
+2164 f: I love hiking!
+2180 f: I love basketball!
+21a0 f: I love dancing!
+21b8 f: I love tennis!
+21d0 f: I love bouldering!
+21ec f: I love idols!
+2204 f: I love live shows!
+221c f: I love voice training!
+2234 f: I love playing instruments!
+224c f: I love karaoke!
+2264 f: I love video streaming!
+227c f: I love commentary!
+2290 f: I love anime songs!
+22a8 f: I love cosplay!
+22c0 f: I love drawing!
+22d8 f: I love anime!
+22f0 f: I love games!
+2308 f: I love board games!
+2324 f: I love online games!
+2340 f: I love card games!
+235c f: I love werewolf games!
+2378 f: I love puzzle solving!
+2390 f: I love mahjong!
+23a4 f: I love puzzles!
+23bc f: I love smartphones!
+23d4 f: I love social media!
+23ec f: I love blogging!
+2404 f: I love the internet!
+2424 f: I love auctions!
+2440 f: I love shopping!
+245c f: I love house parties!
+247c f: I love banquets!
+2490 f: I love travel!
+24a4 f: I love drives!
+24bc f: I love touring ruins!
+24d4 f: I love cameras!
+24ec f: I love reading!
+2500 f: I love movies!
+2514 f: I love Go!
+2528 f: I love shogi!
+253c f: I love stocks!
+2550 f: I love filial piety!
+2568 f: I love finding myself!
+2580 f: I love rock-paper-scissors!
+259c f: I love hunting for the Tsuchinoko!
+25b8 f: I love DIY!
+25d0 f: I love model kits!
+25ec f: I love completing collections!
+2608 f: I love daydreaming!
+261c f: I love eating!
+2638 f: I love cooking!
+264c f: I love history!
+2660 f: I love helping people!
+2678 f: I love stamp collecting!
+2690 f: I love fortune-telling!
+26a4 f: I love tea ceremony!
+26b8 f: I love saving money!
+26cc f: I love fishing!
+26e0 f: I love trains!
+26f4 f: I love studying!
+2708 f: I love bonsai!
+271c f: I love crafts!
+2730 f: I love chatting!
+274c f: I love fashion!
+2764 f: I love cleaning!
+277c f: I love dieting!
+2798 f: I love nail art!
+27b4 f: I love cats!
+27c8 f: I love dogs!
+27dc f: I love sleeping!
+27f4 f: I love adventure!
+2808 f: I love leveling up!
+2824 f: I love alchemy and smithing!
+2840 f: I love challenge runs!
+285c f: I love puff-puff!
+2874 f: I love metal slime hunting!
+2890 f: I love roulette!
+28ac f: I love poker!
+28c4 f: I love slots!
+28dc f: I love solo camping!
+28fc f: Viva the outdoors!
+2918 f: Viva swimming!
+292c f: Viva baseball!
+2940 f: Viva shooting!
+2954 f: Viva strength training!
+296c f: Viva walks!
+2980 f: Viva cycling!
+2998 f: Viva canoeing!
+29b0 f: Viva golf!
+29c8 f: Viva surfing!
+29e4 f: Viva soccer!
+29fc f: Viva horseback riding!
+2a10 f: Viva airsoft!
+2a28 f: Viva scuba diving!
+2a44 f: Viva watching sports!
+2a60 f: Viva hiking!
+2a7c f: Viva basketball!
+2a9c f: Viva dancing!
+2ab4 f: Viva tennis!
+2acc f: Viva bouldering!
+2ae8 f: Viva idols!
+2b00 f: Viva live shows!
+2b18 f: Viva voice training!
+2b30 f: Viva playing instruments!
+2b48 f: Viva karaoke!
+2b60 f: Viva video streaming!
+2b78 f: Viva commentary!
+2b8c f: Viva anime songs!
+2ba4 f: Viva cosplay!
+2bbc f: Viva drawing!
+2bd4 f: Viva anime!
+2bec f: Viva games!
+2c04 f: Viva board games!
+2c20 f: Viva online games!
+2c3c f: Viva card games!
+2c58 f: Viva werewolf games!
+2c74 f: Viva puzzle solving!
+2c8c f: Viva mahjong!
+2ca0 f: Viva puzzles!
+2cb8 f: Viva smartphones!
+2cd0 f: Viva social media!
+2ce8 f: Viva blogging!
+2d00 f: Viva the internet!
+2d20 f: Viva auctions!
+2d3c f: Viva shopping!
+2d58 f: Viva house parties!
+2d78 f: Viva banquets!
+2d8c f: Viva travel!
+2da0 f: Viva drives!
+2db8 f: Viva touring ruins!
+2dd0 f: Viva cameras!
+2de8 f: Viva reading!
+2dfc f: Viva movies!
+2e10 f: Viva Go!
+2e24 f: Viva shogi!
+2e38 f: Viva stocks!
+2e4c f: Viva filial piety!
+2e64 f: Viva finding myself!
+2e7c f: Viva rock-paper-scissors!
+2e98 f: Viva hunting for the Tsuchinoko!
+2eb4 f: Viva DIY!
+2ecc f: Viva model kits!
+2ee8 f: Viva completing collections!
+2f04 f: Viva daydreaming!
+2f18 f: Viva eating!
+2f34 f: Viva cooking!
+2f48 f: Viva history!
+2f5c f: Viva helping people!
+2f74 f: Viva stamp collecting!
+2f8c f: Viva fortune-telling!
+2fa0 f: Viva tea ceremony!
+2fb4 f: Viva saving money!
+2fc8 f: Viva fishing!
+2fdc f: Viva trains!
+2ff0 f: Viva studying!
+3004 f: Viva bonsai!
+3018 f: Viva crafts!
+302c f: Viva chatting!
+3048 f: Viva fashion!
+3060 f: Viva cleaning!
+3078 f: Viva dieting!
+3094 f: Viva nail art!
+30b0 f: Viva cats!
+30c4 f: Viva dogs!
+30d8 f: Viva sleeping!
+30f0 f: Viva adventure!
+3104 f: Viva leveling up!
+3120 f: Viva alchemy and smithing!
+313c f: Viva challenge runs!
+3158 f: Viva puff-puff!
+3170 f: Viva metal slime hunting!
+318c f: Viva roulette!
+31a8 f: Viva poker!
+31c0 f: Viva slots!
+31d8 f: Viva solo camping!

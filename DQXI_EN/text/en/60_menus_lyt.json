@@ -351,6 +351,15 @@
   "エレメント系": "Elementals",
   "クリアしたクエストの数⏎": "Quests completed\n",
   "たたく": "Strike",
-  "いいえ": "No"
+  "いいえ": "No",
+  "必要": "Need",
+  "パネル状態：": "Panel status:",
+  "習得済み": "Learned",
+  "消費MP：": "MP cost:",
+  "条件：": "Condition:",
+  "使用ポイント": "Points used",
+  "必要ゴールド：": "Gold needed:",
+  "リセットするスキル": "Skills to reset",
+  "もどるポイント 999P": "Refund 999P"
  }
 }

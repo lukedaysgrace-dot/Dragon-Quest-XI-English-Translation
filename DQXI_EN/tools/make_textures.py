@@ -32,6 +32,26 @@ def main():
                     open(src, 'wb').write(fl['data'])
                     subprocess.check_call([sys.executable, os.path.join(HERE, 'kb_texture.py'), fonts, kb, src, str(page), dst])
                     os.remove(src); n += 1
+    # quest-list status badges (icon_quest_*.bflim) in every ui pack that carries them
+    import glob
+    badge = {'timg/icon_quest_order.bflim': 'Active', 'timg/icon_quest_clear.bflim': 'Clear', 'timg/icon_quest_achievementtga.bflim': 'Done'}
+    for pkf in sorted(glob.glob(os.path.join(romfs, 'ui', '*.pack'))):
+        pk_rel = os.path.relpath(pkf, romfs).replace(os.sep, '/')
+        try: pk = Pack(pkf)
+        except Exception: continue
+        for e in pk.entries:
+            if e['data'][:4] != b'SARC': continue
+            try: fls = Sarc(e['data']).files
+            except Exception: continue
+            for fl in fls:
+                name = fl['name'] or ''
+                if name not in badge: continue
+                dst = os.path.join(out, pk_rel, e['name'], name)
+                os.makedirs(os.path.dirname(dst), exist_ok=True)
+                src = dst + '.orig'
+                open(src, 'wb').write(fl['data'])
+                subprocess.check_call([sys.executable, os.path.join(HERE, 'badge_tex.py'), os.path.join(fonts, '3D12.bffnt'), src, badge[name], dst])
+                os.remove(src); n += 1
     print('textures', n)
 
 if __name__ == '__main__':

@@ -1,0 +1,92 @@
+300|A slime in Rosaly's room asked you to help find materials for a new phantom flute.
+301|Something strange seems to be happening in Rosaly's room. Go check!
+302|The slime asked you to find a magic-infused branch for a new phantom flute. Search the fairies' forest!
+303|You beat the Silver Devil in the Forest of Doubt and got a phantom branch! Take it to the slime in Rosaly's room.
+304|You gave the slime the phantom branch. It's overjoyed that making the flute will bring Rosaly back to health.
+305|You got a phantom branch! Give it to the slime in Rosaly's room.
+306|A dwarf sleeping in the Forest of Doubt asked you to defeat the monster scattering sleeping powder.
+307|A troubled person seems to be in the Forest of Doubt. Go hear them out!
+308|The dwarf wants the monster that put everyone to sleep dealt with. Defeat the flower monster spreading sleeping powder deep in the forest.
+309|You beat the Drowsy Flower that spread sleep pollen! Report to the dwarf at the forest entrance, as the sleepers woke up.
+310|You told the dwarf you beat the Drowsy Flower. He woke safely and is relieved the forest will be peaceful again.
+311|Sancho, ill in Pankraz's house, asked you to find the strongest cold medicine for villagers with a mysterious illness.
+312|A troubled person seems to be in Santa Rose. Go hear them out!
+313|Sancho asked you for the strongest cold medicine. Try Rica's Inn, which can order in anything.
+314|You bought the strongest cold medicine from Roxanne of the World Inn Association! Take it to Sancho in Pankraz's house in Santa Rose.
+315|You gave Sancho the cold medicine from Roxanne. Pankraz and the villagers recovered, and the village is calm again.
+316|Ludman, master of Ludman's mansion, asked you to defeat the monster that cursed everyone into looking like him.
+317|A troubled person seems to be at Ludman's mansion. Go hear them out!
+318|Ludman is troubled by a curse turning all residents into him. Defeat the monster that went to the temple of new lives.
+319|You beat Salman, who cursed Ludman, at Dharma Temple! Report to Ludman at his mansion.
+320|You told Ludman you beat the monster. He then asked for help with a bride-choosing rehearsal for his wedding.
+321|A horse at Pegasus Tower asked you to check on his owner, an old man who climbed the tower and hasn't returned.
+322|Something strange seems to be happening at Pegasus Tower. Go check!
+323|The horse worries about his owner who never came back. Check on the old man on the top floor of Pegasus Tower.
+324|You calmed the Pegasus statue, and it no longer fuses with everything! Go to the tower entrance to get thanks from the horse.
+325|You calmed the Pegasus statue. The horse is glad the old man is back and things went neigh-ly well.
+326|Tania in Lifecod asked you to find something that will expose the fake big brother's true identity.
+327|A troubled person seems to be in Lifecod. Go hear them out!
+328|Tania asked you to find something to expose the fake brother. Ask around at the big inn that has Luida's Bar.
+329|An adventurer on the Unseen Fiend's Path gave you an unmasking herb to expose the fake brother! Report to Tania in Lifecod.
+330|You used the unmasking herb to expose the monster! Defeat the monster posing as the fake brother.
+331|You beat the fake brother. The villagers learned the truth about their idol, canceled the Charisma Festival, and will prepare for the Spirit Festival.
+332|The head of Dharma Temple asked you to find a book that turns the elderly into lively young women.
+333|A troubled person seems to be at Dharma Temple. Go hear them out!
+334|The temple head asked for a book that turns the elderly into lively young women. Check the library in the place where maidens gather in Erdrea.
+335|You got Lively Young Women's White Paper, a class-change book, in the Medal Academy library! Take it to the head of Dharma Temple.
+336|You gave the head of Dharma Temple the class-change book. The elders' long-held dream has finally come true.
+337|A man at the Colorstone Quarry asked you to defeat the monster boss somewhere in the quarry and restore it.
+338|A troubled person seems to be at the Colorstone Quarry. Go hear them out!
+339|The man says something terrible has happened to the colorstones. Defeat the monster boss deep in the Colorstone Quarry.
+340|The quarry's colorstones had become monsters like Bomb Rocks! Beating the boss, Queen Matilda, restored them. Tell the man at the entrance.
+341|Queen Matilda was the female warrior Matilda, controlled by a mysterious monster. She kept her human heart and is relieved to be herself.
+342|The chief at the Yubar rest area asked you to find Kiefer, who left to find a jewel to cure Lyla's illness, and help him.
+343|A troubled person seems to be at the Yubar rest area. Go hear them out!
+344|The chief asked you to find Kiefer, who left to cure Lyla's illness. He went to the Colorstone Quarry.
+345|You rescued Kiefer, lost in the quarry, and beat the monster causing the trouble! Report to the chief at the Yubar rest area.
+346|Thanks to the green jewel Kiefer brought, Lyla fully recovered. Able to dance again, her love with Kiefer deepened.
+347|You rescued Kiefer safely! Tell the chief at the Yubar rest area.
+348|Lyla at the Yubar rest area at night asked for help repairing the Earth Tura.
+349|A troubled person seems to be at the Yubar rest area at night. Go hear them out!
+350|Lyla asked you to bring new strings for her broken Earth Tura. Get a golden mane at the tower where sky-running horses live.
+351|You beat the Flame Hound in Pegasus Tower and got a golden mane! Take it to Lyla at the Yubar rest area at night.
+352|You gave Lyla the golden mane. The Earth Tura was repaired, and its tones returned to the Yubar rest area.
+353|You got a golden mane! Give it to Lyla at the Yubar rest area at night.
+354|Ishmaul in Trodain Castle asked you to bring back the night so those with a mission in the moon world can return home.
+355|Something strange seems to be happening in Trodain Castle. Go check!
+356|Ishmaul asked you to bring back night. Find whoever is blocking it somewhere in Trodain Castle.
+357|You beat the Emperor of Day, who abused Moonrise to keep daytime. At night the Moonshadow Window appears in Trodain's library. Ishmaul thanks you.
+358|Carachi at the Rabbit House asked you to bring a calming item for the raging Killer Panther.
+359|A troubled person seems to be at the Rabbit House. Go hear them out!
+360|Carachi wants an item to calm the Killer Panther. With the hint "Bianca," go look for something calming.
+361|You got a ribbon from Bianca, worried that her old friend the Killer Panther is gone! Take Bianca's ribbon to Carachi at the Rabbit House.
+362|Smelling Bianca's ribbon, the raging Killer Panther remembered where he belongs. Carachi says he went home to the one he loves.
+363|At dusk in the Rabbit House, Arosa asked you to find a book to restore her suddenly clingy daughter Jessica's personality.
+364|A troubled person seems to be at the Rabbit House at dusk. Go hear them out!
+365|Arosa asked for a book to restore Jessica's personality. A personality-changing book also exists in a land called Aliahan.
+366|(None) (Having her read the Tomboy Dictionary completes this.)
+367|After reading the Tomboy Dictionary, Jessica's personality returned. Arosa, always bothered by it, now enjoys her tomboy nature.
+368|A warrior on the Unseen Fiend's Path asked you to go deep in the cave and find out why people who got his treasure maps got angry.
+369|A troubled person seems to be on the Unseen Fiend's Path. Go hear them out!
+370|The warrior wants to know why recipients of his treasure maps got angry. Go deep into the path and resolve whatever is happening.
+371|You beat the Ultra Metal King, who tormented adventurers in revenge! Report to the warrior at the entrance of the path.
+372|You told the warrior it was Ultra Metal King. Saddened, he resolved to keep handing out maps and rival the Metal King.
+373|Luida at Rica's Inn asked you to bring a book on being a king to restore Rica's pride as the Innkeeper King.
+374|A troubled person seems to be at Rica's Inn. Go hear them out!
+375|Luida wants a book on being a king. Her hunch says it's in a land that values chivalry.
+376|You got the book "Those Who Are Kings" in the king's bedroom in Gallopolis! Take it to Luida at Rica's Inn.
+377|Rica remembered that welcoming guests with a smile is an Innkeeper King's pride. Luida is relieved to see her smile and pride return.
+378|Eurek in the Angel Realm seems at a loss over the vanished goddess fruit.
+379|A troubled person seems to be in the Angel Realm. Go hear them out!
+380|Eurek asked you to find the vanished goddess fruit. Sensing it, the words "Unseen Fiend" came to him...
+381|The Endragon in the Unseen Fiend's Path was a slime that ate the goddess fruit. Take the fruit to Eurek in the Angel Realm.
+382|Eurek says the goddess fruit grants its eater's wish. The slime becoming Endragon was due to that power.
+383|A girl in Etene Village asked you to rescue Lord Turtle, who was taken away by a monster.
+384|Someone seems to be waiting for {var:1} in Etene Village. Go hear them out!
+385|The girl asked you to rescue Lord Turtle. Defeat the monster in the other-world castle called Necrogond and bring him back.
+386|You beat the monster in Baramos's castle and brought Lord Turtle home. Seeing Aba's kindness, the girl resolved to keep supporting him.
+387|A youth of Etene Village in the Hall of Gods asked you to defeat the Reincarnation Overlord to wipe out monsters blocking reincarnation.
+388|A troubled person seems to be in the Hall of Gods. Go hear them out!
+389|The youth asked you to defeat the Reincarnation Overlord, who vanished seeking the silver harp, to wipe out the monsters blocking reincarnation.
+390|You beat the Reincarnation Overlord in Garai's town, who brought monsters into the Hall of Gods. Report to the Etene youth in the Hall of Gods.
+391|With the Overlord beaten, the monsters vanished. The Etene folk can reincarnate and vowed to fulfill their missions with their new lives.

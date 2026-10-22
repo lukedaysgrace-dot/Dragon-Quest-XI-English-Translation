@@ -1,0 +1,86 @@
+1|Defense +{var:8}
+2|Raises\nDefense
+3|Strength +{var:8}
+4|Raises\nStrength
+5|Deftness +{var:8}
+6|Raises\nDeftness
+7|Agility +{var:8}
+8|Raises\nAgility
+9|Zone Entry +{var:8}%
+10|Makes it easier\nto enter the zone
+11|Heal Magic +{var:8}
+12|Raises\nHeal Magic
+13|Charm +{var:8}
+14|Raises\nCharm
+15|Max HP +{var:8}
+16|Raises\nMax HP
+17|Atk Magic +{var:8}
+18|Raises\nAtk Magic
+19|Zone Boost
+20|Further raises\nabilities when\nin the zone
+21|Max MP +{var:8}
+22|Raises\nMax MP
+23|Attack +{var:8}
+24|Raises Attack\nwhen {var:5}\nis equipped
+25|Crit +{var:8}%
+26|Makes critical hits\nmore likely when\nattacking with {var:5}
+27|Guard Counter
+28|Lets you counter\nafter a successful\nguard
+29|Crit +{var:8}%
+30|Makes critical hits\nmore likely\nat all times
+31|Dual Wield
+32|Lets you fight\nwith a weapon\nin your left hand too
+33|Lets you fight\nwith a weapon\nin your right hand too
+34|Status Success+
+35|Raises status\nsuccess rate with\ndaggers equipped
+36|Accuracy +{var:8}%
+37|Makes attacks\neasier to land with\n{var:5}
+38|Dodge +{var:8}%
+39|Makes enemy\nattacks easier\nto dodge
+40|Steal Rate+
+41|Raises the\nsuccess rate\nof stealing items
+42|Dual Mastery
+43|Attacks with equal\npower from either\nhand when dual-wielding
+44|Ice/Wind Res +20%
+45|Raises resistance\nto ice and wind
+46|Fire/Earth Res +20%
+47|Raises resistance\nto fire and earth
+48|MP Drain +{var:8}%
+49|Raises MP drained\nwhen attacking\nwith {var:5}
+50|MP Regen: Minor
+51|Restores 1-2 MP\nafter a victory with\na two-handed staff
+52|Atk Magic +{var:8}
+53|Raises Atk Magic\nwhen {var:5}\nis equipped
+54|Max MP +{var:8}
+55|Raises Max MP\nwhen {var:5}\nis equipped
+56|Light/Lightning Res +20%
+57|Raises resistance\nto light and lightning
+58|MP Regen: Medium
+59|Restores 3-5 MP\nafter a victory with\na two-handed staff
+60|Drains MP when\nattacking with\na whip
+61|Echo
+62|Sometimes casts a\nspell twice in a row
+63|Heal Magic +{var:8}
+64|Raises Heal Magic\nwhen {var:5}\nis equipped
+65|Restores 1-2 MP\nafter a victory with\na stick
+66|Wpn Guard +{var:8}%
+67|Makes weapon guard\nmore likely when\n{var:5} equipped
+68|Restores 3-5 MP\nafter a victory with\na stick
+69|Melody Boost
+70|Raises the effect\nof melody skills
+71|Restores 1-2 MP\nafter a victory
+72|Cover
+73|Reduces damage\ntaken while\ncovering
+74|Cover+
+75|Lets you counter\nafter a successful\ncover
+76|Dodge +{var:8}%
+77|Makes enemy attacks\neasier to dodge\nwith {var:5} equipped
+78|Drains MP when\nattacking with\nclaws
+79|HP Drain +{var:8}%
+80|Drains HP when\nattacking with\nclaws
+81|Shld Guard +{var:8}%
+82|Makes shield guard\nmore likely when\n{var:5} equipped
+83|Defense +{var:8}
+84|Raises Defense\nwhen {var:5}\nis equipped
+85|Bodyguard
+86|Reduces damage\ntaken while\nbodyguarding

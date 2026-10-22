@@ -1,0 +1,70 @@
+0|At a blacksmith's request, you made a gold ring with the Fun-Sized Forge and handed it over. The forge seems able to craft and improve items.
+1|A priest in Champs Sauvages asked you to lay to rest an Undead Man born of grief over a lost homeland.
+2|A troubled priest seems to be near the pier by Warrior's Rest Inn in Champs Sauvages. Go hear him out!
+3|You were asked to beat the Undead Man in the Champs Sauvages ruins at night with Holy Prayer, usable when you and Serena are in the zone.
+4|You defeated the Undead Man with Holy Prayer! Report to the traveling priest near the pier by Warrior's Rest Inn in Champs Sauvages.
+5|You reported beating the Undead Man with Holy Prayer. Souls that can't return to Yggdrasil are turning into monsters everywhere.
+6|You beat the Undead Man with Holy Prayer! Report to the traveling priest near the pier by Warrior's Rest Inn.
+7|A fighter in Octagonia asked you to get slick aloe for a skin-care juice, found near the camp in western Dundrasil.
+8|A troubled fighter seems to be southwest of the residential area in Octagonia. Go hear him out!
+9|A fighter in Octagonia asked for slick aloe. Look for a gathering spot near the camp in western Dundrasil and use a sickle to get it.
+10|You got slick aloe! Take it to the skin-care-worried fighter southwest of Octagonia's residential area.
+11|You delivered slick aloe to the fighter in Octagonia. His skin should regain its glow, and he seems delighted.
+12|{var:1} got slick aloe! Give it to the man who cares about his skin, southwest of Octagonia's residential area.
+13|A boy in Octagonia asked you to help find the phantom fighter Delgins and get his autograph.
+14|A troubled child seems to be at the Octagonia orphanage. Go hear him out!
+15|A boy in Octagonia asked you to help find phantom fighter Delgins and get his autograph. Delgins is somewhere in Octagonia.
+16|You found phantom fighter Delgins and got his autograph! Take it to the autograph-loving boy at the Octagonia orphanage.
+17|You gave the autograph to the boy. The phantom fighter was so unnoticeable even opponents missed him, but the boy is now a fan.
+18|You completed the quest "Bunny Once More"!
+19|A wandering cook in Phnom Nonh asked you for rainbow rock salt to inspire a new dish.
+20|A troubled cook seems to be near the church in Phnom Nonh. Go hear him out!
+21|A wandering cook in Phnom Nonh asked for the legendary seasoning, rainbow rock salt. It can be found in the Spirit Water Cave in Laguna di Gondolia.
+22|You got rainbow rock salt! Take it to the wandering cook near the church in Phnom Nonh.
+23|You gave rainbow rock salt to the wandering cook in Phnom Nonh. Its complex flavor was a good spark for him.
+24|{var:1} got rainbow rock salt! Give it to the wandering cook near the church in Phnom Nonh.
+25|An old man in Phnom Nonh asked you to defeat a Killer Umbrella and get sturdy cloth for a lantern that never goes out.
+26|A troubled old man seems to be near the church in Phnom Nonh. Go hear him out!
+27|An old man in Phnom Nonh asked for sturdy cloth. Defeat a Killer Umbrella, which only appears in the rain, south of Medalberg.
+28|You defeated the Killer Umbrella and got sturdy cloth! Take it to the old man near the church in Phnom Nonh.
+29|You gave the old man sturdy cloth from the Killer Umbrella. He swore never to let his lantern light go out.
+30|You got sturdy cloth! Take it to the lantern-loving old man near the church in Phnom Nonh.
+31|Teacher Grace at Medal Academy asked you to investigate a strange message in a graduate's old diary.
+32|A troubled teacher seems to be in the Medal Academy cafeteria. Go hear her out!
+33|Teacher Grace asked you to investigate a mysterious message in an old diary. Follow the graduate's diary and search the Medal Academy grounds.
+34|You found a memory gift buried in the Medal Academy grounds! Take it to Teacher Grace in the cafeteria.
+35|You gave Teacher Grace the memory gift buried in the grounds. Recalling youth with a friend she lost touch with cleared her heart.
+36|Donna at Medal Academy asked you to make a fine whip as a new teaching rod so she can keep order as a delinquent leader.
+37|A troubled student seems to be under the swing tree at Medal Academy. Go hear her out!
+38|Donna asked for a fine whip to use as a teaching rod. Use the Fun-Sized Forge to make a Delinquent's Whip +1 or better.
+39|You made and gave Donna a Delinquent's Whip. She's thrilled she can keep order as a delinquent leader.
+40|You completed the quest "My Way of Keeping Order"!
+41|Bridget at Medal Academy asked you to hear a deep worry she can't tell any friend.
+42|A troubled student seems to be in a dorm room at Medal Academy. Go hear her out!
+43|Bridget asked you to read the newspaper posted in the 2nd-floor corridor. If you can't find it, ask Maple the mallet monster.
+44|You read the Medal Academy newspaper that blew into Roc's Ravine! Tell Bridget in the dorm what it said.
+45|You told Bridget what Teacher Rouge's answer in the paper said. The person Bridget loves turned out to be {var:1}.
+46|You read the Medal Academy newspaper blown by the wind! Tell Bridget of the Lips in the dorm.
+47|Chico at Medal Academy asked if you want a riddle contest.
+48|A bored student seems to be in the Medal Academy library. Talk to her if you see her!
+49|Chico asked for a riddle contest. Equip the weapons that answer the riddles and talk to Chico in the library.
+50|You solved all of Chico's riddles. Having lost the great riddle battle, Chico vowed to sharpen her riddles.
+51|You completed the quest "The Great Riddle Contest"!
+52|An old man in Lonalulu asked you to defeat an Ogre Club with a certain pep power on a nameless island far to the west by ship.
+53|A retired old man seems to be south of the tavern in Lonalulu. Go hear him out!
+54|The old man asked you to beat an Ogre Club on a nameless island far west of Lonalulu with the pep power Youthful Days. It needs a certain skill.
+55|You defeated the Ogre Club with the pep power Youthful Days! Report to the calm old man south of the tavern in Lonalulu.
+56|You reported to the old man in Lonalulu that you beat the Ogre Club with Youthful Days. {var:1} grew up a little.
+57|You beat the Ogre Club with Youthful Days! Report to the calm old man south of the tavern in Lonalulu.
+58|A fisherman in Lonalulu asked you to help him find something he lost.
+59|A troubled fisherman seems to be on the beach south of the well in Lonalulu. Go hear him out!
+60|A fisherman in Lonalulu asked you to find his wooden goddess statue. Search the deserted island north of Lonalulu where he last stopped!
+61|You found the fisherman's wooden goddess statue! Take it to him on the beach south of the well in Lonalulu.
+62|You gave the fisherman his statue. He admitted he's uneasy without it and wants to grow independent.
+63|{var:1} got the wooden goddess statue! Give it to the fisherman on the Lonalulu shore.
+64|A mermaid in the undersea kingdom Nautica asked you to let her hear the longed-for song humans sang just once more.
+65|A troubled mermaid seems to be in front of the palace in Nautica. Go hear her out!
+66|A former sailor taught you a cheerful song the mermaid longed for. Tell the song-loving mermaid in front of Nautica's palace.
+67|You sang the cheerful song the old man taught you to the mermaid in Nautica. She was delighted to hear her longed-for song once more.
+68|A young man in Sniflheim's lower town asked you to pick the rare snow moon bloom for the witch Lizzlette, from the Frozen Lake in Snaerfelt.
+69|A troubled young man seems to be near the tavern in Sniflheim's lower town. Go hear him out!

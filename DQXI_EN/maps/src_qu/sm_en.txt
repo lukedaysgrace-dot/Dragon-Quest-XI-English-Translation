@@ -1,0 +1,137 @@
+{var:1} searched the ground!
+But found nothing...
+{var:1} leaned over\nCetacea's side to look at the land!
+{var:1} gazed hard at the water!
+There's no one to talk to right now.
+You can't talk with your companions right now.
+There are traces of a campfire.\nYou could camp here.\nMake camp?
+Stop camping and\nresume your adventure?
+{var:1} peered into the well.
+The door is locked!
+You opened the door with {var:5}.
+You unlocked it from the inside!
+You got {var:5}!
+You got {var:8} {var:5}!
+You got {var:5} and {var:6}!
+You got {var:5}, {var:6},\nand {var:7}!
+You got {var:9} gold!
+{var:1} got {var:8}\ncasino coins!
+The chest was empty...
+It's locked and won't open!
+The slot machine doesn't seem to work anymore.
+You found nothing in particular.
+{var:1} examined {var:5}.
+{var:1} bumped their\nhead on the ceiling.
+You can't get off here.
+There's {var:5}.\nWant to play?
+Use the Fun-Sized Forge?
+The Fun-Sized Forge set is glowing.\nNow might be a good time to\nsharpen your craftsmanship.
+"Shall we set sail?"
+{var:1} read the signboard.
+But this is the back side!
+This looks like a good place to rest.\nRest here?
+Oh my! {var:8} was\n{var:9}!
+You can now ride the {var:5}!
+An egg-shaped ride with big feet.\nIt seems it can jump high.
+A flying ride that can catch air currents.
+A ride with a big horn.\nIt could ram and break things.
+Summon Cetacea?
+{var:8} Get off?
+Get off the ship?
+You accepted the quest\n"{var:5}".
+{var:1} handed over\n{var:6}!
+{var:1} got\n{var:7}!
+{var:1} got\n{var:8} {var:7}!
+{var:1} got\n{var:8} {var:7}!
+{var:1} got\n{var:9} gold!
+You completed the quest\n"{var:5}"!
+{var:1} examined the bookshelf.
+There don't seem to be any unusual books.
+Draconian Quest is active, so you'll return to the title.
+There's a pillar of light rising from the sea.\nPlay the mermaid harp?
+Jump down from here?
+You can't jump down while riding.
+A voice comes from somewhere...
+{var:1} and party's HP and MP\nwere fully restored!
+{var:1}'s HP and MP\nwere fully restored!
+{var:1} tried to speak to\nthe person ahead.\nBut...
+You're so nervous you're trembling...\nYou might wet yourself...\n...Too embarrassed to speak!
+You can't think of an opening line...\n...Too embarrassed to speak!
+What if casual chatter bothers them?\nThey might think you're flaky...\n...Too embarrassed to speak!
+They might be busy right now.\nHow to start...\n...Too embarrassed to speak!
+You can't meet their eyes.\nWhere should you look...\n...Too embarrassed to speak!
+You got carried away and farted!\n...Too embarrassed to speak!
+Your voice cracked into a\nstrangely high pitch!\n...Too embarrassed to speak!
+I don't have that kind of courage...!\n...Too embarrassed to speak!
+What if your first word comes out\nas a stammer...\n...Too embarrassed to speak!
+You suddenly remembered falling off\na horse in front of Gemma as a kid...\n...Too embarrassed to speak!
+You feel like they laughed at your hair.\nIs it really that weird...\n...Too embarrassed to speak!
+A silly pun popped into your head\nand you laughed.\n...Too embarrassed to speak!
+You suddenly developed a fear\nof talking to people!\n...Too embarrassed to speak!
+You were cursed with embarrassment\nand can't say anything!\n...Too embarrassed to speak!
+You almost called them\n"Mom" by mistake...\n...Too embarrassed to speak!
+What am I supposed to do...!\nTalk to them? What do I do...!\n...Too embarrassed to speak!
+They look like a character from a book\nyou read as a kid. Your heart pounds...\n...Too embarrassed to speak!
+Eek! No, I can't!\nTalking to them? Impossible!\n...Too embarrassed to speak!
+Grumble rumble~~~...\nYour stomach suddenly roars!\n...Too embarrassed to speak!
+You remembered nearly crying after\nlosing a fight to Luca.\n...Too embarrassed to speak!
+They look like your childhood crush,\nand your heart flutters...\n...Too embarrassed to speak!
+Eek! Don't look at me like that!\n...Too embarrassed to speak!
+Like, talking to people?\nI really can't, okay...!\n...Too embarrassed to speak!
+What a charming person.\nYour heart is racing...\n...Too embarrassed to speak!
+You met their eyes and awkwardly\nlooked away...\n...Too embarrassed to speak!
+You remembered your prized silky hair\nhad bedhead today...\n...Too embarrassed to speak!
+How would you keep talking after that?\nWhat if they think you're boring...\n...Too embarrassed to speak!
+You think they laughed at you.\nIs something on your face...\n...Too embarrassed to speak!
+You haven't talked to anyone in a while\nand your mouth is dry...\n...Too embarrassed to speak!
+Your mind went blank and you forgot\nthe topic you prepared!\n...Too embarrassed to speak!
+You remembered your eyes were puffy today\nand you look awful.\n...Too embarrassed to speak!
+You feel like you smell of horses.\n...Too embarrassed to speak!
+A vivid memory of wetting the bed\nas a kid suddenly returns...\n...Too embarrassed to speak!
+You suddenly remembered practicing\nyour autograph as a kid...\n...Too embarrassed to speak!
+You worry your breath might smell...\n...Too embarrassed to speak!
+Maybe you stared too hard.\nThey must think you're strange...\n...Too embarrassed to speak!
+What if they think you're hitting on them...\n...Too embarrassed to speak!
+What if you talk with no topic\nand they ignore you...\n...Too embarrassed to speak!
+You noticed food crumbs stuck\nat the corner of your mouth...\n...Too embarrassed to speak!
+There's horse dung on the bottom\nof your shoe...\n...Too embarrassed to speak!
+You tried to smile, but it came out\nas a twitchy grin...\n...Too embarrassed to speak!
+Headmaster Medal
+"Welcome to the Royal\n Medal Academy!
+"If you bring me small medals scattered\n across the world, I'll stamp your\n Medal Stamp Book for each one.
+"As stamps pile up, I'll give you\n splendid prizes by their number!
+"For {var:1}, who completed the\n stamp book, I'll trade splendid\n prizes for small medals!
+"You now have {var:8} small medals.\n Then I shall stamp them.
+"...Hm? {var:1}, you don't\n have any small medals.
+"Without medals, I can't stamp.\n Come back when you find\n some small medals.
+"...Sorry to keep you waiting!\n The last page, page 4, of the\n stamp book is ready at last!
+"The prizes you can trade for on this page\n are wonderful, so look forward to them.
+"...Oh? {var:1}, you've already\n completed through page 3.
+"Sadly, the next page isn't ready yet,\n so I can only stamp up to here for now.
+"But everyone at the academy is\n working hard to prepare it.\n Please look forward to it!
+Badge
+"Welcome!\n This is a Medal exchange branch run by\n the Royal Medal Academy.
+"If you bring me small medals scattered\n across the world, I'll stamp your\n Medal Stamp Book for each one.
+"As stamps pile up, I'll give you\n splendid prizes by their number!
+"...Oh, {var:1}.\n You already have a Medal Stamp Book.\n How impressive.
+"...Oh, {var:1}, you don't have\n a Medal Stamp Book yet.\n Please take this.
+{var:1} got\na Medal Stamp Book!
+"From now on, bring small medals here\n and I'll stamp your book for each one.
+"You'll get splendid prizes by your\n stamp count, so do collect small medals!
+"...But {var:1}, you've already\n completed page 1.
+"I'm sorry, but this branch can only\n stamp up to page 1.
+"For page 2 and later, ask Headmaster\n Medal at the Royal Medal Academy,\n our headquarters.
+"You now have {var:8} small medals.\n Then I shall stamp them.
+"...{var:1}, you don't\n have any small medals.
+"Without medals, I can't stamp.\n Come back when you find\n some small medals.
+{var:1} held a hand to the\nroot of Yggdrasil!\n{var:1}'s hand began to glow!
+{var:1} held a hand to the root!\n{var:1}'s hand began to glow!
+{var:1} held a hand to the sapling!\n{var:1}'s hand began to glow!
+{var:1} held a hand to the Tree of Guidance!\n{var:1}'s hand began to glow!
+{var:1} peered into the pot.
+Wow!\nYou found {var:5}!
+{var:1} peered into the barrel.
+{var:102}Draconian challenge\n"{var:8}" completed!{var:100}
+{var:102}Challenges: {var:8},\n{var:9} completed!{var:100}
+{var:102}Challenges: {var:8},\n{var:9}, {var:10} completed!{var:100}
+{var:102}Challenges: {var:8},\n{var:9}, {var:10},\n{var:11} completed!{var:100}

@@ -1,0 +1,179 @@
+Poison on hit
+Toxic poison on hit
+Paralysis on hit
+Sleep on hit
+Confusion on hit
+Spell seal on hit
+Skill seal on hit
+Dazzle on hit
+Charm on hit
+Instant death on hit
+Sap on hit
+Enervate on hit
+Ends pep on hit
+Removes buffs on hit
+Deceleratle on hit
+Entrance on hit
+Frighten on hit
+Stops time on hit
+Heavy Enervate on hit
+Flinch dragons on hit
+Charm nature on hit
+Charm beasts on hit
+Charm humanoids on hit
+Charm birds on hit
+Charm slimes on hit
+Charm demons on hit
+Angel's guard at start
+Saint's guard at start
+Oomph at start
+Oomphle at start
+Sparkle at start
+Sometimes drains MP from spells
+Mystic insight at start
+Restores HP on hit
+Surprise attack chance
+Chance to use no MP
+Fire damage reduction
+Ice damage reduction
+Wind damage reduction
+Lightning damage reduction
+Earth damage reduction
+Light damage reduction
+Dark damage reduction
+All elemental damage reduction
+Breath damage reduction
+Fire/ice resist
+Wind/lightning resist
+Earth/dark resist
+Fire/ice/wind/lightning resist
+Earth/dark/light resist
+Poison/toxic guard
+Toxic guard
+Paralysis guard
+Sleep guard
+Confusion guard
+Spell seal guard
+Skill seal guard
+Dazzle guard
+Charm guard
+Instant death guard
+Curse guard
+MP damage reduction
+Lost-turn guard
+Sleep/confusion guard
+Poison/toxic/dazzle guard
+Paralysis/lost-turn guard
+Death/spell seal guard
+Curse/charm guard
+Sometimes Bounce
+Restores MP after victory
+Attacks twice
+Fixed 1 damage
+Equal damage to all
++1 damage to metal monsters
+Easier for enemies to target you
+Harder for enemies to target you
+Ignores enemy guard
+Reflects physical attacks
+Restores HP as you move
+Restores MP as you move
+Damages you as you move
+Gains EXP as you move
+Treasure find rate
+Higher encounter rate
+Damage to slimes
+Damage to beasts
+Damage to dragons
+Damage to demons
+Damage to materials
+Damage to zombies
+Damage to elementals
+Damage to nature
+Damage to birds
+Damage to machines
+Damage to humanoids
+Damage to zombies/elementals
+Drains MP from slimes
+Drains MP from beasts
+Drains MP from dragons
+Drains MP from demons
+Drains MP from materials
+Drains MP from zombies
+Drains MP from elementals
+Drains MP from nature
+Drains MP from birds
+Drains MP from machines
+Charm nature on hit
+Higher spell runaway rate
+Reduces damage taken
+Easier to meet reborn monsters
+Higher steal success rate
+Restores HP equal to damage dealt
+Changes your look when equipped
+Changes look with Luminary's helmet
+Changes look with Luminary's tunic
+Changes look with Dundrasil helmet
+Changes look with Dundrasil armour
+Changes look with Irwin's helmet
+Changes look with Irwin's armour
+Changes look with Thief's turban
+Changes look with Thief's cape
+Changes look with Thief king turban
+Changes look with Thief king's cape
+Changes look with Great pirate hat
+Changes look with Great pirate coat
+Changes look with Pirate king's hat
+Changes look with Pirate king's coat
+Changes look with Saint's tiara
+Changes look with Saint's dress
+Changes look with Athena's crown
+Changes look with Athena's robe
+Changes look with Lovely band
+Changes look with Lovely apron
+Changes look with Sage's circlet
+Changes look with Sage's robe
+Changes look with Party corsage
+Changes look with Party girl outfit
+Changes look with Cat hood
+Changes look with Cat suit
+Changes look with Pretty cap
+Changes look with Pretty apron
+Changes look with Eternal hat
+Changes look with Eternal vestment
+Changes look with Black cat hood
+Changes look with Black cat suit
+Changes look with Bunny ears
+Changes look with Bunny suit
+Changes look with Fishnet tights
+Changes look with War princess tiara
+Changes look with War dress
+Changes look with Minerva tiara
+Changes look with Minerva dress
+Changes look with Dragon hairpin
+Changes look with Divine dragon gi
+Changes look with Handsome scarf
+Changes look with Handsome suit
+Changes look with Charisma scarf
+Changes look with Charisma suit
+Changes look with Très bien crown
+Changes look with Très bien suit
+Changes look with Étoile crown
+Changes look with Étoile suit
+Changes look with Sun crown
+Changes look with Royal cape
+Changes look with Apollo crown
+Changes look with Zeus cape
+Changes look with Dundrasil crown
+Changes look with Dundrasil cape
+Changes look with Tree crown
+Changes look with Cape of the Tree
+Changes look with General's boots
+Changes look with General's cape
+Changes look with Marshal boots
+Changes look with Marshal cape
+Changes look with Hero-king helm
+Changes look with Hero-king armour
+Set with Bunny ears and Bunny suit
+Set with Bunny ears and Fishnet tights
+Set with Bunny suit and Fishnet tights

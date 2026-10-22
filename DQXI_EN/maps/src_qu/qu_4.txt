@@ -1,0 +1,85 @@
+215|You read all three seal books of the legendary wizard Uranos in the Ancient Library! Report their contents to the monk in front of the inn in Angri-La.
+216|You told the monk the contents of the three seal books. Having mastered Uranos's spell secrets, Rab's magic power grew greatly.
+217|Rab's magic power rises
+218|A harp maker in Havens Above asked you to get mystic amethyst for new strings, which will raise Serena's healing power.
+219|A dedicated harp maker seems to be in front of the general store in Havens Above. Go hear him out!
+220|The harp maker asked for mystic amethyst. Defeat the Amethyst Worm behind the door opened by the Last Key on the Ancient Battlefield.
+221|You beat the Amethyst Worm and got mystic amethyst! Take it to the harp maker in front of the general store in Havens Above.
+222|You gave the harp maker mystic amethyst. Strings made from it were put on Serena's harp, giving it healing power.
+223|You got mystic amethyst! Take it to the harp maker in front of the general store in Havens Above.
+224|Serena's recovery magic rises
+225|A divine-folk man asked you to find Nelsen's secret scrolls, a warrior's scripture that can raise Hendrik's Thoughtless Strike.
+226|A divine-folk man who knows the warrior Nelsen seems to be outside the inn in Havens Above. Go hear him out!
+227|You were asked to find four secret scrolls Nelsen wrote. They're on bookshelves in or near Gallopolis, Sniflheim, Puwachat, or Heliodor.
+228|You read all four of the warrior Nelsen's secret scrolls! Report to the divine-folk man outside the inn in Havens Above.
+229|You told the man what Nelsen's scrolls said. Hendrik read them and learned their secrets, powering up his Thoughtless Strike.
+230|You read all four of Nelsen's secret scrolls. Report their contents to the divine-folk man outside the inn in Havens Above.
+231|Hendrik's Thoughtless Strike is strengthened
+232|A divine-folk man asked you to find a bangle for the Luminary Erdwin's statue to match the sage Serenica's.
+233|A divine-folk man lost in thought seems to be near the past Luminary's statue in Havens Above. Go hear him out!
+234|The man asked for Erdwin's bangle. It seems to be kept in the underground labyrinth of Champs Sauvages, the land Nelsen founded.
+235|You got Erdwin's bangle, a match for Serenica's! Take it to the divine-folk man near the past Luminary's statue in Havens Above.
+236|You gave the man Erdwin's bangle. With Serenica's and Erdwin's bangles together, Erdwin's power passed on to {var:1}!
+237|{var:1} got Erdwin's bangle! Take it to the divine-folk man near the past Luminary's statue in Havens Above.
+238|The Luminary's sword techniques, such as Earth Slash, are strengthened
+239|(Text not set)
+240|Be kind to everyone (New Game+)
+241|(None)
+242|A man in Domdora asked you to defeat the Demon Knight that has raised the dead and rules the town.
+243|A troubled person seems to be in Domdora. Go hear them out!
+244|The man asked you to defeat the Demon Knight ruling the town. It appears behind the weapon shop southeast of town.
+245|With the Demon Knight beaten, Domdora's people are back to peaceful sleep. Report to the man at the town entrance.
+246|With the Demon Knight beaten, Domdora's people sleep in peace. The man named himself the bard Garai and faded away, speaking of the past.
+247|You completed the quest. Report to the client.
+248|Princess Lora in Tantegel Castle asked you for the rainbow nectar to cure the king's lost voice.
+249|A troubled person seems to be in Tantegel Castle. Go hear her out!
+250|Princess Lora asked you to find rainbow nectar to cure the king's throat. It's said only one who brought true peace to the world can get it...
+251|After true peace came to the world, you got rainbow nectar from the Yotch at Yotch Village. Take it to Princess Lora in Tantegel Castle.
+252|With his voice back, the King of Tantegel can fulfill his important duty of telling the revival spell. In thanks, he told you the spell.
+253|A grave keeper in Garai's town asked you to defeat the monster that took the silver harp.
+254|A troubled person seems to be in Garai's town. Go hear them out!
+255|The grave keeper asked you to defeat the monster that took the silver harp. Find the monster hiding somewhere in Garai's town!
+256|You beat the monster lurking in Garai's town and got the silver harp back! Report to the grave keeper at the town entrance.
+257|With the silver harp back, monsters stopped appearing and evacuees returned. The old man is relieved to have Garai's keepsake back.
+258|A soldier asked you to defeat the monster wandering as Erdrick's Armor with three treasures, and return them to their places.
+259|A troubled person seems to be in the cave to Rhondarkia. Go hear them out!
+260|The cave's treasures are wandering as the monster Restless Erdrick Armor. Defeat it and recover the three treasures!
+261|With the Restless Erdrick Armor beaten, the treasures returned to their places. Report to the soldier at the cave entrance.
+262|With the Restless Erdrick Armor beaten, the treasures returned. The soldier is relieved that the heroes of this era can continue their journey.
+263|The king of Cannock Castle asked you to find the missing prince and bring him back.
+264|A troubled person seems to be in Cannock Castle. Go hear them out!
+265|The king of Cannock asked you to find the missing prince, who may be searching for the Midenhall prince and Moonbrooke princess.
+266|Kiefer at the Yubar rest area said that on learning Kiefer was a prince of another land, the prince went to Padequia Cave to find the princess.
+267|Alena in Padequia Cave said the prince, learning she was a princess of another land, sniffed out royalty and headed to Santa Rose.
+268|Following the prince, you asked about Pankraz. Someone like him came, but on learning that wasn't who he sought, he left to search this world.
+269|You found Cannock's prince wandering the Forest of Doubt and sent him back to his world! Go report to the king in Cannock Castle.
+270|Thanks to {var:1}'s Luminary power, Cannock's prince got back to his world safely. The king is relieved, and the prince can set out again.
+271|The Princess of Moonbrooke in Moonbrooke Town asked you to bring holy water to save townsfolk cursed to become dogs.
+272|Something strange seems to be happening in Moonbrooke Town. Go check!
+273|The Princess of Moonbrooke asked you to bring holy water to lift the townsfolk's curse. Give it to her when you have it.
+274|The Princess of Moonbrooke tried to lift the curse but couldn't fully. To save the townsfolk, she took it on and became a dog again.
+275|King Portoga in Baramos's Castle asked for your help to stop the demon lord Baramos's revival.
+276|A troubled person seems to be in Baramos's Castle. Go hear them out!
+277|King Portoga asked you to stop the demon lord Baramos's revival. Defeat the monster boss trying to revive him!
+278|You beat the High Priest performing the revival ritual in Baramos's old chamber! Report to King Portoga at the castle entrance.
+279|With the High Priest beaten, Baramos's revival was stopped. King Portoga is relieved that the fallen people of Necrogond can sleep in peace.
+280|King Portoga in Baramos's Castle asked again for your help to defeat the revived demon lord Baramos.
+281|Once again, someone in Baramos's Castle seems troubled. Go hear them out!
+282|King Portoga asked you to defeat the revived demon lord Baramos, in the chamber where the ritual was held.
+283|You defeated the demon lord Baramos in the ritual chamber! Report to King Portoga at the castle entrance.
+284|You beat the revived Baramos. King Portoga is deeply grateful that the people of Necrogond can finally sleep in peace.
+285|A woman at the Luminary's childhood home asked you to get angel's smelling salts to bring the townsfolk to their senses.
+286|A troubled person seems to be at the Luminary's childhood home. Go hear them out!
+287|The woman asked for angel's smelling salts to restore the townsfolk. They're said to be where angels live.
+288|You got angel's smelling salts from Raviel in the Angel Realm! Give them to the woman at the Luminary's childhood home.
+289|When you gave the salts, a soldier revealed his monster form. After you beat him, the people recovered and blessed Ortega's marriage.
+290|An adventurer in Padequia Cave asked you to defeat the monster heating the cave.
+291|A troubled person seems to be in Padequia Cave. Go hear them out!
+292|Adventurers came to Padequia Cave for padequia seeds but the heat blocks them. Defeat the flame-bearing monster heating the cave!
+293|You beat the Flame Warrior and the cave cooled! Report to the adventurer on B2F of Padequia Cave.
+294|You beat the Flame Warrior and the cave cooled. The adventurers happily went deeper to look for the seeds again.
+295|The cave cooled! Report to the adventurer on B2F of Padequia Cave who seeks padequia seeds.
+296|Cynthia of the mountain village asked for your help to return from her slime form.
+297|Something strange seems to be happening in the mountain village. Go check!
+298|Cynthia asked you to restore her from slime form. Make an Archsage staff at the Fun-Sized Forge and give it to her.
+299|The Archsage staff's power undid Cynthia's Transform and she returned to her true form. She hopes her Transform will someday prove useful.

@@ -1,0 +1,75 @@
+140|A boy asked you to help the mermaid. Get wet kelp on the deserted island south of Sniflheim and give it to the mermaid waiting in Lonalulu.
+141|You gave the wet kelp to the mermaid! Report to the boy on the Lonalulu beach.
+142|You gave the mermaid wet kelp as the boy asked. Her beautiful voice returned, and the boy seems charmed by her singing.
+143|The mermaid's voice is back! Talk to the boy who helped her nearby!
+144|A fisherman in Lonalulu asked you to defeat a Kraken and get a giant dried squid to pray for a good catch.
+145|A troubled fisherman seems to be by the well in Lonalulu. Go hear him out!
+146|The fisherman asked for an offering. Beat a Kraken with Blast Slash off the island east of Champs Sauvages for a giant dried squid.
+147|You got a giant dried squid! Take it to the fisherman by the well in Lonalulu.
+148|You delivered the giant dried squid, an offering to the sea god. The sea god should be satisfied and the fish will return.
+149|An astronomer in Gallopolis asked you to get a giant star shard for his research on the Luminary's star.
+150|A troubled astronomer seems to be near the paddock in Gallopolis. Go hear him out!
+151|The astronomer asked for a giant star shard. Search the desert north of Gallopolis and get one!
+152|You got a giant star shard! Give it to the astronomer on the walkway above the paddock in Gallopolis.
+153|You gave the astronomer the giant star shard. It bears ancient writing meaning "entrusted to people of the distant future."
+154|{var:1} got a giant star shard! Give it to the astronomer on the walkway above the paddock in Gallopolis.
+155|A bard at Warrior's Rest Inn asked you to find the sheet music for his new song, which he lost.
+156|A troubled bard seems to be at Warrior's Rest Inn in Champs Sauvages. Go hear him out!
+157|The bard asked you to find his lost sheet music. It seems to be in a mountain hut in Dundrasil.
+158|You found the bard's sheet music in the mountain hut! Take it to the bard at Warrior's Rest Inn in Champs Sauvages.
+159|You delivered the sheet music. The bard believes in the Luminary as hope and wants his song to echo that across the world.
+160|{var:1} got the bard's sheet music! Give it to the bard at Warrior's Rest Inn in Champs Sauvages.
+161|A girl in Phnom Nonh asked you to defeat Dongaradon, which disturbs her sleep, with the performer pep power Death Dream.
+162|A troubled girl seems to be at the inn in Phnom Nonh. Go hear her out!
+163|The girl asked you to defeat Dongaradon outside Phnom Nonh with Death Dream. It works by combining Hypnos Hunt and Snooze.
+164|You beat Dongaradon with the pep power Death Dream! Report to the girl sleeping at the inn in Phnom Nonh.
+165|You reported beating Dongaradon with Death Dream. The girl is delighted to finally sleep well.
+166|You beat Dongaradon! Report to the girl sleeping at the inn in Phnom Nonh.
+167|Besim in Octagonia said if you want the item the orphanage girl requested, win a game against him.
+168|The rich man Besim, who has the item the orphanage girl Keirona wanted, seems to be on the casino's 3rd floor in Octagonia. Go talk to him!
+169|Besim told you to hit the jackpot! Any roulette table will do.
+170|You hit the jackpot on roulette! Report to Besim by the roulette table on the casino's 3rd floor in Octagonia.
+171|You beat Besim by hitting the jackpot. His men will deliver the promised golden Vince statue to the orphanage later.
+172|You hit the jackpot! Report to Besim, seated at the roulette table in the casino.
+173|The director in Nautica asked you to fetch a human tool seen on the surface to display as a rare surface item.
+174|A troubled sea turtle seems to be in the National Museum of Nautica. Go hear him out!
+175|The director asked for a tool like a giant octopus pot that makes a loud boom. Wasn't there a granny in Lonalulu who makes a boom every day...
+176|You received a super cannon from Cannon Granny in Lonalulu! Take it to Director Turtle at the museum in Nautica.
+177|You gave the director a cannon. It will be on display at the museum's 600th anniversary, and Director Turtle is very satisfied!
+178|A mermaid in Nautica asked you to borrow a senior lawyer's book of precedents to help defend her friend.
+179|A troubled mermaid seems to be at the shipwreck in Nautica. Go hear her out!
+180|The mermaid asked you to borrow the senior lawyer's book of precedents. Head to the deserted island in the far west and get it.
+181|You got the senior lawyer's book of precedents on the far-west deserted island! Take it to the junior lawyer mermaid at the shipwreck in Nautica.
+182|You gave the mermaid the senior lawyer's book. Carrying on his will, she'll serve as a fine guardian of undersea law.
+183|A soldier in Snaerfelt asked you to defeat a Type G to avenge his brother.
+184|A soldier lost in thought seems to be at the old scholar's hut in Snaerfelt. Go hear him out!
+185|The soldier asked you to beat the Type G that appears after fighting Killing Machines many times and get its parts, near the Frozen Lake.
+186|You beat the Type G and got its parts! Take them to the soldier at the old scholar's hut in Snaerfelt.
+187|You showed the soldier the Type G parts. He vowed to dedicate his life to honoring his brother, not to revenge.
+188|You got the Type G parts! Take them to the soldier at the old scholar's hut in Snaerfelt.
+189|A bard in Arboria asked you to find the rest of a captivating old letter.
+190|A troubled bard seems to be near the general store in Arboria. Go hear him out!
+191|The bard asked you to find the rest of an old letter. It might be among the books a Gallopolis noble bought up.
+192|The letter's rest was on a bookshelf in the woodcutter's hut in Manglegrove. Tell the bard in front of the general store in Arboria.
+193|You gave the bard the rest of the old letter. The undeliverable letter was a love letter that the sage Serenica wrote to the past Luminary Erdwin.
+194|Heehodolf in Hotto asked you to join his search for the treasure the Time's Priestess hid: Hotto's hidden fortune.
+195|A troubled merchant seems to be at the entrance of Hotto. Go hear him out!
+196|Heehodolf asked you to find the hidden treasure. Clues are in the diary of an ancient priestess handed down in Hotto.
+197|You dug up Hotto's hidden treasure! Take it to the merchant Heehodolf at the entrance of Hotto.
+198|You gave Heehodolf Hotto's hidden treasure. He's thrilled that the dream of his great-grandfather's generation is fulfilled.
+199|{var:1} dug up Hotto's hidden treasure! Take it to Heehodolf at the entrance of Hotto.
+200|Prince Faris in Gallopolis Castle asked you to get a Zonnal branch to improve his soldiers' focus.
+201|Prince Faris seems to be looking for {var:1} in front of his room in Gallopolis Castle. Go hear him out!
+202|Prince Faris asked for a Zonnal branch. It grows on the northern heights of the First Forest.
+203|You got a Zonnal branch! Take it to Prince Faris in front of his room in Gallopolis Castle.
+204|You gave Prince Faris the Zonnal branch. He aims to multiply its miracle fruit so every soldier gets one.
+205|{var:1} got a Zonnal branch! Give it to Prince Faris in front of his room in Gallopolis Castle.
+206|A castaway in Lonalulu asked you to bring a legendary crystal lily, which he wants to see just once.
+207|A troubled man seems to be on the beach in Lonalulu. Go hear him out!
+208|The castaway asked for a crystal lily. It reportedly blooms only on the heights of Sniflheim.
+209|You got the legendary crystal lily! Take it to the world-weary man washed up on the Lonalulu shore.
+210|You gave the castaway the crystal lily. He's a scholar who studies human psychology and goodwill and wanted to prove selfless goodwill exists.
+211|{var:1} got a crystal lily! Take it to the world-weary man washed up on the Lonalulu shore.
+212|A monk in Angri-La asked you to look for the three seal books Uranos left. Their spells would help Rab in battle.
+213|A monk seems to be in front of the inn in Angri-La. Go hear him out!
+214|The monk asked you to read all three seal books Uranos left. They're in the Ancient Library east of Snaerfelt.

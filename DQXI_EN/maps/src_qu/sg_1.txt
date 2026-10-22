@@ -1,0 +1,234 @@
+0|Sail to the eastern dock, then walk into Champs Sauvages.
+1|Go to the tournament reception and look into the Masked Tourney.
+2|Take the elevator behind the reception to the arena.
+3|Talk to the receptionist to enter the Masked Tourney.
+4|Leave Octagonia arena building.
+5|Leave Octagonia arena building and look around.
+6|Stay at inn in Octagonia to prepare for the Masked Tourney.
+7|Prepare for the Masked Tourney, then see Vince in the waiting room.
+8|Go see Vince at orphanage in Octagonia.
+9|Go to Vince's room at orphanage in Octagonia.
+10|Stay at the inn to prepare for the award ceremony.
+11|Go to orphanage in Octagonia and look for the missing Jade.
+12|Talk to the receptionist to attend the award ceremony.
+13|Go to bonfire deep in Dundrasil Ruins.
+14|Leave Octagonia and go to the Dundrasil Ruins to the west.
+15|Leave Octagonia and head south to the lake-ringed Dundrasil Ruins.
+16|Follow Rab.
+17|Follow Rab to the Requiem Altar on the hill behind the Dundrasil Ruins.
+18|Leave Requiem Altar and head down the mountain path.
+19|Go down the mountain path and rejoin your friends.
+20|Return to the Requiem Altar.
+21|Leave mountain hut.
+22|Return to the Dundrasil Ruins and rejoin your friends.
+23|Adventure across the world and find a way to Yggdrasil.
+24|Go see Diego at largest mansion in Puerto Valor.
+25|Head to Puerto Valor on the Puerto Valor Coast.
+26|Zoom to Gondolia, then sail north toward Puerto Valor.
+27|Take a ship to the sluice gate near Puerto Valor.
+28|Explore White Cove.
+29|Collect the remaining orbs to reach Yggdrasil.
+30|Go to Puwachat Ruins at back of Phnom Nonh.
+31|Look for Mel's parents at the Puwachat Ruins.
+32|Stay at inn in Phnom Nonh to look for clues about Mel.
+33|Look for Mel in square near the entrance of Phnom Nonh.
+34|Follow Mel to the Puwachat Ruins at back of Phnom Nonh.
+35|Look for Mel, who should be in Phnom Nonh.
+36|Go deeper into the Mural World and find the missing Mel.
+37|Follow the open path and find a way out of Mural World.
+38|Tell everyone in the Phnom Nonh square the truth about the mural.
+39|Go deeper into the Mural World and face Mel.
+40|Enter the Mural World through the mural in Puwachat Ruins.
+41|Leave inn.
+42|Go through the rift in witch's altar and return to Phnom Nonh.
+43|Go through the rift in Mural World and return to Phnom Nonh.
+44|Explore Sniflheim's lower town.
+45|Find a way into the kingdom of Sniflheim.
+46|Ask the people of Lonalulu about Kinai.
+47|Sail to Lonalulu, marked on the map by Romia.
+48|Sail west of Lonalulu and help the fishermen fight the giant squid.
+49|Look for Kinai in Lonalulu.
+50|Go see Kinai at Silent Shore.
+51|Go through Lonalulu's church and see Kinai at Silent Shore.
+52|Give Romia the promised veil at White Cove.
+53|Head to White Cove and give Romia the promised veil.
+54|Talk to Kinai in Lonalulu and bring him to Silent Shore.
+55|Take a ship and bring Romia to Lonalulu.
+56|Talk to Kinai, who headed to the hut at Silent Shore.
+57|Find the mermaids' treasure at White Cove.
+58|Head to White Cove and look for the mermaids' treasure.
+59|Go see the queen in undersea kingdom.
+60|Sail to the undersea kingdom from the pillar of light.
+61|Go through Zwaardsrust to the First Forest.
+62|Head to First Forest beyond Zwaardsrust.
+63|Defeat the witch lurking in Mirlean Forest.
+64|Defeat the witch lurking in Mirlean Forest in Snaerfelt.
+65|Defeat the witch in Mirlean Forest on the eastern snowfield.
+66|Leave hut.
+67|Explore Ancient Library for clues to defeat the witch.
+68|Go to the Ancient Library east of the old scholar's hut for clues.
+69|Talk to Charlotte in Sniflheim's lower town.
+70|See Charlotte in throne room of Sniflheim Castle.
+71|See Charlotte in Sniflheim Castle.
+72|Talk to Charlotte in throne room of Sniflheim Castle.
+73|Go deeper into Arboria.
+74|Collect six orbs and talk to the elder in front of the cathedral.
+75|Go to the Sky Altar and open the way to Yggdrasil.
+76|Cross the cathedral to the First Forest and open Yggdrasil's path.
+77|Cross the rainbow bridge and climb Yggdrasil.
+78|See Seren in undersea palace of Nautica.
+79|You've become a fish! Go outside and find out what happened.
+80|Enter the door behind the throne in undersea palace.
+81|Examine Thousand-League Pearl in Sea of Guardians.
+82|Return to the undersea kingdom and go to the queen.
+83|A fishing line is hanging... Take a look!
+84|Go west through Cobblestone Falls to the Last Bastion.
+85|Set off on your journey to bring light back to the world!
+86|Meet the King of Heliodor in king's tent north of Last Bastion.
+87|Go to north entrance of Last Bastion.
+88|Prepare for battle and head outside the Last Bastion.
+89|Fight monsters and help Hendrik at front line.
+90|Return to the Last Bastion and see the King of Heliodor in his tent.
+91|Sneak into Heliodor Castle through the waterway on the cliff.
+92|Explore Heliodor Castle and find the way to the throne room.
+93|Find the monster hiding in Heliodor Castle that creates endless night.
+94|Pass through the dungeon and infiltrate Heliodor Castle.
+95|Pass the waterway and dungeon to infiltrate Heliodor Castle.
+96|Find the path to the waterway on the cliff of the Heliodor hills.
+97|Defeat the monster of endless night in the 2nd-floor throne room.
+98|Find the hidden stairs in kitchen on Heliodor Castle's 1st floor.
+99|Return to the Last Bastion in Heliodor region.
+100|See King of Heliodor in king's tent at Last Bastion.
+101|Go west through Manglegrove to the checkpoint and climb Pang Lai.
+102|Go to Luminary's sacred site near the summit of Mount Pang Lai.
+103|Pass the checkpoint north of the coast and climb Mount Pang Lai.
+104|Cross the bridge past Manglegrove and climb Pang Lai from the north.
+105|Go to Master's Palace at highest point of Angri-La.
+106|Go to Great Training Hall behind the Master's Palace in Angri-La.
+107|Talk to High Priest Sampo in Great Training Hall in Angri-La.
+108|Leave Master's Palace.
+109|Examine shrine in sanctuary at top of Mount Pang Lai.
+110|Take the cave east of Angri-La to Pang Lai's summit.
+111|Take the cave south of Angri-La to the summit entrance past the sign.
+112|Prepare for the Underworld, then talk to Sampo in the sanctuary.
+113|Talk to Sampo, then go deep into the Underworld to find Rab.
+114|Talk to Master Nima in Underworld.
+115|When ready to train, talk to Master Nima in Underworld.
+116|Find companions and a way to beat the demon lord in Arboria.
+117|Sail to the eastern dock, then walk to Warrior's Rest Inn.
+118|Ask around about what's happening in Phnom Nonh.
+119|Escort Bahatra to Phnom Nonh.
+120|Leave Phnom Nonh and look for Furfur's lair to the south.
+121|Defeat Furfur in cape cave south of Phnom Nonh.
+122|Visit Phnom Nonh, where smiles have returned.
+123|Look for Sylvando somewhere in Phnom Nonh.
+124|Go outside Phnom Nonh and meet up with Sylvando.
+125|Go east of Medal Academy to the coast, then on to Puerto Valor.
+126|See Diego at his mansion in Puerto Valor.
+127|Look for Sylvando somewhere in Puerto Valor.
+128|See Diego at his mansion.
+129|Leave Diego's mansion.
+130|Fish with the rod leaning on the watermill roof.
+131|What a strange place... Go to watermill on the islet.
+132|Talk to seer inside the watermill.
+133|Leave dock and go to Warrior's Rest Inn to the north.
+134|Leave Gallopolis and go to the checkpoint to the west.
+135|Pass the checkpoint and go to the Bakraba Stones to the east.
+136|Talk to mysterious creature at Bakraba Stones.
+137|Talk to Sultan of Gallopolis in throne room of Gallopolis Castle.
+138|Ask the Sultan of Gallopolis Castle about the hammer.
+139|Examine sacred ember deep in Sun Temple of Havens Above.
+140|Go to temple at center of floating island in sky.
+141|Ride Cetacea and find the floating island somewhere in sky.
+142|Get ore in the Battleground in the Sky and a hammer; go to the forge.
+143|Find the ore at Battleground in Sky.
+144|Go deeper into the ruins and solve the warrior's mystery.
+145|Investigate the Dundrasil Ruins in Dundrasil region.
+146|Take the west road from Champs Sauvages ruins to Dundrasil.
+147|Explore Dundrasil Castle Vaults in Dundrasil Ruins.
+148|Talk to Irwin in Dundrasil Castle Vaults.
+149|Chase Irwin to the 2nd-floor courtyard.
+150|Chase Irwin to Eleonor's room on Dundrasil Castle's 3rd floor.
+151|Chase Irwin out of throne room and go straight to the meeting room.
+152|Chase Irwin to the throne room on Dundrasil Castle's 3rd floor.
+153|Chase Irwin out of meeting room.
+154|Chase Irwin and the others to the storeroom on the 1st floor.
+155|Chase Irwin and the others to Dundrasil Castle's 1st floor.
+156|Look for Irwin and the others in Dundrasil Castle Vaults.
+157|Chase Irwin and the others to Dundrasil Castle Vaults.
+158|Defeat the monsters in Dundrasil Castle Vaults.
+159|A monster is ahead. Get close and see what it's doing.
+160|Look for Irwin somewhere in Dundrasil Castle Vaults.
+161|Defeat Bakumos in Dundrasil Castle Vaults.
+162|Leave the ruins, go north, then east to Octagonia.
+163|Leave Dundrasil Ruins and head north to Octagonia.
+164|Go to casino in Octagonia and look for Jade.
+165|Head to Octagonia and look for the beautiful traveling martial artist.
+166|Go to Special Roulette Stage in Octagonia casino.
+167|Go to Atsuo and Atsuko's secret base on Mount Huji.
+168|Leave Hotto and defeat the monster on Mount Huji to the west.
+169|Take the base's back path and investigate the volcano's secret.
+170|Leave Miko's shrine.
+171|Climb the stairs left of Hotto and tell Miko of the fire dragon.
+172|Defeat the man-eating fire dragon that appeared in Hotto.
+173|Climb the stairs left of Hotto, go to Miko's shrine, and get the gate key.
+174|Go to mountain gate on Mount Huji and meet up with Atsuo.
+175|Enter Mount Huji and defeat the man-eating fire dragon deep inside.
+176|Ask around in Hotto about the forge on Mount Huji.
+177|Find the hammer somewhere in Gallopolis.
+178|Go to Sniflheim's lower town and investigate the gold sickness.
+179|Hear about Erik from the priest at the church near the main gate.
+180|Look for Erik in Sniflheim's lower town.
+181|Enter the lower town and stop the monsters that suddenly appeared.
+182|Ask the priest in Sniflheim's lower town about the golden monsters.
+183|Sail to the Vikings' hideout next to Sniflheim's lower town.
+184|Storm the Vikings' hideout and rescue the captured Erik.
+185|Chase Erik deeper into the Vikings' hideout and talk to him.
+186|Talk to Erik at Windy Hollow.
+187|Go north to the Golden Castle and defeat Kilgore.
+188|Defeat Kilgore in Golden Castle.
+189|Talk to Erik in throne room of Golden Castle.
+190|Go to Arboria on Zwaardsrust.
+191|Go east through Snaerfelt to Arboria on Zwaardsrust.
+192|Go to Silent Forest south of Arboria and look for Veronica.
+193|Return to Arboria and tell everyone how Veronica died.
+194|Go to cathedral north of Arboria and hear Fanard's story.
+195|Stay at inn in Arboria to rest.
+196|You hear a harp from somewhere... Explore Arboria.
+197|Take the mountain path by the cathedral to Zwaardsrust's summit.
+198|Leave inn and meet up with your friends.
+199|Examine all the sacred saplings in Sun Temple of Havens Above.
+200|Find the forge on Mount Huji.
+201|Get ore on the floating island and a hammer, then go to the forge.
+202|Ready to fight the demon lord! Ride Cetacea to the Fortress of Fear.
+203|Defeat the demon lord in Fortress of Fear!
+204|After the feast, leave Arboria to see the world.
+205|Listen to your friends and Zoom around to see the peaceful world.
+206|Leave Octagonia and explore the mysterious ruins to the south.
+207|Go deep into the ruins south of Octagonia and find the mystic cog.
+208|Ride Cetacea to the desolate tower north of Yggdrasil.
+209|Climb the Tower of Lost Time in forgotten land north of Yggdrasil.
+210|Climb the Tower of Lost Time north of Yggdrasil.
+211|Talk to your friends in the Timeless Vault and share your resolve.
+212|When ready to return to the past, go to the Altar of Time.
+213|Prepare, then go to the Altar of Time in the Timeless Vault.
+214|Investigate Arboria to see if you really returned to the past.
+215|Examine Yggdrasil's soul and obtain the Luminary's sword.
+216|Rest in the 2nd-floor guest room bed on the west side.
+217|Find the King of Heliodor somewhere in Heliodor Castle.
+218|Go to balcony on Heliodor Castle's 3rd floor.
+219|Head south of the castle town and see the Luminary's star.
+220|Meet the elder of the divine folk in the ancient garden.
+221|Ride Cetacea to Havens Above.
+222|Go to Sun Temple at center of Havens Above and talk to Koron.
+223|Ride Cetacea and find the three sacred saplings on the surface.
+224|Hold your hand to the Tree of Guidance to reveal the whole truth.
+225|The Tree of Guidance's light hasn't faded. Hold your hand to it again.
+226|Talk to Uranos.
+227|Go to Havens Above and borrow the divine folk's power.
+228|Ride Cetacea to the tower north of Yggdrasil and meet Serenica.
+229|Save Yotch Village and take on the evil god.
+230|Adventure across the world to gain strength to take on the evil god!
+231|Say goodbye to the villagers and talk to Veronica at the north gate.
+232|Look around the peaceful Cobblestone.
+233|Climb Yggdrasil and place the Luminary's sword in its soul.

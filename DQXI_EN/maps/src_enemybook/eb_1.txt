@@ -1,0 +1,70 @@
+0|A hulking slime. Its crown and majestic bearing befit the king of his kin.
+1|The monster world's top therapist. Omniheal fully restores allies.
+2|Everyone's favorite metal king! Adventurers chase its huge EXP.
+3|A round, humorous idol of the monster world. Watching it is oddly reassuring.
+4|A recolored slime proud of its vivid body. A bit stronger, and warm.
+5|A cunning metal body, but timid. At the slightest surprise, it flees.
+6|A slime that woke with a protective shell. Hard to hurt.
+7|A seaside slime. As it grows, it swaps its shell for the next one, one by one.
+8|Living in the cold, it froze its moisture into pretty icicle armor.
+9|Slime and knight are one. If one sleeps, so does the other.
+10|Its partner, a metal slime, is called Silver. Of course, you shout "Hi-yo!"
+11|A narcissist who combs his helmet's mane daily. His slime is smitten.
+12|A horned, winged slime that thinks it's a dragon. No one has the heart to say.
+13|It warmed itself with its breath against frostbite and learned to breathe fire.
+14|A metallic dragoslime. Gales can't blow its flames back.
+15|Its poisonous body can't hug loved ones. A slime living with deep sorrow.
+16|The speedster of slimes. Its low metal body is perfect for escaping.
+17|A variant slime made wholly of gooey oil. Its texture sets it apart from the rest.
+18|Its love for Heal is craftsman level. It'd rather not use any other spell.
+19|An elite healslime who learned Midheal. Its red body proves mastery of healing.
+20|Bad at swimming. Late summer beaches fill with stranded jellyfish.
+21|Its spells are middling among healslimes, and that deeply troubles it.
+22|A plant-like monster sprouting from the ground. Its cry freezes foes.
+23|A tomato-red mandrake. Its sleep pollen sometimes lulls itself to sleep.
+24|A cool-hued mandrake from clear streams. Soothes body and mind.
+25|Said to absorb human happiness. Plant its seed and a bloom grows.
+26|A mysterious egg vehicle that jumps amazingly. No one knows what's inside.
+27|A machine of unknown pearly metal. It spews a gas that numbs the body.
+28|A fearsome killing machine of unknown make. Sturdy legs let it strike from above.
+29|The top mechanical egg, its mottled body radiates danger. Very strong.
+30|A famous watchdog. To keep it fierce, caretakers never feed it.
+31|A crimson hellhound born of lava and raised on flame. It spews fire.
+32|A legendary guardian beast fallen to darkness. Rampages on instinct.
+33|It drills Multi-Strike single-mindedly. Its headlong nature is very boar-like.
+34|When orc underlings are hurt, he shouts "Watch it!" while casting Midheal.
+35|Orcs turn golden with age. Once all gold, they're gifted purple clothes.
+36|Called as if the mallet were the real one, it wonders daily: "What am I?"
+37|Imitates his idol, the senior ogre's poses. He'll inherit the club once strong.
+38|A skilled fighter always seeking foes. He lives to win with his arms.
+39|Its muscle combines power and speed. Even masters can't read its blows.
+40|A martial-arts master. His Tiger Claw is honed by many fights.
+41|A stoic hunter sure of his skill. He scorns the killer panther's sloppy hunts.
+42|Adventurers keep calling killer panthers by made-up names, and it's baffled.
+43|A snowfield killer panther. Cubs distract while adults strike.
+44|Forest emperor far stronger than bears. Its focus on prey is battle-hardened.
+45|A rampaging bear that hunts prey to the end. It rips them with sharp claws.
+46|Chose black and white from panda envy. Its cuteness is a weapon.
+47|A six-armed monster of many calamities, bearing scars from countless battles.
+48|A Naumannborg turned demon god by forbidden training. Wields six weapons.
+49|A phantom said to hunt only martial masters. Many fell to his golden slash.
+50|A stray rabbit that steals crops. Its specialty: a dropkick from hard scrapes.
+51|A fierce-looking rabbit, secretly a kind masked fighter giving gifts.
+52|A former masked bunny turned black by dark training. A plains assassin.
+53|A rookie boar in a big hat. In fights it cowers and hides inside the hat.
+54|A dead mage's soul in a hat controls a stray boar. Beware its spells.
+55|A hat-wearing wandering pig. It stores fire in its body and spews it often.
+56|A killer panther cub. Friendly. If raised young, it never forgets the favor.
+57|A shadow panther cub. Quick as a shadow, a hunter on par with adults.
+58|A white panther cub. Parents raise only cubs that survive the snow.
+59|A mystery beast with a huge jaw. Cute, but let your guard down and you're KO'd.
+60|A pink body marks a chosen mammoth. In spring they sweat pink and fall in love.
+61|A god-like super mammoth. Appears when its clan is in danger.
+62|Don't underestimate that comic face. In battle it's a power fighter.
+63|A smart flying squirrel who studied by moonlight and finally learned spells.
+64|It boasts a cooler beak than the flying squirrel, but admits its fur is nicer.
+65|A chimera made to slay the Luminary. Dragon wings; six arms deal crits.
+66|A legend that destroyed tens of thousands alone. Its roar calls storms.
+67|An evolved lionhead with overwhelming power and wisdom. A flawless being.
+68|It flies calmly through high peaks, scattering flame. A purgatory carousel.
+69|Once led a strike unit for a world-ruling demon army.

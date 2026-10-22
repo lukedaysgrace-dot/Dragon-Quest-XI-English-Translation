@@ -364,10 +364,46 @@ Ruby, Roxy (3DS "Diana"), Mistress Bev, Cammo, Bullseye, Amelia (the cat).
   (past-timeline Heliodor, Calasmos reveal, Watchers' village, Morcant/Seer reveal). All `cs_run` = "problems: 0".
 * Patch was rebuilt once mid-session (includes up to ~b_060). Everything later is **fit-checked only**,
   not rebuilt or seen in the emulator (late-game scenes can't be reached from the current save).
-* **Stopped at:** `c_020_cs_105` done. NEXT PACK = line 306 of `/tmp/cs_list.txt`: **c_020_cs_110**,
-  then c_020_cs_140, c_040_cs_010, c_050_cs_010, c_060_cs_010, c_090_cs_010/020, c_100_cs_010 … (list has 350 packs;
-  regenerate with `tools/cs_dump.sh` / the pack list if /tmp was lost: packs are the `cs/*.pack` files, sorted).
-* Still to do after cs packs: talk_content (talk_party a100+), ie.bxon cutscene/b-series, enemy_book, achievement,
+* **All 350 cs_text packs are now translated** (through y_010_cs_050). Patch was rebuilt with everything (0 errors) and boots
+  in Azahar without crashing; the late-game cutscenes themselves are still not reachable from the save, so only seen = boot + early game.
+* Name fixes this session: Octagonia fighters use official names (Vince, Underdigger, Abominable Showman, Sinderella, Whambelina,
+  Golden Boy, Arachtor) — r017_e/r022_* were corrected from "Humphrey". Tickington/Tockle/-tchi, Kurutchi, Jorocchi, Lord Dragon,
+  Wyrmalroth, Zomaiden, Psaroid, Nimclops, Mortamammoth, Hoopthorne, Orgodelotl, Hunkorvus, Nelgelas, Friend of Time per official/3DS.
+* Remaining categories: talk_content (talk_party a100+), ie.bxon cutscene/b-series, enemy_book, achievement,
   cutscene_chapter_param, staffroll_text_1/2, passive_skill, dummy_player_message/name, quest_ui_param, scenario_guide,
   spirit_* tables, script_message, ui_profile_text, item_add_effect_text, quest_param, casino slot_msg, misc,
   ~237 cosmetic overflows in m2d_ui_map_param. Then rebuild (`tests_emu/rebuild.sh`), retest in emulator, re-sync.
+
+## Session 7 (enemy book + achievements)
+- Achievements: `maps/ach_gamecmn_ach.omap` (243 records), sources/builders in `maps/src_ach/` (ach_build.py wraps at 290 px, 3 lines).
+- Enemy book (monster descriptions, 740 records): `maps/eb_record_3d_eb.omap`, `text/en/30_eb_record_3d_eb_fan.json`. Sources in `maps/src_enemybook/` (eb_1..7, eb_90 = generated from the two template sentences + names.json from enemy_base). Build: copy /tmp/cs/eb.txt (dump via tools/dump2.py record_3d enemy_book.bxon) to record_3d_eb.txt, run eb_build.py (LIM=160 px, max 4 lines), then `tools/cs_run.sh enemy_book.bxon eb record_3d_eb`.
+- grow.txt: `menu_senreki_monster_3d.bflyt|txt_place=512`.
+- Verified in emulator: Records menu, Quest list, Monster list (English). Monster descriptions and the Titles list are NOT viewable (unseen entries show ?????) - unverified in game. tools/check_fit.py reports ~80 "too wide" for enemy book because it uses JP widths; real pane is 160 px.
+- Still untranslated (priority): passive_skill, quest_ui_param, scenario_guide, spirit_*, ui_profile_text, item_add_effect_text, script_message, cutscene_chapter_param, staffroll, battle_Text, dummy_player_*, quest_param, talk_party_*.
+
+## Session 7b (menu text batch)
+Built from sources in `maps/src_qu/` (qu_*.txt = quest_ui_param 392 recs via qu_build.py LIM=240; sg_1.txt = scenario_guide 234 recs via sg_build.py LIM=265, max 2 lines; ps_en.txt = passive_skill; st_en.txt = spirit_talk_param (Yotch lines); pf_en.txt = ui_profile_text; ie_en.txt = item_add_effect_text; sm_en.txt = script_message). spirit_name_table = katakana->romaji via `tools/kana2en.py` (made-up Yotch names).
+Maps: maps/{qu,sg,ps,sn,st,pf,ie,sm}_*.omap. Names follow the Switch-official glossary found in the DB tm table (Octagonia, Phnom Nonh, Champs Sauvages, Gallopolis, Sniflheim, Lonalulu, Angri-La, Arboria, Havens Above, Irwin = Arwin, Erdwin = Roshu, Diego, Kinai, Romia, Zwaardsrust, Mount Pang Lai, Mount Huji, Cetacea ...). tm (select jp,en from tm) is the best name source - query it before inventing names.
+Verified in emulator (reachable only): Search message ("searched the ground / But found nothing"), Records > Story so far, Quest list, Monster list, Item menu. NOT viewable early: passive skills, item effects, quest log details, scenario objectives, profile, Yotch lines, monster descriptions -> unverified in game; check_fit.py limits are derived from JP widths and flag most of them (real panes are wider).
+Remaining untranslated: cutscene_chapter_param (866), staffroll_text_1/2 (760 each), battle_Text (724 x2), dummy_player_message (431) + dummy_player_name (198), quest_param (82), talk_party_* (~6000), d021c ie, LYT strings.
+
+## Session 7c
+- Added: `qp_gamecmn_qp.omap` (quest titles, 82), `cc_gamecmn_cc.omap` (cutscene chapter titles, 744 unique JP), `dm_fieldcmn_dm.omap` (StreetPass dummy lines, 431), `dn_fieldcmn_dn.omap` (dummy names, 198). Sources/builders in `maps/src_qu/` (qp_*, cc_en1.txt, gamecmn_cc.*, fieldcmn_dm/dn.*, dm_build.py).
+- Rebuild 0 errors, boots; Records > Quest list still works. Quest titles, chapter titles (cutscene viewer), StreetPass text are NOT viewable early -> unverified in game; chapter-title widths unchecked (check_fit uses JP widths and flags them).
+- Emulator keys on field: `z` = open menu, `g` = down, `h` = right, `s` = back, `a` = confirm.
+- Still untranslated: staffroll headings, talk_party_* (~6000), some ie packs (d021c/a_150/b_060/b011c/b012c), LYT strings.
+
+## Session 7d - in-game verification with a test save
+- `tools/mksave.py` builds a test save from the Save Editor's layout (quests mixed Active/Clear/Done, all titles, all monsters, all tools+gear in bag, CRC fixed). Backs up to Data0.orig. Stop emulator first. Load via boot_save.sh + to_green.sh.
+- Emulator keys on field: z=menu, g=down, h=right, s=back, a=confirm. Item-list pages via h.
+- Found + fixed in game: (1) quest titles overflowed the 180 px list column -> now official Switch names (official/rows.jsonl "Misc - Quest Text") where they exist, else short own names (maps/src_qu/qp_fix.py, qp_over.json); (2) quest status badges were Japanese textures (icon_quest_order/clear/achievementtga) -> redrawn Active/Clear/Done by tools/badge_tex.py via make_textures.py; (3) Misc menu help text overflowed -> rewrote 5 strings in 10_ui_core.json; (4) item descriptions wrapped mid-word (game wraps by character) -> tools/rewrap_idesc.py pre-wraps 968 descriptions at <=124px (3D12) / 115 (2D14), 17 shortened in maps/idesc_short.json; (5) Equip popup heading was a 2nd literal in code.bin (0x19c9d8) -> added to code_strings.tsv.
+- Verified in game: Quest list (all 12 pages + detail pane), Monster list entries/descriptions (sampled 16), Misc menu, Items (all 168 consumable/material descriptions), Equip screen, Stats.
+- NOT yet verified: Titles/achievements screen, passive skills/Skill panel, gear-effect text, equipment (weapon/armour) descriptions, profile text, Yotch (Tockle) screens, cutscene viewer chapter titles, StreetPass text, late-game dialogue.
+- Known small things: Quest list entry 90 is a blank placeholder; quest-complete popup texts still use older names for a few quests ("Bunny Once More" vs official "A Rush of Blood").
+
+## Session 7e
+- Trimmed 13 tutorial pages (68_tutorials.json) to <= the Japanese line count; Skill Panel tutorial verified fitting in game.
+- Skill Panel screens: translated static labels (Need/Have, Panel status:, MP cost:, Learned, Condition:, Points used, Gold needed:, Skills to reset) via 60_menus_lyt.json + widths in tools/grow.txt; spread the Swords/Greatswords summary columns (menu_skill_get_3d). Verified in game: Skill Panel main, node view, summary.
+- Title names shortened (maps/src_ach/title_short.json), "Unused" key added to 10_ui_core.json, mksave.py updated (243 titles, hero lv40) - rebuilt 0 errors.
+- Still NOT verified in game: Titles pages 6-16, gear bag descriptions, passive skills / Skills tab, gear-effect text, profile text, Tockle screens, cutscene viewer chapter titles, StreetPass text, late-game dialogue. Untranslated layout strings that remain are mostly dev placeholders (not shown).
+- Emulator: after boot_save, ~45 presses of `a` are needed to clear the Gemma opening dialogue before `z` opens the menu. Misc menu = z, h, g g g, a; Skill Panel = 5th entry.

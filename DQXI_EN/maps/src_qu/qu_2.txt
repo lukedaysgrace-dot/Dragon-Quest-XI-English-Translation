@@ -1,0 +1,70 @@
+70|A young man in Sniflheim's lower town asked you to pick snow moon bloom for the witch Lizzlette. It grows at the Frozen Lake in Snaerfelt.
+71|You got snow moon bloom, the rare flower Lizzlette wants, in Snaerfelt! Take it to the young man near the tavern in Sniflheim's lower town.
+72|You gave the young man the snow moon bloom. Its flower language is "immaturity." He realized he's immature and vowed to become stronger.
+73|{var:1} got snow moon bloom! Take it to the young man near the tavern in Sniflheim's lower town.
+74|A purveyor in Sniflheim's lower town asked you to find out what became of the tribute, as the Viking who delivers it hasn't come.
+75|A worried merchant seems to be near the item shop in Sniflheim's lower town. Go hear him out!
+76|The purveyor asked you to find the Viking carrying tribute to Charlotte. The Vikings' hideout is just west of Sniflheim.
+77|You found the stranded Viking and got the tribute, a jumbo urchin! Take it to the purveyor waiting near the item shop in Sniflheim's lower town.
+78|You delivered the jumbo urchin in the Viking's place. The purveyor is relieved Charlotte won't be upset.
+79|A sick girl in the Silent Forest asked you to defeat the Flower of Hades and bring her the legendary Seed of Hope, said to grant any wish.
+80|A troubled girl seems to be in the Silent Forest of Arboria. Go hear her out!
+81|The girl asked you to defeat the Flower of Hades and get the Seed of Hope. Defeat many Alraunes in the First Forest and it will appear.
+82|You defeated the Flower of Hades and got the Seed of Hope! Take it to the sick girl in the Silent Forest of Arboria.
+83|You gave the sick girl the Seed of Hope. She believes she'll recover when the flower of hope blooms.
+84|You got the Seed of Hope! Give it to the sick girl in the Silent Forest of Arboria.
+85|An old man in Arboria asked for your help to complete first-tree juice for his health.
+86|A troubled old man seems to be near the cathedral in Arboria. Go hear him out!
+87|The old man asked you to get a red First Leaf to complete his first-tree juice. It's deep in the First Forest.
+88|You got a red First Leaf! Take it to the old man near the cathedral in Arboria.
+89|You gave the old man the red First Leaf. He finished his juice but isn't satisfied and will chase health harder than ever.
+90|{var:1} got a red First Leaf! Give it to the old man near the cathedral in Arboria.
+91|An instructor in Angri-La asked you to defeat a monster with a certain pep power and embody the village's Angri-La teachings.
+92|An instructor waiting for trainees seems to be near the church in Angri-La. Go hear him out!
+93|The instructor asked you to beat a Snow Dragon with the pep power Last Resolve. It appears by day outside Angri-La.
+94|You beat the Snow Dragon with Last Resolve! Report to the instructor near the church in Angri-La.
+95|You reported beating the Snow Dragon with Last Resolve. Rab, it seems, used to run from hard training.
+96|You beat the Snow Dragon with Last Resolve! Report to the instructor near the church in Angri-La.
+97|A monk in Angri-La asked you to prepare a weapon that can pierce a monk's steel body.
+98|A monk who wants to test his skill seems to be in the Master's Palace in Angri-La. Go hear him out!
+99|The monk asked you to bring an Empire Blade +3. Make one at the Fun-Sized Forge, equip it on {var:1}, and talk to him.
+100|You showed the monk the Empire Blade {var:1} equipped. Realizing his arrogance, he'll reform and train hard.
+101|You completed the quest "Break That Pride"!
+102|An old man asked you to defeat a Demon Knight in Roc's Ravine with the pep power Knight's Pride, usable when three sword users gather.
+103|Rose at Medal Academy asked you to grant her last wish, since she can't leave the school.
+104|A female student's ghost is said to haunt Medal Academy, appearing in a classroom at night.
+105|Rose asked to rest in peace. Find Nulsuke's grave somewhere in Champs Sauvages and get Nulsuke's treasure.
+106|Nulsuke's legendary treasure was the scenery of his homeland, Champs Sauvages. Tell the ghost girl Rose, who appears at night in a classroom.
+107|You told Rose the truth about Nulsuke's treasure. With her last wish granted, the ghost girl went off to heaven...
+108|Nulsuke's legendary treasure was the scenery of his homeland, Champs Sauvages. Tell Rose in the Medal Academy classroom.
+109|Ms. Milligan at Medal Academy asked you to give a diploma to a student who dropped out and is somewhere in the world.
+110|A troubled teacher seems to be in the 2nd-floor corridor of Medal Academy. Go hear her out!
+111|Ms. Milligan asked you to give a diploma to a student named Lilian, who lives in Sniflheim's lower town.
+112|Lilian had passed away, but her granddaughter Lily accepted the diploma... Report to Ms. Milligan in the 2nd-floor corridor.
+113|You reported to Ms. Milligan that you gave Lilian's granddaughter Lily the diploma. The teacher mourned Lilian and learned Lily will enroll.
+114|Teacher Marinne at Medal Academy said if you want to be a gentleman fit for the school, you must be charming!
+115|A teacher strict about conduct seems to be at the Medal Academy school entrance. Go hear her out...
+116|Teacher Marinne told you to raise your charm and come back. Charm changes with your gear and accessories.
+117|You showed Teacher Marinne your raised charm. She seems to accept you as a gentleman fit for Medal Academy.
+118|You completed the quest "Teacher Marinne's Guidance"!
+119|Colt at Medal Academy asked you to fetch fragrant perfume from home, as she ran out.
+120|A troubled student seems to be in front of the principal's office at Medal Academy. Go hear her out!
+121|Colt ran out of her favorite perfume. Get some from her father Smith in the Wasteland Labyrinth.
+122|You got fragrant perfume from Colt's father, Smith! Give it to Colt in front of the principal's office.
+123|You gave Colt the fragrant perfume. She's happy her lovely scent is back.
+124|You gave the lady in Hotto a hellfire stone. She seems to plan to turn up the steam bath's heat on her own.
+125|You got a hellfire stone! Give it to the lady in front of the steam bath in Hotto.
+126|A woman in Gondolia asked you to find the legendary flower said to bloom in Gallopolis Desert.
+127|A troubled woman seems to be in the east passage of Gondolia. Go hear her out!
+128|The woman asked for the legendary flower, a desert rose, which blooms at night somewhere in Gallopolis Desert.
+129|You got a desert rose! Take it to the woman in the east passage of Gondolia.
+130|You delivered a desert rose to the woman grieving her lost love. Seeing the rose he meant to give, she found hope to live.
+131|{var:1} got a desert rose! Take it to the woman in the east passage of Gondolia.
+132|An old man in Gondolia asked you to find the sage's stone, a legendary treasure lost when his ship sank.
+133|An old man with a dream seems to be near the Gondolia harbor. Go hear him out!
+134|The old man asked you to find the sage's stone. It supposedly lies in the sea east of Heliodor.
+135|You found the sunken sage's stone in Nautica! Show it to the old man in Gondolia.
+136|You delivered the sage's stone. But he realized the true treasure was the friends he sailed with, and entrusted the stone to you.
+137|{var:1} got the sage's stone! Return to the old man in Gondolia and show it to him.
+138|A boy on the Lonalulu beach asked you to get wet kelp and give it to a mermaid with a sore throat.
+139|A troubled boy seems to be on the Lonalulu beach. Go hear him out!

@@ -1,0 +1,243 @@
+0|Coming of Age|Awarded to a promising youth who completed the coming-of-age ritual at the Divine Rock and became an adult.
+1|The Captive Luminary|Awarded to the Luminary who went to Heliodor Castle to fulfill his mission, only to be captured by the king.
+2|The Hunted Luminary|Awarded to the Luminary who escaped Heliodor's dungeon with Erik and fled the castle.
+3|Beloved of Yggdrasil|Awarded to one who worked the Tree's miracle, which only the chosen can receive from Yggdrasil's will.
+4|Devil's Child of Calamity|Awarded to the Luminary who shook off General Hendrik's pursuit despite a false disgrace.
+5|Yggdrasil's Chosen|Awarded to the Luminary acknowledged by the sisters of holy Arboria as Yggdrasil's chosen.
+6|Prince Faris's Stand-In|Awarded to one who raced bravely in Gallopolis's horse race in place of Prince Faris.
+7|Salty Stallion Crewmate|Awarded to the Luminary who boarded the Salty Stallion and set out to sea to chase the Rainbough.
+8|Masked Tourney Champ|Awarded to the Luminary who beat last tournament's champion, Vince, and won the Masked Tourney.
+9|Setting Out to Sea|Awarded to the Luminary who opened the floodgate of Puerto Valor and sailed into the open sea.
+10|Mural World Liberator|Awarded to the Luminary who defeated the mural monster Meltaria and freed the mural world's captives.
+11|Witness to Doomed Love|Awarded to the Luminary who witnessed the end of Kinai Yuki and the mermaid Romia's love.
+12|Witch's Curse Breaker|Awarded to the Luminary who saved Sniflheim, frozen by the witch Krystalinda's curse.
+14|Flame of Hope|Awarded to one who, guided by Queen Serena, bears the mission to light the world's flame of hope.
+15|Hero of the Last Bastion|Awarded to one who cleared the dark clouds over Heliodor and restored the sun to the Last Bastion.
+16|Grand Master Pang's Pupil|Awarded to one who overcame Grand Master Pang's harsh training and mastered Angri-La's ultimate art.
+17|Boss of the Parade|Awarded to one who led Sylvando's parade and opened the door to a new world.
+18|Guardian of the Great Sea|Awarded to one who unleashed the Luminary's power and defeated Alizarin, Sentinel of the Seas.
+19|True Luminary|Awarded to one who saved King Irwin from a sixteen-year nightmare and regained the Luminary's power.
+20|Exorcism|Awarded to one who rescued Jade, turned into a monster, from Booga, Sentinel of Sorcery.
+21|Calmer of the Firedrake|Awarded to one who defeated the firedrake attacking Hotto and opened the village's future.
+22|Witness to Atonement|Awarded to the Luminary who saved Mia and witnessed the end of Erik's journey of atonement.
+23|Angler of the Cloud Sea|Awarded to the Luminary who reeled Cetacea out of the sea of clouds with Veronica's flute.
+24|Challenger of the Lord|Awarded to the Luminary who challenges Mordegon with the Sword of Light forged with friends.
+25|Savior of Erdrea|Awarded to the savior of Erdrea who defeated Mordegon with friends and revived Yggdrasil.
+26|Traveler Across Time|Awarded to the Luminary who set out again to save the world, seeking lost time.
+27|Mender of History|Awarded to the Luminary who went back in time and crushed the sorcerer Mordegon's evil ambition.
+28|Luminary of the Skies|Awarded to the Luminary who unleashes Cetacea's true power and challenges Calasmos across the sky.
+29|Apprentice Title Collector|Awarded to one who has earned 10 or more titles.
+30|Seasoned Title Collector|Awarded to one who has earned 50 or more titles.
+31|Title Collector|Awarded to one who has earned 100 or more titles.
+32|Mr. Title|Awarded to one who has earned 150 or more titles.
+33|Title King|Awarded to one who has earned 200 or more titles.
+34|Title God|The most honorable title, for the great one who earned every title in the world and mastered the way of titles.
+35|Meadow Sweeper|Awarded to one who has won 50 or more battles.
+36|Battle Machine|Awarded to one who has won 250 or more battles.
+37|Battle Prodigy|Awarded to one who has won 500 or more battles.
+38|Battle King|Awarded to one who has won 700 or more battles.
+39|Battle Emperor|Awarded to one who has won 1,000 or more battles.
+40|Novice Monster Slayer|Awarded to one who has defeated 300 or more monsters.
+41|Seasoned Monster Slayer|Awarded to one who has defeated 700 or more monsters.
+42|Veteran Monster Slayer|Awarded to one who has defeated 1,000 or more monsters.
+43|Elite Monster Slayer|Awarded to one who has defeated 1,500 or more monsters.
+44|Monster Buster|Awarded to one who has defeated 2,000 or more monsters.
+45|Monster Enthusiast|Awarded to one who has filled 100 or more kinds in the defeated monster list.
+46|Monster Researcher|Awarded to one who has filled 200 or more kinds in the defeated monster list.
+47|Monster Professor|Awarded to one who has filled 400 or more kinds in the defeated monster list.
+48|Monster Grand Professor|Awarded to one who has filled 600 or more kinds in the defeated monster list.
+49|Honorary Monster Prof.|Awarded to one who has filled 700 or more kinds in the defeated monster list.
+50|Labyrinth Conqueror|Awarded to one who conquered Neresen's Labyrinth, an impregnable dungeon.
+51|Metal Hunter|Awarded to one who has defeated 30 or more metal monsters.
+52|Pep Up Beginner|Awarded to one who joined forces with allies and used Pep Powers 10 or more times.
+53|Pep Up Enthusiast|Awarded to one who joined forces with allies and used Pep Powers 25 or more times.
+54|Veteran Pep Up Master|Awarded to one who joined forces with allies and used Pep Powers 50 or more times.
+55|Pep Up Expert|Awarded to one who joined forces with allies and used Pep Powers 100 or more times.
+56|One Heart, One Body|Awarded to one who truly bonded with allies and used every Pep Power.
+57|Petty Celeb|Awarded to one who has 10,000 or more gold deposited in the Gold Bank.
+58|Super Rich Man|Awarded to one who has 25,000 or more gold deposited in the Gold Bank.
+59|Millionaire Luminary|Awarded to one who has 50,000 or more gold deposited in the Gold Bank.
+60|Savings King|Awarded to one who has 75,000 or more gold deposited in the Gold Bank.
+61|God of Gold|Awarded to one who has 100,000 or more gold deposited in the Gold Bank.
+62|Gold Magnet|Awarded to one who has earned a total of 5,000 or more gold.
+63|Beloved of Gold|Awarded to one who has earned a total of 25,000 or more gold.
+64|Gold-Earning Pro|Awarded to one who has earned a total of 50,000 or more gold.
+65|Famous Bourgeois|Awarded to one who has earned a total of 100,000 or more gold.
+66|Super Celeb|Awarded to one who has earned a total of 300,000 or more gold.
+67|Famously Wealthy|Awarded to one who holds 30,000 or more gold on hand.
+68|Renowned Tycoon|Awarded to one who holds 50,000 or more gold on hand.
+69|Worldwide Billionaire|Awarded to one who holds 100,000 or more gold on hand.
+70|Mr. Quest|Awarded to one who has completed 10 quests.
+71|Master of Quests|Awarded to one who has completed 40 quests.
+72|Quest Conqueror|The honorable title for one who has completed every quest.
+73|Novice Craftsman|Awarded to one who has crafted 10 or more items with Mystical Forging.
+74|First-Rate Craftsman|Awarded to one who has crafted 100 or more items with Mystical Forging.
+75|Legendary Craftsman|Awarded to one who has crafted 300 or more items with Mystical Forging.
+76|Reforging Artisan|Awarded to one who has reforged 10 or more items with Mystical Forging.
+77|Reforging Expert|Awarded to one who has reforged 100 or more items with Mystical Forging.
+78|Reforging God|Awarded to one who has reforged 300 or more items with Mystical Forging.
+79|Jackpot Hitter|Awarded to one who crafted +3 equipment with Mystical Forging.
+80|One-Hand Sword Master|Awarded to one who starred every one-handed sword in the Mystical Forging record.
+81|Two-Hand Sword Master|Awarded to one who starred every two-handed sword in the Mystical Forging record.
+82|Master of Daggers|Awarded to one who starred every dagger in the Mystical Forging record.
+83|Foremost Wand Authority|Awarded to one who starred every wand in the Mystical Forging record.
+84|Foremost Staff Authority|Awarded to one who starred every two-handed staff in the Mystical Forging record.
+85|Famed Spear Smith|Awarded to one who starred every spear in the Mystical Forging record.
+86|Famed Axe Smith|Awarded to one who starred every axe in the Mystical Forging record.
+87|Famed Claw Smith|Awarded to one who starred every claw in the Mystical Forging record.
+88|Emperor of Whips|Awarded to one who starred every whip in the Mystical Forging record.
+89|Emperor of Boomerangs|Awarded to one who starred every boomerang in the Mystical Forging record.
+90|First-Rate Shield Smith|Awarded to one who starred every shield in the Mystical Forging record.
+91|Great Shield Smith Pro|Awarded to one who starred every large shield in the Mystical Forging record.
+92|Prince of Armor Smithing|Awarded to one who starred every armor in the Mystical Forging record.
+93|Charismatic Designer|Awarded to one who starred every outfit in the Mystical Forging record.
+94|Popular Stylist|Awarded to one who starred every robe in the Mystical Forging record.
+95|Ace Helmet Smith|Awarded to one who starred every helmet in the Mystical Forging record.
+96|Popular Hat Maker|Awarded to one who starred every hat in the Mystical Forging record.
+97|Thoughtful Fashion King|Awarded to one who starred every face accessory in the Mystical Forging record.
+98|Flamboyant Fashion King|Awarded to one who starred every neck accessory in the Mystical Forging record.
+99|Elegant Fashion King|Awarded to one who starred every arm accessory in the Mystical Forging record.
+100|High-Society Fashion King|Awarded to one who starred every hand accessory in the Mystical Forging record.
+101|Jewelry Artist|Awarded to one who starred every finger accessory in the Mystical Forging record.
+102|Genius Shoe Designer|Awarded to one who starred every foot accessory in the Mystical Forging record.
+103|Genius Inventor|Awarded to one who starred every other accessory in the Mystical Forging record.
+104|Creator of All Things|Awarded to one who starred every item in the Mystical Forging record.
+105|Legendary Swordsmith|Awarded to one who crafted the True Sword of Light with Mystical Forging.
+106|Strongest Luminary|Awarded in celebration of the Luminary reaching the maximum level.
+107|Strongest Erik|Awarded in celebration of Erik reaching the maximum level.
+108|Strongest Veronica|Awarded in celebration of Veronica reaching the maximum level.
+109|Strongest Serena|Awarded in celebration of Serena reaching the maximum level.
+110|Strongest Sylvando|Awarded in celebration of Sylvando reaching the maximum level.
+111|Strongest Rab|Awarded in celebration of Rab reaching the maximum level.
+112|Strongest Jade|Awarded in celebration of Jade reaching the maximum level.
+113|Strongest Hendrik|Awarded in celebration of Hendrik reaching the maximum level.
+114|Congrats on the Wedding!|A title overflowing with love, for one who vowed eternal love to childhood friend Gemma.
+115|Moo-ving Weather Maniac|Awarded to one who learned the weather from a mysterious cow and got the knack of forecasting.
+116|Monster Baron|Awarded to one who has ridden every monster mount.
+117|Barbecue Lover|Awarded to one who has camped 10 times.
+118|Skilled Camper|Awarded to one who has camped 50 times.
+119|Legendary Survivor|Awarded to one who has camped 100 times.
+120|Novice Traveler|Awarded to one who has stayed at an inn 10 times.
+121|Hyper Traveler|Awarded to one who has stayed at an inn 30 times.
+122|Master Traveler|Awarded to one who has stayed at an inn 50 times.
+123|Crusher Boy|Awarded to a rascal who has broken all sorts of things 100 times.
+124|Destroyer|Awarded to a rascal who has broken all sorts of things 500 times.
+125|Mischief King|Awarded to a rascal who has broken all sorts of things 1,000 times.
+126|Zoom Master|Awarded to one who has learned every Zoom point.
+127|King of Adventure|Awarded to one who has adventured in many worlds, beginning with Erdrea.
+128|First Puff-Puff|An auspicious title for one who experienced their first puff-puff.
+129|Puff-Puff Forever|Awarded to the happiest person in the world, who has experienced every puff-puff. Deepest thanks for this joy.
+130|Novice Collector|Awarded to one who has collected 10 or more kinds of items.
+131|Collecting Maniac|Awarded to one who has collected 50 or more kinds of items.
+132|First-Rate Collector|Awarded to one who has collected 250 or more kinds of items.
+133|Item Prince|Awarded to one who has collected 500 or more kinds of items.
+134|King of Collections|The honorable title for the collector among collectors, who has collected countless items.
+135|Herbivore|Awarded to one who used herb items 20 or more times and noticed the charm of herbs.
+136|Herb Sommelier|Awarded to one who used herb items 50 or more times and fell for the charm of herbs.
+137|Herb Maestro|Awarded to one who used herb items 100 or more times and was possessed by the charm of herbs.
+138|Fiendish Herb Eater|Awarded to one who used herb items 200 or more times and knows all the charm of herbs.
+139|Medal Collecting Clerk|Awarded to one who completed 1 Medal Stamp Book.
+140|Medal Collecting Boss|Awarded to one who completed 2 Medal Stamp Books.
+141|Medal Chairman|Awarded to one who completed 3 Medal Stamp Books.
+142|Medal President|Awarded to one who completed 4 Medal Stamp Books.
+143|Bronze Medalist|Awarded to one who has obtained 10 or more mini medals.
+144|Silver Medalist|Awarded to one who has obtained 50 or more mini medals.
+145|Gold Medalist|Awarded to the undisputed medal lover who collected a great many mini medals.
+146|Stylish Luminary|Awarded to the fashion star who collected all of the Luminary's fashionable gear.
+147|Stylish Erik|Awarded to the fashion star who collected all of Erik's fashionable gear.
+148|Stylish Veronica|Awarded to the fashion star who collected all of Veronica's fashionable gear.
+149|Stylish Serena|Awarded to the fashion star who collected all of Serena's fashionable gear.
+150|Stylish Sylvando|Awarded to the fashion star who collected all of Sylvando's fashionable gear.
+151|Stylish Jade|Awarded to the fashion star who collected all of Jade's fashionable gear.
+152|Stylish Rab|Awarded to the fashion star who collected all of Rab's fashionable gear.
+153|Stylish Hendrik|Awarded to the fashion star who collected all of Hendrik's fashionable gear.
+154|Fashion Master|Awarded to the fashion star everyone admires, who collected all fashionable gear.
+155|Skill Apprentice Luminary|Awarded to one who unlocked 10 of the Luminary's Skill Panels.
+156|Full-Fledged Luminary|Awarded to one who unlocked 20 of the Luminary's Skill Panels.
+157|Charismatic Luminary|Awarded to one who unlocked 30 of the Luminary's Skill Panels.
+158|Renowned Luminary|Awarded to one who unlocked 40 of the Luminary's Skill Panels.
+159|Great Luminary|Awarded to one who unlocked 50 of the Luminary's Skill Panels.
+160|Legendary Luminary|Awarded to one who unlocked all of the Luminary's Skill Panels.
+161|Skill Apprentice Thief|Awarded to one who unlocked 10 of Erik's Skill Panels.
+162|Rumored Thief|Awarded to one who unlocked 20 of Erik's Skill Panels.
+163|Great Thief|Awarded to one who unlocked 30 of Erik's Skill Panels.
+164|Thief of the Century|Awarded to one who unlocked 40 of Erik's Skill Panels.
+165|Legendary Thief King|Awarded to one who unlocked all of Erik's Skill Panels.
+166|Skill Apprentice Mage|Awarded to one who unlocked 10 of Veronica's Skill Panels.
+167|Full-Fledged Mage|Awarded to one who unlocked 20 of Veronica's Skill Panels.
+168|Advanced Mage|Awarded to one who unlocked 30 of Veronica's Skill Panels.
+169|Great Mage|Awarded to one who unlocked 40 of Veronica's Skill Panels.
+170|Legendary Great Mage|Awarded to one who unlocked all of Veronica's Skill Panels.
+171|Skill Apprentice Saint|Awarded to one who unlocked 10 of Serena's Skill Panels.
+172|Merciful Saint|Awarded to one who unlocked 20 of Serena's Skill Panels.
+173|Saint of Universal Love|Awarded to one who unlocked 30 of Serena's Skill Panels.
+174|Saint of True Love|Awarded to one who unlocked 40 of Serena's Skill Panels.
+175|Legendary Saint|Awarded to one who unlocked all of Serena's Skill Panels.
+176|Apprentice Entertainer|Awarded to one who unlocked 10 of Sylvando's Skill Panels.
+177|Mood Maker|Awarded to one who unlocked 20 of Sylvando's Skill Panels.
+178|Superstar|Awarded to one who unlocked 30 of Sylvando's Skill Panels.
+179|Illusionist|Awarded to one who unlocked 40 of Sylvando's Skill Panels.
+180|Legendary Entertainer|Awarded to one who unlocked all of Sylvando's Skill Panels.
+181|Skill Apprentice Sage|Awarded to one who unlocked 10 of Rab's Skill Panels.
+182|Spry Old Sage|Awarded to one who unlocked 20 of Rab's Skill Panels.
+183|Enlightened Old Sage|Awarded to one who unlocked 30 of Rab's Skill Panels.
+184|Omniscient Old Sage|Awarded to one who unlocked 40 of Rab's Skill Panels.
+185|Legendary Old Sage|Awarded to one who unlocked all of Rab's Skill Panels.
+186|Skill Apprentice Fighter|Awarded to one who unlocked 10 of Jade's Skill Panels.
+187|Dazzling Fighter|Awarded to one who unlocked 20 of Jade's Skill Panels.
+188|Fighter of Mind and Body|Awarded to one who unlocked 30 of Jade's Skill Panels.
+189|Battle-Hardened Fighter|Awarded to one who unlocked 40 of Jade's Skill Panels.
+190|Legendary Fighter|Awarded to one who unlocked all of Jade's Skill Panels.
+191|Skill Apprentice Hero|Awarded to one who unlocked 10 of Hendrik's Skill Panels.
+192|Renowned Hero|Awarded to one who unlocked 20 of Hendrik's Skill Panels.
+193|Veteran Hero|Awarded to one who unlocked 30 of Hendrik's Skill Panels.
+194|Invincible Hero|Awarded to one who unlocked 40 of Hendrik's Skill Panels.
+195|Legendary Hero|Awarded to one who unlocked all of Hendrik's Skill Panels.
+196|Beginner's Luck|Awarded to one who holds 100,000 or more casino coins.
+197|Lucky Star|Awarded to one who holds 500,000 or more casino coins.
+198|Gambling King|Awarded to one who holds 1,000,000 or more casino coins.
+199|Legendary Jockey|Awarded to the legendary jockey who won every crown in the horse races.
+200|Rookie Jockey|Awarded to one who won the Bronze Cup in the horse races with excellent results.
+201|Full-Fledged Jockey|Awarded to one who won the Silver Cup in the horse races with excellent results.
+202|Charismatic Jockey|Awarded to one who won the Gold Cup in the horse races with excellent results.
+203|Wonder Jockey|Awarded to one who won the Platinum Cup in the horse races with excellent results.
+204|King of Jockeys|Awarded to one who won the Black Cup in the horse races with excellent results.
+205|Rookie Slotter|Awarded to one who has played the slot machine 10 or more times.
+206|Skilled Slotter|Awarded to one who has played the slot machine 50 or more times.
+207|Elite Slotter|Awarded to one who has played the slot machine 100 or more times.
+208|Mr. 7|Awarded to the lucky one who lined up 77777 on the slots.
+209|Lucky Slotter|Awarded to the lucky one who hit the jackpot on the slots.
+210|Card Newcomer|Awarded to one who has played poker 10 or more times.
+211|Card Master|Awarded to one who has played poker 50 or more times.
+212|Card Fiend|Awarded to one who has played poker 100 or more times.
+213|Gutsy Poker Player|Awarded to the lucky one who won Double Up 10 times in a row at poker.
+214|Royal Slimer|Awarded to the lucky one who got a Royal Straight Slime at poker.
+215|Roulette Party Supporter|Awarded to one who has played roulette 10 or more times.
+216|Roulette Party Member|Awarded to one who has played roulette 50 or more times.
+217|Roulette Party Leader|Awarded to one who has played roulette 100 or more times.
+218|Man with the Divine Hand|Awarded to the lucky one who hit the jackpot at roulette.
+219|Lucky Captain|Awarded to the lucky one who won a treasure chest at roulette.
+220|Don Gambler|Awarded to the born gambler who played out the casino. Life is entertainment.
+221|Insatiable Seeker|Awarded to one whose insatiable curiosity reached an unknown realm.
+222|Man Among Men|Awarded to the man among men even the hero Neresen acknowledges. You like it too, don't you?
+223|Dragon Slayer|Awarded to one who defeated the black dragon in Heliodor's underground waterway.
+224|Big Spender|Awarded to one who spent 2,000 or more gold in a single purchase.
+225|Full Mastery|Awarded to the strong one who completed every training at Angri-La's training hall.
+226|Friend of the Tockles|Awarded to one who gathered 10 or more Tockles in Erdrea.
+227|Partner of the Tockles|Awarded to one who gathered 50 or more Tockles in Erdrea.
+228|Idol of the Tockles|Awarded to one who gathered 100 or more Tockles in Erdrea.
+229|Charisma of the Tockles|Awarded to one who gathered 300 or more Tockles in Erdrea.
+230|Tockle Master|Awarded to one who gathered Tockles of every color in Erdrea.
+231|Dressy Tockle|Awarded to one who collected 10 or more kinds of Tockle hats.
+232|Cool Tockle|Awarded to one who collected 30 or more kinds of Tockle hats.
+233|Spiffy Tockle|Awarded to one who collected 60 or more kinds of Tockle hats.
+234|Fashionable Tockle|Awarded to one who collected all Tockle hats.
+235|Wanderer of Time|Awarded to one who reached the 4th floor of the Labyrinth of Time.
+236|Traveler of Time|Awarded to one who reached the 7th floor of the Labyrinth of Time.
+237|Luminary of Time|Awarded to one who conquered every floor of the Labyrinth of Time.
+238|Savior of Three Worlds|Awarded to one who traveled the Adventure Log worlds and restored 3 or more altars.
+239|Savior of Six Worlds|Awarded to one who traveled the Adventure Log worlds and restored 6 or more altars.
+240|Savior of All Worlds|Awarded to one who traveled the Adventure Log worlds and restored 10 or more altars.
+241|Savior of Time|Awarded to one who defeated the destroyer of time and protected the legendary heroes' histories.
+242|Big Spender Minister|Awarded to one who spent 10,000 or more gold in a single purchase.
+243|Big Spender King|Awarded to one who spent 50,000 or more gold in a single purchase.

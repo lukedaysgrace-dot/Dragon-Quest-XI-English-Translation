@@ -54,3 +54,4 @@
 # victory message: "{name}は" / "{name}たちは　それぞれ" prefixes (battle_Text EXP line)
 0x7bfb58	は	 gets
 0x7bfb46	たちは　それぞれ	 & co. each get
+0x19c9d8	そうび	Equip

@@ -1,0 +1,70 @@
+Heave-ho!
+(Red avatar, speech bubble, pattern 1)
+(Red avatar, speech bubble, pattern 2)
+"Hey! You're the Luminary!\n I'm {var:2}. Nice to meet you!
+"...Your courage is incredible.\n With it, I can show my strength in the labyrinth!
+"I may not look it, but I'm strong.\n You can count on me!
+"As a Yotch warrior,\n I'll fulfill my mission with pride!
+"Whoa! Being with you gets me pumped!\n I can't wait to hit the labyrinth!
+"My strength alone can't reach the labyrinth.\n I need your courage!
+"Hah hah hah! My name's {var:2}!\n Pleased to meet you!
+Hmm... hmmm...
+(Blue avatar, speech bubble, pattern 1)
+(Blue avatar, speech bubble, pattern 2)
+"So you're the Luminary.\n I am called {var:2}.
+"Going to the Labyrinth of Time is our mission.\n I'm glad the time has come.
+"I don't know how well I can fight\n fearsome monsters, but I'll do my best.
+"For the Luminary who gives me courage,\n I must deliver results...!
+"To succeed in the labyrinth, don't push too hard.\n Stopping to plan a strategy matters too.
+"I trained for the day I'd go to the labyrinth.\n Please make use of my wisdom.
+"My name is {var:2}.\n Pleased to make your acquaintance.
+Oh my, I'm startled!
+(Green avatar, speech bubble, pattern 1)
+(Green avatar, speech bubble, pattern 2)
+"G'day! I'm {var:2}, I am.
+"I'm a bit of a klutz, folks say...\n but don't you mind that!
+"Wow, the Luminary's amazing!\n Just being with you makes me feel I can do anything!
+"The Luminary spoke to me!\n I'm so happy I could burst!
+"Am I really going to the Labyrinth of Time?\n Eek, my heart's pounding!
+"I'm a bit clumsy, but\n I'll do my best as a Yotch warrior!
+"G'day! I'm {var:2}.\n Pleased to meet ya!
+Fidget fidget
+(Yellow avatar, speech bubble, pattern 1)
+(Yellow avatar, speech bubble, pattern 2)
+"Hey there!\n The name's {var:2}.
+"Got all the Adventure Log passwords yet?\n If not, I'll fetch them!
+"Are you about to head to the Labyrinth of Time?\n I'm ready anytime!
+"Is the labyrinth exploration going well?\n I can't help wondering.
+"By the way, do you know our skills?\n Check before you go to the labyrinth.
+"Yellow Yotch are such busybodies.\n I know, but can't help it.
+"Hey! I'm {var:2}.\n Glad you spoke to me.
+I'm getting scared...
+(Purple avatar, speech bubble, pattern 1)
+(Purple avatar, speech bubble, pattern 2)
+"Hello...\n I'm {var:2}.
+"I get lonely, so please\n don't leave me alone too much.
+"Heh heh...\n I feel better with the Luminary.
+"When you go to the Labyrinth of Time,\n please don't forget to take me.
+"You must have many friends, Luminary.\n I'm so jealous...
+"Please call me anytime.\n I want to fulfill my duty as a warrior...
+"Hi... I'm {var:2}.\n You're the Luminary I've heard about.
+Duhh~
+(White avatar, speech bubble, pattern 1)
+(White avatar, speech bubble, pattern 2)
+"Um... I'm {var:2}.\n Nice to meet you!
+"Going to the labyrinth makes me nervous,\n but your courage will help me do my best!
+"I'm a Yotch warrior too!\n I should be useful to you. Probably...
+"Actually, I don't know much about the labyrinth.\n But we're going together, so it'll be fine!
+"With you, the labyrinth isn't scary!\n We'll crush the monsters!
+"Guide us well so we can\n fulfill our mission, Luminary!
+"Oh...! You're the Luminary, right?\n I'm {var:2}. Nice to meet you!
+Hmm...
+(Metal avatar, speech bubble, pattern 1)
+(Metal avatar, speech bubble, pattern 2)
+"Yo! I'm {var:2}.\n Looking forward to it!
+"I'm usually a lone wolf,\n but in the labyrinth I'll show top teamwork.
+"Metal-colored Yotch tend to be excellent.\n Count on my work!
+"I was bored and thinking of traveling far,\n but if you're going to the labyrinth, I'll stand by!
+"So you're the Luminary... Good eyes.\n Just like mine!
+"Once in a while, joining forces is nice.\n I'll work as a warrior too!
+"Yo! I'm {var:2}.\n If you're in trouble, I'll lend a hand!

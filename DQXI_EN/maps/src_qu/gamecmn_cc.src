@@ -1,0 +1,745 @@
+@gamecmn cutscene_chapter_param.bxon
+3a8 f: Birth of the Luminary
+410 f: 16 Years Later
+450 f: Battle with the Slime
+474 f: Before the Slime Battle (Part 1)
+4b8 f: To the Cave of the Divine Rock
+4ec f: After the Slime Battle
+518 f: Battle with the Smog
+53c f: Before the Smog Battle
+56c f: Rescuing Cole
+590 f: After the Smog Battle
+5bc f: The Miracle at the Summit
+5f8 f: The Glowing Mark
+628 f: The Village Elder's Welcome
+698 f: A Destiny Revealed
+6c8 f: The Truth About the Luminary
+6f0 f: Alone with Gemma
+704 f: Talking with Gemma
+72c f: Amber's Encouragement
+74c f: Talking with Mother
+7dc f: How to Use Camp
+808 f: Camp Tutorial
+82c f: Into Heliodor Castle
+85c f: Entering the Castle
+894 f: Meeting the King of Heliodor
+a30 f: The Luminary Is Taken Away
+aac f: Meeting Erik
+ad4 f: The Mysterious Youth Helps
+b10 f: Erik Attacks
+b38 f: Escaping with the Mysterious Youth
+b74 f: Moving the Mat
+b90 f: To the Heliodor Waterway
+bbc f: Arriving at the Waterway
+bf8 f: Fleeing the Heliodor Soldiers
+c30 f: Chased by Soldiers
+c60 f: The Bridge Collapses
+cb8 f: The Two Wash Ashore
+cd8 f: Washed into a Cave
+d0c f: The Black Dragon Appears
+d6c f: The Black Dragon Pursues
+dcc f: Narrow Escape
+dfc f: Shaking Off the Black Dragon
+e34 f: Victory over the Black Dragon
+e60 f: After the Black Dragon
+e94 f: Cornered at the Cliff
+108c f: Waking in the Church
+10f4 f: Thanking the Sister
+1114 f: Thanking the Sister
+1140 f: A New Companion: Erik
+1170 f: The Luminary Puts On the Hood
+11bc f: Introducing Mysterious Smithing
+11f8 f: The Vision from the Great Tree's Roots
+1240 f: First Contact with the Great Tree's Roots
+1284 f: Battle with the Tricky Devil
+12ac f: Before the Tricky Devil Battle
+12e0 f: Flint the Woodcutter
+1300 f: After the Tricky Devil Battle
+1334 f: Where the Red Orb Is Hidden
+1368 f: The Orb's Hiding Place
+139c f: The Missing Red Orb
+13bc f: The Orb Missing from the Dump
+13fc f: The Old Boarding House
+1420 f: Arriving at the Old Boarding House
+1468 f: Where Is the Landlady?
+1488 f: The View from the Watchtower
+14c8 f: To the Boarding House with Erik
+14ec f: Joining Erik and Heading to the Boarding House
+1530 f: Where Derk Is
+1550 f: Asking About Derk's Whereabouts
+1584 f: Getting Through the Gate to the Town
+15c8 f: How to Get Through the Town Gate
+1620 f: The Soldier Afraid of Dogs
+1644 f: Setting the Dog Loose
+166c f: Giving the Soldier a Fake Love Letter
+16ac f: Handing Over the Fake Love Letter
+16d8 f: Giving the Soldier Gold
+1708 f: Handing Over a Bribe
+1724 f: Erik's Partner, Derk
+1748 f: Reunion with Derk
+1770 f: Where the Red Orb Went
+1794 f: The Orb Is at Heliodor Shrine
+1894 f: The Ominous Heliodor Shrine
+18cc f: The Fallen Soldiers
+18fc f: Battle with the Evil Beast
+1924 f: Before the Evil Beast Battle
+1958 f: Obtaining the Red Orb
+1980 f: After the Evil Beast Victory
+19c0 f: Home Once More
+19e4 f: Entering Cobblestone
+1a14 f: Turned Away by Amber
+1a34 f: Sent Away by Mother
+1a6c f: The Crying Girl
+1a98 f: Gemma in Tears
+1abc f: Chalky's Words
+1ad8 f: Reunion with Chalky
+1b00 f: The Changed Hometown
+1b2c f: The Ruined Village
+1b64 f: Two Letters
+1bb0 f: A Close Call
+1bd8 f: Hendrik's Pursuit
+1d04 f: Arriving in Hotto
+1d34 f: The Steam Bath Barker
+1d78 f: Meeting a Girl
+1da8 f: Meeting Veronica
+1dd4 f: The Lost Girl
+1e00 f: Meeting the Lost Girl
+1e34 f: Veronica and Connie
+1e48 f: Reunion with Veronica
+1e74 f: Searching for Serena
+1e94 f: Serena's Story
+1ebc f: The Pitfall Location
+1f2c f: The Door's Password
+1f58 f: How to Use the Skull Rider
+1f8c f: Meeting Serena
+1fdc f: Battle with Denda's Gang
+200c f: Denda's Gang: Before the Battle
+204c f: Sisters Fated to Protect the Luminary
+20a8 f: After the Battle with Denda's Gang
+20ec f: Rescuing Noah
+213c f: About Our Next Move
+2170 f: Council on Our Next Move
+21ac f: New Companions Veronica and Serena
+21e8 f: Noah Again
+2334 f: Arriving in Gallopolis
+236c f: The Desert Kingdom
+23a0 f: The King and the Prince
+23f0 f: Prince Faris's Request
+2420 f: Come to the Circus Tent
+244c f: Inside the Circus Tent
+2470 f: The Prince's Request
+24a0 f: The Start of the Faris Cup
+24d0 f: The Race Begins
+24f8 f: Swapping with the Prince
+2524 f: The Luminary and the Prince Switch
+2564 f: The Secret Is Exposed
+2590 f: The Switch Is Discovered
+25c0 f: The Prince's Request Again
+25f0 f: The Prince's Report
+2624 f: In the Prince's Room
+2650 f: The Prince's Request, Again
+2690 f: Sylvando the Traveling Entertainer
+26b8 f: The Prince Quarrels with a Soldier
+26f8 f: Talk at the Campsite
+2758 f: Battle with the Deathscorpion
+2780 f: Before the Deathscorpion Battle
+27b4 f: Sylvando and Prince Faris
+27e0 f: After the Deathscorpion Battle
+2810 f: The Prince of the Knight Kingdom
+2844 f: Subjugating Monsters
+2878 f: Where the Rainbough Went
+28b0 f: The Prince Reflects
+28e4 f: A New Companion: Sylvando
+2918 f: Meeting Sylvando: Scenario Clear
+2a58 f: Arriving in the Port Town of Gondolia
+2a94 f: Introducing Gondolia
+2ac4 f: Notice of the Seafarers' Contest
+2b04 f: Contest Notice
+2b30 f: Mayor Rotondo
+2b58 f: Meeting Rotondo
+2b84 f: Placido and Rad
+2b98 f: Meeting Placido
+2bc0 f: The Pure Spring Water
+2bf0 f: Finding the Purifying Water
+2c20 f: Claiming a Spot for the Contest
+2c48 f: The Three Willful Women
+2c8c f: Jasper the Strategist Appears
+2cc0 f: The Seafarers' Contest
+2d28 f: The Great Escape from the Plaza
+2d64 f: Council to Rescue Erik
+2dcc f: Rescue Council, Again
+2dfc f: The Rescue Council Once More
+2e34 f: Jasper's Threat
+2e84 f: Battle with Jasper the Strategist
+2eb8 f: Before the Jasper Battle
+2ee8 f: The Dazzling Entrance of the Salty Stallion
+2f2c f: After the Jasper Battle
+2f58 f: Out to the Vast Ocean
+2f8c f: The Truth About Placido
+317c f: Notice of the Masked Tourney
+31b4 f: The Masked Tourney Opens
+31f0 f: The Rainbough Is Found
+3260 f: The Grand Lottery
+329c f: The Drawing Begins
+32c8 f: Where Is Veronica?
+32e0 f: Veronica Is Missing
+3300 f: Veronica and Garamson
+331c f: The Two Quarrel
+3344 f: Qualifying Day
+3394 f: Battle with the Two Big Men
+33cc f: Before the Garamson and Ballyhoo Battle
+340c f: Rab and Jade Join the Fray
+343c f: After the Garamson and Ballyhoo Battle
+3478 f: In the Waiting Room
+349c f: In the Red Waiting Room
+34d0 f: The Woman Fighter's Warning
+3504 f: Meeting Rab and Jade
+3538 f: At Hunfrey's Orphanage
+3564 f: Talking with Hunfrey
+3590 f: The Ransacked Room
+35e8 f: The Day of the Finals
+3638 f: Battle with the Glamorous Duo
+3674 f: Before the Vivian and Cydelia Battle
+36b0 f: Victory over the Glamorous Duo
+36ec f: After the Vivian and Cydelia Battle
+3724 f: Battle with the Unlikely Duo
+3758 f: Before the Lady Massive and Mask the Handsome Battle
+37a4 f: Victory over the Unlikely Duo
+37d8 f: After the Lady Massive and Mask the Handsome Battle
+3824 f: Battle with Rab and Jade
+3850 f: Before the Rab and Jade Battle
+3888 f: Victory over Rab and Jade
+38b4 f: After the Rab and Jade Battle
+38e8 f: Rab's Visit
+3930 f: Battle with Arachtor
+3958 f: Before the Arachtor Battle
+398c f: Solving the Disappearances
+39cc f: After the Arachtor Battle
+39fc f: Erik's Announcement
+3a44 f: Exhibition Match with Hunfrey
+3a68 f: Before the Hunfrey Battle
+3a98 f: The Stolen Rainbough
+3ad0 f: Meeting Rab and Jade: Scenario Clear
+3c34 f: The Fallen Kingdom
+3c5c f: The Ruins of Dundrasil Castle
+3c9c f: Rab Appears
+3cbc f: Rab Appears Again
+3ce8 f: Rab's Memories
+3d0c f: The Town Below
+3d44 f: The Royal Couple's Grave
+3dac f: The Requiem Ritual
+3e0c f: Jade's Story of the Past
+3e34 f: Walking with Jade
+3e5c f: Fleeing with Jade
+3e84 f: Escaping with Jade
+3eac f: General Hendrik Appears
+3ee4 f: Hendrik Appears
+3f10 f: The Past Revealed
+3f38 f: Alone with Jade
+3f5c f: Hendrik and Jade
+3f78 f: Hendrik Appears Again
+3fa8 f: New Companions: Rab and Jade
+3fe0 f: Defeat Mordegon
+4008 f: The Vision Shown by the Rainbough
+4050 f: The Shining Rainbough (01)
+4098 f: Arriving in Puerto Valor
+4108 f: Diego's Butler, Cesar
+4130 f: Cesar the Butler
+4158 f: Beyond the Floodgate
+4180 f: Passing the Floodgate (01)
+42fc f: Arriving in Phnom Nonh
+4330 f: Arriving at the Village Bustling over the Mural
+4384 f: Little Mel's Request
+43c4 f: Asked by Mel to Find Her Parents
+440c f: Crowds Around the Mural
+4448 f: Crowds Around the Mural (01)
+4494 f: The Guide's Sales Pitch
+44bc f: Caught by the Guide's Sales Pitch
+44fc f: Mel Heads for the Ruins
+4528 f: Spotting Mel Heading Toward the Ruins
+4578 f: The Party Swallowed by the Mural
+45c0 f: Swallowed by the Mural
+45fc f: The Otherworld Within the Mural
+4638 f: Inside the Mural World for the First Time
+4680 f: The Mural of the Giant Beauty
+46bc f: Encounter with the Giant Painted Beauty
+4710 f: Fleeing the Giant Tentacles
+4758 f: Escaping the Giant Thorns
+479c f: The Cursed Mural
+47c4 f: The Mural's True Nature
+47f8 f: Leaping into the Rift
+483c f: Escape from the Mural
+4874 f: Return to the Puwachat Ruins
+48a8 f: Escape to the Real World
+48ec f: The Truth About Mel
+4934 f: Battle with Meltoa
+4958 f: Before the Meltoa Battle
+4988 f: Mordegon's Aim
+49a8 f: After the Meltoa Battle
+49d4 f: The People Freed from the Mural
+4a18 f: People Released from the Mural
+4a64 f: Renewed Resolve
+4a8c f: The Mural Incident Resolved and What's Next
+4b30 f: Medal Academy School Song
+4b80 f: Singing the Medal Academy Song
+4bbc f: The Headmistress's Speech
+4bf4 f: What Are Mini Medals?
+4d44 f: The Mysterious Cove
+4d74 f: Entering the White Cove (01)
+4dc0 f: Meeting the Mermaid Romia
+4df4 f: Meeting Romia
+4e1c f: Arriving in Lonalulu
+4e8c f: The Mermaid's Curse Picture Show
+4f14 f: Battle with the Kraken
+4f38 f: The Kraken Appears
+4f64 f: The Echoing Cannon Shot
+4f88 f: Before the Kraken Battle 2
+4fbc f: Invited to the Kraken Victory Celebration
+5004 f: After the Kraken Battle
+5034 f: Searching for Kinai
+5054 f: Slipping Out of the Banquet
+5088 f: Kinai and Yuki
+509c f: Finding Kinai
+50e4 f: Receiving the Promised Veil
+511c f: The Unkeepable Promise
+513c f: When the Lie Was Told to Romia
+5174 f: At Hushabye Beach
+5194 f: Romia Vanishes into Sea Foam
+51cc f: Kinai and Yuki's Letter
+521c f: Arriving in the Undersea Kingdom of Nautica
+5260 f: The Undersea Kingdom for the First Time
+5298 f: Obtaining the Green Orb
+52c4 f: Getting the Orb Sunk in the Sea
+544c f: The Frozen Castle Gate
+54ac f: Frozen Sniflheim
+54e8 f: The Ice Castle
+5514 f: Queen Charlotte of Sniflheim
+5544 f: Charlotte Appears
+5570 f: The Blizzard in Milreanne Forest
+55a0 f: The Milreanne Blizzard
+55cc f: Rejoining the Party
+5600 f: Rejoining Everyone
+5638 f: Battle with Moon Baba
+565c f: Before the Moon Baba Battle
+568c f: The Ice Witch Appears
+56c0 f: After the Moon Baba Battle
+56ec f: At the Old Scholar's Hut
+5720 f: The Old Scholar's Hut
+5758 f: The Truth Revealed
+57b8 f: Battle with Lizzlette
+57e0 f: Before the Lizzlette Battle
+5814 f: Sealing the Ice Witch
+5850 f: After the Lizzlette Battle
+5880 f: The Mysterious Voice
+58a0 f: Mysterious Voice 1
+58cc f: The Mysterious Voice Again
+58f8 f: Mysterious Voice 2
+5924 f: The Two Charlottes
+593c f: Which One Is Real?!
+5968 f: Obtaining the Blue Orb
+5990 f: The Witch's Change of Heart
+59c4 f: Obtaining the Six Orbs
+59ec f: Obtaining the 6 Orbs
+5a1c f: On a Journey in Search of the Truth
+5a54 f: The Witch of the Ice Kingdom: Scenario Clear
+5b60 f: Veronica and Serena's Homecoming
+5b8c f: The Twins' Homecoming
+5bc8 f: In the Plaza of Arboria
+5bfc f: In the Plaza
+5c20 f: The Myth of the Hero Erdwin
+5c90 f: Before Yggdrasil
+5cd0 f: Each Makes a Vow
+5cf8 f: The Rainbow Bridge
+5d18 f: Building the Rainbow Bridge
+5d50 f: Jasper's Dark Power
+5d74 f: Before the Fall: Before the Jasper Battle
+5dbc f: The True Identity of the King of Heliodor
+5e4c f: The End of Erdrea
+5f3c f: The Luminary's Dream
+5fac f: The Luminary Turned Fish
+5fdc f: The Luminary Becomes a Fish
+6014 f: At the Undersea Kingdom Inn
+6050 f: Tojin Astonished by the Awakened Luminary
+609c f: Reunion with Queen Seren of the Mermaids
+60e4 f: Reunion with the Mermaid Queen
+6190 f: The Collapsed World and a Flame of Hope
+6238 f: Leaving the Sea of the Guardians
+6274 f: Leaving the Sea of the Guardians
+62bc f: The Undersea Kingdom Collapses
+6334 f: The Luminary Is Reeled In
+636c f: The Luminary Gets Reeled In
+6514 f: Leaving the Fisherman's Hut
+6544 f: Departing the Fisherman's Hut
+6584 f: Reunion with Gemma
+65a4 f: Arriving at the Last Bastion
+65e8 f: Reunion with Amber
+6638 f: Reunion with the King of Heliodor
+66a8 f: The Hero's Return
+6708 f: The Undead Army's Assault
+673c f: The Undead Army Strikes
+6778 f: Battle with the Undead
+67a0 f: Division Commander Pre-Battle Cutscene
+67dc f: The Undead Army Retreats
+6810 f: Victory over the Division Commander
+684c f: The King of Heliodor's Plan
+6880 f: Receiving the Key to Heliodor
+68a8 f: Amber Sees Them Off
+68f0 f: Thinking of the Last Bastion
+6928 f: Watching the Undead Army Attack the Fortress
+6978 f: The Collapsed Grand Staircase
+69a8 f: The Grand Staircase Has Collapsed
+69e4 f: Hendrik and Jasper
+69fc f: Hendrik and Jasper (01)
+6a24 f: Finding a Secret Passage
+6a84 f: Battle with Zordrak, Corpse General
+6ac0 f: Before the Zordrak Battle
+6b08 f: Rematch with Zordrak, Corpse General
+6b44 f: Before the Zordrak Rematch
+6b8c f: The Vanished Eternal Darkness
+6bb4 f: Victory over Zordrak, Corpse General
+6bf8 f: The Banner of Victory
+6c50 f: The Shield That Protects the Luminary
+6c84 f: Hendrik Receives the Shield of Heliodor
+6dc4 f: The Village of the Monks
+6e34 f: The High Priest Sampo's Tale
+6e6c f: The Grand Master's Palace
+6ea0 f: The Legend of Erdwin
+6ef0 f: Don't Be Like Rab
+6f10 f: Don't Be Like Rab (01)
+6f40 f: The Mysterious Monk
+6fa8 f: The Monk's True Identity
+7020 f: Descending to the Netherworld
+7050 f: The Netherworld (01)
+7078 f: Meeting Master Nima
+70e0 f: Reunion with Rab
+7128 f: Training to Learn Overlord Slash
+71b0 f: Battle with Rab
+71d0 f: Rab Pre-Battle Cutscene
+7200 f: The Ultimate Technique, Grand Nebula
+7234 f: Rab Post-Battle Cutscene
+7260 f: Rab Joins Again
+7288 f: Reunion with Rab: Scenario Clear
+73d8 f: The World-Saving Parade Appears
+7430 f: Back to Phnom Nonh
+7458 f: Arriving in Phnom Nonh
+7484 f: What Happened in the Village
+74b8 f: Talking with Bahatra
+74e0 f: Bahatra's Son, Chelon
+7508 f: Chelon Joins
+7534 f: Battle with Furfur
+755c f: Before the Furfur Battle
+7590 f: Rescuing the Villagers
+75d0 f: After the Furfur Battle
+7600 f: A Parent and Child Reunite
+7660 f: Sylvando's Resolve
+76a8 f: The Parade Disbands
+76cc f: The Parade Disbands
+76f4 f: Back to Puerto Valor
+7720 f: Arriving in Puerto Valor
+774c f: Master Diego and Hendrik
+7778 f: An Audience with Diego
+77a4 f: Sylvando's Past
+77c4 f: Encouraging Sylvando
+77ec f: A Knight Never Goes Back on His Word
+7818 f: Sylvando and Diego
+7838 f: Sylvando Joins Again
+7864 f: Farewell to the Companions
+794c f: Jarvis, Sea General's, Assault
+7990 f: Jarvis's Assault
+79c0 f: Waking in a Strange Meadow
+7a00 f: Waking in the Meadow
+7a34 f: Meeting the Seer
+7a64 f: Fishing with the Seer
+7a9c f: What Is the Luminary's Power?
+7ac0 f: The Seer's Tale
+7aec f: A Prophecy Appears at Sea
+7b24 f: The Prophecy on the Shore
+7b54 f: Jarvis, Sea General, Again
+7b88 f: Jarvis, Sea General, Appears
+7bd0 f: Temporary Retreat
+7bf4 f: Temporary Retreat (Without the Luminary's Power)
+7c40 f: Battle with Jarvis, Sea General
+7c80 f: Jarvis Pre-Battle (With the Luminary's Power)
+7cd0 f: Rematch with Jarvis, Sea General
+7d10 f: Before the Jarvis Rematch
+7d40 f: The Vanished Threat of the Sea
+7d80 f: After the Jarvis Battle
+7e50 f: The Luminary's Star
+7ea8 f: The Sultan of Gallopolis's Request
+7ed4 f: On the Throne of Gallopolis
+7f04 f: Reunion with Prince Faris
+7f7c f: The Black Spirit
+7fd4 f: The Fall of the Giant Star
+801c f: The Ancient Writing on the Luminary's Star
+8070 f: The Ancient Writing Carved in the Star
+80b8 f: Obtaining Gaia's Hammer
+829c f: The Dream of Lament
+82c8 f: Rab's Concern
+8308 f: Beyond the Rubble
+8328 f: Clearing the Rubble
+8344 f: Battle with the Mourning Warrior
+8380 f: Before the Mourning Warrior Battle
+83c0 f: The Mourning Warrior's True Identity
+83fc f: After the Mourning Warrior Battle
+843c f: Invitation to Despair
+848c f: The Gathering of the Royals
+84b8 f: The Royals' Assembly
+84e8 f: Irwin and the King of Heliodor
+8548 f: Irwin and Eleonor
+8588 f: The Four Great Nations Conference
+85e0 f: Courage in the Flames of War
+8638 f: Preparing to Escape
+8668 f: Preparing to Flee
+869c f: For the Sake of Family
+86bc f: Irwin's Swordplay
+86e8 f: Beneath Dundrasil Castle
+8718 f: Going Below
+8738 f: Parting from Family
+8760 f: Parting from Eleonor
+8788 f: Guided by the King of Heliodor's Voice
+87c8 f: Guided by the King of Heliodor's Voice
+887c f: The Light of the Awakened Luminary
+88b8 f: The Luminary's Power Restored
+88f4 f: Battle with Bakumos
+8918 f: Before the Bakumos Battle
+8948 f: Reunion with Father and Mother
+8980 f: After the Bakumos Battle
+8a30 f: Rumors of a Traveling Martial Artist
+8a60 f: In Front of Octagonia
+8a94 f: Reborn Octagonia
+8ac0 f: Transformed Octagonia
+8aec f: Battle with Jade
+8b10 f: Before the Jade Battle
+8b40 f: Battle with Boogie, Spirit General
+8b7c f: After the Jade Battle
+8bac f: Rematch with Boogie, Spirit General
+8bec f: Before the Boogie Rematch
+8c18 f: Jade Joins Again
+8c48 f: After the Boogie Battle
+8d78 f: Miko's Request
+8dc8 f: The Monster on the Mountain Path
+8e38 f: Atsuo's Request
+8e78 f: Witnessing the Man-Eating Fire Dragon
+8eb8 f: Witnessing the Fire Dragon
+8eec f: Miko and Atsuo Clash
+8f44 f: The Man-Eating Fire Dragon Attacks
+8f84 f: The Man-Eating Fire Dragon Strikes
+8fc4 f: Battle with the Man-Eating Fire Dragon
+9004 f: Man-Eating Fire Dragon Pre-Battle Cutscene
+904c f: The Man-Eating Fire Dragon Flees
+908c f: Man-Eating Fire Dragon Post-Battle Cutscene
+90d4 f: The Truth About Miko
+911c f: The Gate of Mount Huji
+9150 f: Opening the Gate
+9180 f: Battle with Ryu, Turned Fire Dragon
+91bc f: Before the Battle with Ryu, Turned Fire Dragon
+9204 f: The Curse Is Lifted
+9228 f: After the Battle with Ryu, Turned Fire Dragon
+926c f: The Village's Future
+948c f: Reunion with Erik, Now Without Memory
+94dc f: Sniflheim After the World's Collapse
+9524 f: Trouble at Sniflheim Harbor
+9560 f: The Mysterious Golden Plague
+9590 f: Hearing Charlotte's Account
+95cc f: Witnessing Residents Turn to Gold
+9614 f: Witnessing an Old Woman Turn to Gold
+9660 f: Erik's Origins
+9680 f: The Priest Tells of Erik's Past
+96c4 f: The Golden Soldiers Attack
+96fc f: The Viking Ship Attacks
+9738 f: Battle with the Golden Soldiers
+9770 f: Before the Golden Soldier Battle (Sniflheim Town)
+97d0 f: Erik Is Taken
+97e8 f: After the Golden Soldier Battle (Sniflheim Town)
+9848 f: The Golden Soldiers' True Nature
+98b8 f: Erik the Captive
+9900 f: Battle with the Golden Soldiers, Again
+9940 f: Before the Golden Soldier Battle (Viking Hideout)
+9990 f: Rescuing Erik
+99b4 f: After the Golden Soldier Battle (Viking Hideout)
+9a00 f: Erik and Maya's Past, Part 1
+9a2c f: Erik's Past 1
+9a54 f: Erik and Maya's Past, Part 2
+9a80 f: Erik's Past 2
+9aa8 f: Erik and Maya's Past, Part 3
+9ad4 f: Erik's Past 3
+9afc f: Erik Joins Again
+9b28 f: Erik's Memory Returns
+9b64 f: Into the Golden Castle
+9b94 f: The Golden Castle's Gate Opens
+9bdc f: The True Identity of Kilgore, Iron General
+9c20 f: Kilgore's True Identity
+9c50 f: The Dark Lord's Miracle That Befell Maya
+9c9c f: Maya Becomes Kilgore
+9cc0 f: Battle with Kilgore, Iron General
+9d00 f: Before the Kilgore Battle
+9d30 f: Rematch with Kilgore, Iron General
+9d74 f: Before the Kilgore Rematch
+9da4 f: Maya's Runaway Power
+9dcc f: After the Kilgore Battle
+9dfc f: Erik's Atonement, Maya's Wish
+9e34 f: Erik Rescues Maya
+9e68 f: A New Journey
+9e94 f: Erik's New Journey (01)
+9fa4 f: Battle with Nedra, Dread Dragon
+9fd8 f: Before the Nedra Battle
+a018 f: Serena Joins Again
+a044 f: After the Nedra Battle
+a080 f: The Fall of Arboria
+a0f0 f: Veronica's Final Moments
+a138 f: Those Left Behind
+a198 f: The Legend of the Divine Vessel
+a1dc f: The Divine Vessel
+a210 f: The Sleepless Luminary
+a238 f: The Luminary Who Cannot Sleep
+a26c f: Serena's Resolve
+a28c f: The Sage's Singing Voice
+a2c0 f: At the Arboria Inn
+a2f4 f: Serena's Guidance
+a31c f: Cetacea, the Divine Vessel
+a350 f: Meeting Cetacea
+a474 f: The Mysterious Temple Floating in the Sky
+a4c0 f: Visiting the Ruined Village of the Divine Folk
+a51c f: Meeting the Divine Folk
+a550 f: Meeting a Survivor of the Divine Folk
+a5a8 f: Obtaining the Sacred Seed Flame
+a628 f: Vision of the Sacred Sapling, Part 1
+a6b8 f: Vision of the Sacred Sapling, Part 2
+a748 f: Vision of the Sacred Sapling, Part 3
+a7d8 f: The Divine Folk's Legend
+a858 f: The Battlefield's Miasma Clears
+a8e8 f: Puff-Puff in the Sky
+a938 f: Obtaining Orichalcum
+a990 f: It Rises! The Legendary Forge!
+aa20 f: The New Sword of the Luminary
+aa90 f: Storming the Sky Fortress
+abe8 f: Battle with Garinga, Dragon General
+ac2c f: Before the Garinga Battle
+ac5c f: Into the Sky Fortress
+ac90 f: After the Garinga Battle
+acbc f: Battle with Jasper, Dark Marshal
+acf8 f: Jasper Pre-Battle Cutscene
+ad2c f: Jasper's Final Moments
+ad78 f: The Six Generals, Again
+ada0 f: The Six Generals Return
+add0 f: Battle with Mordegon the Dark Lord
+ae04 f: Before the Mordegon Battle
+ae6c f: Before the Mordegon Battle, Part 2
+aea4 f: The Sky Fortress Collapses
+aee0 f: After the Mordegon Battle
+af10 f: Escape from the Sky Fortress
+af98 f: The Companions Return Home
+afc8 f: First Playthrough Ending
+b124 f: Visiting Veronica's Grave
+b174 f: Off on a Journey with the Companions
+b1a0 f: The Companions Gather
+b1d0 f: Cobblestone Afterward
+b228 f: Sniflheim Afterward
+b298 f: Puerto Valor Afterward
+b300 f: The Ruins of Dundrasil Afterward
+b370 f: The Mysterious Ruins
+b394 f: Standing in the Mysterious Ruins
+b3d0 f: The Mural of the Embodiment of Lost Time
+b41c f: The Embodiment of Lost Time
+b45c f: Obtaining the Mystical Cog
+b49c f: Getting the Mystical Cog
+b4dc f: Into the Tower of Memories
+b514 f: Setting the Cog in the Door
+b54c f: Meeting the Keeper of Time
+b5cc f: The Companions Stand in the Way
+b634 f: The Luminary's Resolve
+b660 f: The Luminary's Decision
+b694 f: To the Altar of Time
+b6ec f: In Search of Times Past
+b884 f: Reunion with the Companions
+b8e0 f: Battle with Jasper, Again
+b90c f: Second Playthrough: Before the Jasper Battle
+b954 f: Waking from the Nightmare
+b97c f: Having Woken from the Nightmare
+b9ac f: Jasper's True Identity
+b9d0 f: Before the Fall: After the Jasper Battle
+ba18 f: Obtaining the Luminary's Sword
+ba50 f: The Shadow of the Dark God
+ba80 f: The Heliodor Banquet
+bad0 f: An Uneasy Night
+baf4 f: The Sleeping Luminary
+bb24 f: Battle with Mordegon the Sorcerer
+bb5c f: Before the Mordegon the Sorcerer Battle
+bba0 f: Mordegon the Sorcerer's Final Moments
+bbd8 f: After the Mordegon the Sorcerer Battle
+bc1c f: A Brief Peace
+bc44 f: Omen of the Dark God
+bc78 f: Disturbance in the Luminary's Star
+bcb0 f: On the Balcony
+bccc f: A New Threat Emerges
+bd0c f: The Dark God Calasmos Appears
+bd48 f: Hendrik's Vow
+bfc4 f: The Seer's Words
+bff4 f: The Seer Appears
+c028 f: Arriving at the Havens Above
+c0a4 f: The Myth Passed Down in the Village
+c0d8 f: Elder Igortap's Tale
+c114 f: The Awakening of New Power
+c144 f: The Sacred Sapling
+c174 f: Erdwin's Past, Part 1
+c19c f: Vision of the Past 1
+c1d4 f: Erdwin's Past, Part 2
+c1fc f: Vision of the Past 2
+c234 f: Erdwin's Past, Part 3
+c25c f: Vision of the Past 3
+c294 f: Erdwin's Final Moments
+c2b4 f: Vision of the Past 4
+c2ec f: The Legendary Hero's Companions
+c330 f: Vision of the Past 5
+c368 f: Uranos's Soliloquy
+c3b8 f: Obtaining the Mystical Cog, Again
+c404 f: The Mural's Cog
+c438 f: Into the Tower of Memories, Again
+c47c f: To the Forgotten Tower
+c4ac f: Cetacea Awakens
+c55c f: Battle with Fell Hell Condor
+c5cc f: The Severed Fate
+c644 f: Battle with the Fell Fighters
+c6c4 f: Battle with Fell Arachtor
+c734 f: Battle with Fell Bakumos
+c7a4 f: Parting from Father and Mother
+c814 f: Sylvando's True Identity
+c864 f: Diego's Trial
+c8ac f: The Power of Bonds
+c8ec f: Battle with Fell Merman
+c954 f: Battle with Fell Hustle Codger
+c9cc f: Battle with Fell Nedra, Dread Dragon
+ca54 f: Battle with Fell Moon Baba
+cabc f: Maya Returns
+cb04 f: Rab and Master Nima Reunite
+cb74 f: Battle with Death Aegir
+cbcc f: The Luminary's Sword Completed, Again
+cc54 f: Meeting Nelsen
+d12c f: Meeting the Tockles
+d18c f: The Tockle Elder
+d1f4 f: Into the World of the Adventure Log
+d274 f: Starting the Tockle Search
+d2dc f: The Pegasus and the Old Man Merge
+d364 f: The Pegasus and the Horse Merge
+d3cc f: Battle with Ojamaro
+d3f0 f: Before the Ojamaro Battle
+d420 f: Receiving the Seven-Hued Nectar
+d43c f: Tickington After C_300
+d484 f: Battle with the Altar Guardian, Part 1
+d4cc f: Before the Boss Battle 1-2-3
+d500 f: Victory over the Altar Guardian, Part 1
+d548 f: After the Boss Battle 1-2-3
+d57c f: Battle with the Altar Guardian, Part 2
+d5c4 f: Before the Boss Battle 4-5-6
+d5f8 f: Victory over the Altar Guardian, Part 2
+d640 f: After the Boss Battle 4-5-6
+d674 f: Battle with the Altar Guardian, Part 3
+d6bc f: Before the Boss Battle 7-8
+d6ec f: Consecutive Battles with the Altar Guardians
+d730 f: After the Boss Battle 7-8
+d760 f: All Altar Guardians Defeated
+d7ac f: After the Boss Battle 9-10
+d7dc f: Battle with the Destroyer of Time
+d81c f: Before the God of Time Battle
+d858 f: At the End of Times Past
+d894 f: The God of Time
