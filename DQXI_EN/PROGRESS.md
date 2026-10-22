@@ -407,3 +407,8 @@ Remaining untranslated: cutscene_chapter_param (866), staffroll_text_1/2 (760 ea
 - Title names shortened (maps/src_ach/title_short.json), "Unused" key added to 10_ui_core.json, mksave.py updated (243 titles, hero lv40) - rebuilt 0 errors.
 - Still NOT verified in game: Titles pages 6-16, gear bag descriptions, passive skills / Skills tab, gear-effect text, profile text, Tockle screens, cutscene viewer chapter titles, StreetPass text, late-game dialogue. Untranslated layout strings that remain are mostly dev placeholders (not shown).
 - Emulator: after boot_save, ~45 presses of `a` are needed to clear the Gemma opening dialogue before `z` opens the menu. Misc menu = z, h, g g g, a; Skill Panel = 5th entry.
+
+## Session 7f
+- Verified in game: Titles pages 3/5/7/16 (names + descriptions fit), Records summary, Gear bag lists + stat/special-effect panes (swords, spears, capes, accessories).
+- Known cosmetic: item-count suffix in Gear bag list shows a clipped Japanese counter "こ" ("1こ"). Not in any bxon/layout/code string I could find (win_*_have/caption layouts are 'skip' = runtime-filled). Added tm '{var:8}こ'->'x{var:8}' (no effect there) and 'こ'->' ' for the "How many?" popup. TODO: locate source (maybe format built in code via SJIS/ASCII table, or a texture).
+- Still unverified: passive skills/Skills tab, profile text, Tockle screens, cutscene chapter titles, StreetPass, late-game dialogue.

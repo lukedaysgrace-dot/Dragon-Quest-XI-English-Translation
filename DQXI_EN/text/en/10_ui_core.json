@@ -27,8 +27,8 @@
   "カジノコイン": "Casino tokens",
   "うちなおしの宝珠": "Reforge orbs",
   "他": "Other",
-  "かえない": " \u2015",
-  "うれない": " \u2015",
+  "かえない": " ―",
+  "うれない": " ―",
   "うちなおせない": "Can't reforge",
   "つよさ": "Stats",
   "じゅもん": "Spells",
@@ -180,7 +180,6 @@
   "はずかしい呪い": "Curse of Shyness",
   "海上": "At sea",
   "町の人の話を聞いたり　いろんな場所に\n行ってみたりして　冒険を進めよう！": "Talk to people and explore new places\nto move your adventure forward!",
-
   "はなす": "Talk",
   "どうぐ": "Items",
   "そうび": "Equip",
@@ -253,7 +252,6 @@
   "ゴールドを使っての\n買い物が　できなくなります！\n装備・どうぐは　宝箱などから\n入手しましょう！": "You can't spend gold\nin shops! Find your\ngear and items in\nchests and the like!",
   "すべての　防具やアクセサリーを\n装備できなくなります！\n呪文やスキル　どうぐを\nうまく　使いこなしましょう！": "You can't equip any\narmour or accessories!\nMake clever use of\nspells, skills and items!",
   "冒険中に　いろんな場面で\nはずかしがり屋な　一面が\nあらわれます。\nなにが起こるかは　おたのしみ！": "Your shy side shows\nat all sorts of\nmoments. What happens?\nWait and see!",
-
   "冒険をする": "Continue adventure",
   "中断した冒険をする": "Resume suspended game",
   "冒険の書をつくる": "New adventure log",
@@ -265,6 +263,7 @@
   "しばりプレイ達成状況": "Draconian records",
   "しばりプレイ設定": "Draconian Quest setup",
   "挑戦中のしばりプレイを見る": "View active Draconian rules",
-  "冒険の書": "Adventure log"
+  "冒険の書": "Adventure log",
+  "{var:8}こ": "x{var:8}"
  }
 }
