@@ -1,0 +1,99 @@
+101|Quit roulette?
+102|There's a Fun-Size Forge here.\nIt looks like you can craft and reforge gear like weapons and armour.
+103|Choose the type of item to make.
+104|You don't have the recipe, so you can't make that.
+105|You don't have enough materials to make {var:5}.
+106|Which {var:5} will you use?
+107|Use the {var:5} that {var:102}{var:2} has equipped?
+108|Use the {var:5} that {var:2} is carrying?
+109|The materials in your bag aren't enough, so you'll use the materials you're carrying.
+110|Make {var:5}?\nAre you sure?
+111|You don't have the recipe.
+112|It's probably best not to reforge this piece of gear.
+113|You don't have enough reforge orbs.
+114|Use {var:8} reforge orbs to reforge {var:5}?\nAre you sure?
+115|Not enough focus!
+116|You made a slightly shoddy {var:5}...
+117|You made {var:5}!
+118|Reforging {var:5} failed...
+119|{var:2} equipped {var:5}.
+120|Put {var:5} in {var:2}'s items.
+121|Put {var:5} in the bag.
+122|You got {var:8} reforge orbs.
+123|Continue using the Fun-Size Forge?
+124|You can't stop partway through.\nTo finish forging, choose "Finish."
+125|Your smithing skill has improved thanks to your adventures so far!
+126|Learned the skill "{var:5}"!
+127|"...There we are. The number of stamps you've collected, {var:1}, is now {var:8}, my dear.
+128|"When this reaches {var:9}, I shall give you {var:5}. Do keep up the good work, my dear!
+129|"Congratulations, my dear!\nYou've reached {var:8} stamps. Here is {var:5} for you!
+130|"Congratulations, {var:1}!\nYou've completed page {var:8} of the Medal Stamp Book at last!
+131|"But the journey of medal collecting is far from over!\nOn to the next page, my dear!
+132|"Congratulations, {var:1}!\nYou've completed the whole Medal Stamp Book!
+133|"A student who fills the entire stamp book - the first in the Medal Academy's history!\nI knew my eye for talent was not mistaken!
+134|"Though the stamp book is done, the road of collecting Mini Medals goes on.
+135|"{var:1}, since you completed the stamp book, I shall give you splendid prizes in exchange for Mini Medals!
+136|"If you wish to trade medals for a splendid prize, just talk to me!
+137|"On to page four at once!\n...I wish I could say that, but I'm terribly sorry.
+138|"The truth is, the next page isn't ready in time, so I can only stamp up to here for now...
+139|"But everyone at the Academy is working hard to prepare it.\nPlease look forward to it!
+140|"...Sorry to have kept you waiting so long!\nThe final page of the stamp book, page four, is finally ready!
+141|"The prizes you can trade for on this page are truly spectacular, so do look forward to them.
+142|"...There we are. The number of stamps you've collected, {var:1}, is now {var:8}.
+143|"When this reaches {var:9}, I'll give you {var:5}. Do your best to collect them.
+144|"Congratulations!\nYou've reached {var:8} stamps. Here is {var:5} for you!
+145|"Congratulations, {var:1}!\nYou've completed page one of the Medal Stamp Book at last!
+146|"On to page two at once!\n...I wish I could say that, but I'm terribly sorry.
+147|"This branch, the Medal Exchange Outpost, is only authorised to stamp up to page one.
+148|"To get stamps from page two onward, please visit Principal Medal at the main Royal Medal Academy.
+149|Profile updated.
+150|Discard your changes and finish editing your profile?\nAre you sure?
+151|I'm sorry, but that text can't be entered.
+152|Profile registered.
+153|Choose the Tockle to set as your envoy Tockle.
+154|Set {var:5} as your envoy Tockle?
+155|{var:5} is now your envoy Tockle.
+156|You can send out Tockles you received from passers-by as companions.
+157|Set a Tockle helper?
+158|You have no Tockles received from passers-by, so you can't change your Tockle helper.
+159|Keep sending out the Tockle helper that's currently set?
+160|Set {var:5} as your Tockle helper?
+161|Stop setting a Tockle helper?
+162|{var:5} is now your Tockle helper.
+163|Updating the data to send via StreetPass.
+164|Tockle settings complete.
+165|Say goodbye to {var:5}?\nThe Tockle you part with will be gone. Are you sure?
+166|Add {var:5} to the VIP Album?\nAre you sure?
+167|Added {var:5} to the VIP Album.
+168|The VIP Album is full, so you can't add any more.
+169|{var:5} is already in the VIP Album.\nRemove {var:5} from the VIP Album?
+170|Remove {var:5} from the VIP Album?
+171|Removed {var:5} from the VIP Album.
+172|Choose the Tockles to say goodbye to.
+173|Say goodbye to the Tockles you chose?\nThey will be gone. Are you sure?
+174|You said goodbye to {var:5}.
+175|You said goodbye to the chosen Tockles.
+176|You can't say goodbye to your envoy Tockle.
+177|You can't say goodbye to Tockles in the VIP Album.
+178|You aren't registered for StreetPass right now.\nYou can register in Tickington.
+179|You haven't passed any Tockles.
+180|Send the Tockles you passed to Tickington?
+181|The Tockles were sent to the village!\nAs a token of friendship, they left hat tickets behind!
+182|The Tockles you passed were sent to the village!
+183|The village has too many residents.
+184|Choose Tockles to say goodbye to so that there are {var:8} or fewer.\nAre you sure?
+185|Stop sending Tockles to the village?
+186|Choose {var:8} more.
+187|Got a ticket for {var:2}!
+188|Got a ticket for {var:2}!\nGot a ticket for {var:3}!
+189|Got a ticket for {var:2}!\nGot a ticket for {var:3}!\nGot a ticket for {var:4}!
+190|{var:3}'s sender, {var:2}: StreetPass number {var:8}!\n{var:3} got a little stronger!
+191|"So it's {var:5}.\nThat will cost {var:8} gold. Is that all right?
+192|"Looks like you don't have enough money to call {var:5} back.
+193|"Oh, {var:5}!\nThe Luminary is calling for you!
+194|{var:5} came back again.
+195|"Is there anyone else you want to call back?
+196|"There don't seem to be any more Tockles to call back.
+197|"The village is full of residents, so I can't call anyone else back.
+198|"Stop your StreetPass registration, tchi?
+199|You haven't agreed to the latest terms of use, so the StreetPass profile couldn't be set to {var:5}{var:8}.

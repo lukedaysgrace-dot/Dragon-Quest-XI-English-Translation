@@ -90,3 +90,12 @@ in the parent folder, the official English script RTFs are in `../DQXI SCRIPT/`.
   Wheel of Time (神秘の歯車), Tower of Lost Time, Spirits of Lost Time, Erdwin's Lantern, Guiding Light, Igoltap (elder),
   Neresen, Serenica, Morcant (=Seer 預言者), Mordegon, Calasmos, Indignus, Jasper, Hendrik, Jade, Rab, Sylvando, Erik, Mia, Gemma.
 * Official script `official/rows.jsonl` is the primary source for wording; grep it for terms.
+
+## Session 8 pointer
+See PROGRESS.md 'Session 8'. Next: translate party chat (unc.py TalkPartyContent2), credits, remaining BattleText/LYT; verify Skills tab/profile/Tockle in game; fix Skill Panel 'Sword God' overflow and Gear bag 'こ'.
+
+
+Session 8 addendum: party chat is complete (4331/4331) via tools/party_fill.py + maps/src_small/party_en.txt (see PROGRESS.md). Next: credits, BattleText, LYT, then in-game checks.
+
+## Session 8 addendum 2
+Added 118_lyt_fan.json and 119_misc_fan.json (see PROGRESS.md). Next: emulator checks of party chat, recaps, credits, Nelsen trial dialogue, Ishi Village/Emma scenes, bustier merchants; fix Skill Panel "Sword God" overflow; find Gear bag counter.

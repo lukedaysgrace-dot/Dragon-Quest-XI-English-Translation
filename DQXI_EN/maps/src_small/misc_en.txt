@@ -1,0 +1,624 @@
+1|Resetting {var:5} will return {var:8} skill points.
+2|Reset for {var:9} gold?
+3|{var:5} was reset! {var:8} skill points returned!
+4|You don't have enough gold! Resetting {var:5} costs {var:9} gold.
+5|Skill reset applies to a skill type. Select the type you want to reset and press Confirm.
+6|No skill points have been assigned to {var:5}.
+7|{var:5} was reset! {var:8} skill points returned!{var:102} *The surrounding secret panels were also reset.{var:100}
+8|"I'm a wandering ore maniac. I sell prime ore I've collected on my travels around the world. So, how about it..."
+9|"Back in the day I was a notorious delinquent, you know. I caused trouble daily until I got thrown in the dungeon."
+10|"This is the lower town of Heliodor Castle Town. A town abandoned by prosperity."
+11|"Zzz... zzz."
+12|"Oh! Big brother! Thank you for helping Mary! This is a thank-you gift. Please take it!"
+13|"You're Hunfrey's partner, aren't you? Hunfrey told me. He said he'd wake you in the morning for tomorrow's qualifiers."
+14|"Our inn lets first-time tournament entrants stay for free. Would you like to stay right away?"
+15|"Then let me show you to your room. Rest your body well for tomorrow's qualifiers..."
+16|"Oh, I see. Do come back when you're done. After all, it's free to stay."
+17|"...Oops, sorry. I guess fatigue is building up. Back-to-back fights really are tiring..."
+18|"All right, the finals at last! Get fired up again! Let's go, {var:1}!"
+19|"You get nervous before the finals, don't you? Call me when you're mentally ready. Let's grab the title together!"
+20|"Welcome, customer. I heard from the colosseum management. What a misfortune, Hunfrey collapsing."
+21|"The management has covered your fee, so you can stay free today. Would you like to stay right away?"
+22|"Then let me show you to your room. Rest your body, tired from the tournament..."
+23|"Ah, {var:1}, we've been waiting! Hunfrey has recovered, so we'd like to hold the award ceremony now!"
+24|"An attendant will guide you to the colosseum venue right away. Sorry for the trouble, please come along!"
+25|"Congratulations on winning, {var:1}! But what a misfortune that Hunfrey collapsed in the middle of the ceremony..."
+26|"As for Hunfrey's condition, his life isn't in danger, I'm told. It was probably fatigue from the matches."
+27|"The rest of today's award ceremony will be held another day, depending on Hunfrey's condition."
+28|"Hey, {var:1}! Nice work in your first main-event match! You moved pretty well!"
+29|"No time to rest, the next match starts right away. You're ready, aren't you?"
+30|"Welcome. This is the inn. The master told us about you. You're staying the night, correct?"
+31|"...What? I know where the lost child is? What could you mean?"
+32|"...Oh! This must be my husband's doing again. He says whatever comes to mind to attract customers."
+33|"I'm sorry... I don't know anything about that lost child."
+34|"...To make up for it, your first night is free. Please do stay."
+35|"We have a vacant room and it's ready. Would you like to stay right away?"
+36|"Certainly. Then I'll show you to your room. Please relax."
+37|"I see. Another time, then. We'll make your next stay free. Call out when you want to stay."
+38|"Oh, would you like to stay? To make up for it, your first night is free."
+39|"Good morning. You slept soundly last night. Have a nice day."
+40|"...Come to think of it, a guest named Bubuka hasn't come back since yesterday."
+41|"He was so absorbed in the ruins' murals. I hope he isn't hurt... Please be careful sightseeing too."
+42|As if beckoning {var:1} and the others, the chest of the beautiful woman in the mural glows ominously.
+43|Answer the mural's call and head to a mysterious other dimension?
+44|"What's wrong, {var:1}? This is no time to wander that weird world."
+45|"{var:1}, let's go back to the village first. We must tell everyone the mural's terrible truth."
+46|Preparing ingredients, currently closed. We plan to reopen soon. Please visit us as a travel memory.
+47|The door is firmly shut from the inside.
+48|Eerie moans not of this world come from the room. They seem to be the voices of people viewing the mural.
+49|An eerie voice echoes from somewhere...
+50|Ka ka ka, you came... foolish paints who know not your place.
+51|If you reach me safely, I myself will swallow you whole, heh.
+52|...Ka! Ka ka ka ka!
+53|It looks like last year's roster of Medal Academy students.
+54|Names of unique students line up, and the last page notes a new roster will replace this soon.
+55|Royal Medal Academy Student Roster: Sparkle Class Rankings.
+56|1 Chiko, 2 Ida, 3 Samantha, 4 Natasha, 5 Maisie, 6 Dahlia, 7 Ruri, 8 Gabrielle, 9 Yumiana
+57|10 Ukiha, 11 Sia, 12 Yasmin, 13 Niro, 14 Orel, 15 Oral, 16 Kira, 17 Nati, 18 Kimino
+58|19 Boris, 20 Willia, 21 Toki, 22 Yushka, 23 Maple, 24 Nontoto, 25 Sherry
+59|26 Iris, 27 Wise, 28 Seychelle, 29 Hannah, 30 Colt, 31 Bridget. 31 students in total.
+60|Teachers: Michiyo, Rouge, Marine, Milligan. 4 in total. Staff: Gilliam (janitor), Dawson (dietitian). 2 in total.
+61|Written by the 11th Principal Medal.
+62|Principal Medal
+63|"...Now then, as proof you are now a visiting student of our school, please receive this Medal Stamp Book!"
+64|"...Oh my! As expected of the man I had my eye on! You already got a Medal Stamp Book at the Medal branch in Puerto Valor!"
+65|"That stamp book is given to adventurers to judge whether they are fit to be visiting students of our school."
+66|"You are a visiting student I fully approve! The page limit on your stamp book is no longer necessary!"
+67|New pages were added to the Medal Stamp Book!
+68|"From now on, bring mini medals to me and I'll stamp one for each medal."
+69|"Collect many stamps and something truly, really good will happen."
+70|"Now then, the fun of medal collecting begins! Gather lots of mini medals and bring them to me!"
+71|{var:1} got a Medal Stamp Book!
+72|"That stamp book records how many medals you have collected."
+73|"Welcome back! You were gone so long that I was terribly worried!"
+74|"I wondered if something had happened to you or Kinai, and I kept singing a prayer song out of anxiety!"
+75|"...Oh, sorry. You're tired from your long trip and here I am..."
+76|"...So how was it? Is Kinai well? Will he... come to meet me?"
+77|Lie to Romia that Kinai will come for her?
+78|"...But... strange. Why isn't Kinai with you? Did he tell you to go ahead?"
+79|Really lie to Romia?
+80|{var:1} lied to Romia.
+81|{var:1} told Romia the truth.
+82|"...Kinai is dead? {var:1}, what are you saying? No... that can't be."
+83|"...Oh, {var:1}. What is that you're holding?"
+84|{var:1} handed Romia the Promised Veil.
+85|"...What? He... Kinai died gripping this veil...?"
+86|"A lie! Because... because he promised he would surely come for me!"
+87|"I'm sorry, {var:1}. Until I see his death with my own eyes, I can't... believe it."
+88|"...Please take me to the Kinai you met. Take me to Lonalulu!"
+89|"{var:1}, never mind me, set sail! I'll follow behind!"
+90|"What is it, {var:1}? You seem troubled to answer... I... want to know about Kinai soon."
+91|"I heard it all, y'know! You gonna take Sis Romia to Lonalulu?"
+92|"You got it! Leave it to me!"
+93|{var:1} and the others went to Lonalulu and moved to Silent Shore to avoid being seen.
+94|"What's the matter, traveler? Do you need something of me?"
+95|{var:1} told her about slaying the monster squid!
+96|"Oh, you're going to slay the monster squid Kraken? Then would you take one of my cannons? The Kraken fears the sound of cannons."
+97|"On one condition. The cannon is a keepsake from my late husband, full of memories. Will you promise to use it with care?"
+98|"Hm, what a fine answer! Very well. I'll give you the best one from my cannon collection!"
+99|"By the way, all my cannons are blanks. Shooting things with cannons is against my principles. Don't worry, they work on the Kraken."
+100|"My cannons are heavy and big, not suited for travelers to carry. I'll deliver it to your ship."
+101|"How heartless! Begone, whelp! I won't entrust my precious cannon to someone who can't cherish things!"
+102|"I'm counting on you, traveler. Use my prized cannon to save the fishermen from the Kraken."
+103|"Have you changed your heart a bit? Well, can you promise to use my cannon with care?"
+104|"Hm, very well. I'll give you the best one from my cannon collection."
+105|"Sorry, boss. My strength wasn't enough and the ship ran aground!"
+106|"Sis Sylvando and I will get the ship moving somehow, so please wait a little!"
+107|"Sis Romia made the ship movable with her mysterious power. We can set off anytime."
+108|"They haven't noticed us. Pulling back, preparing for battle, then returning to save the two is an option..."
+109|A letter is also in the chest. {var:1} took out the letter and began to read.
+110|To {var:1}: If you're reading this, something has happened to me.
+111|I'm sorry to have troubled you to the end. {var:1}, you're the kindest human I know, after Kinai.
+112|As promised, I will take you to the sea floor. The Mermaid Harp placed with this letter will lead you to an unknown world.
+113|Pass through the Soltcha Canal and use the harp at the pillar of light in the center of the inland sea.
+114|When you reach the undersea kingdom, please tell the Queen I am happy. Thank you truly.
+115|...From Romia
+116|"Welcome to the undersea kingdom Nautica. A human guest in hundreds of years! Since you're here, enjoy a trip under the sea."
+117|"If you miss the surface, talk to me anytime. I'll send you up right away."
+118|"Hey, this is the undersea kingdom Nautica. You spoke to me, so do you miss the surface?"
+119|"So, human, ready to go back above the sea?"
+120|"If I hear the Mermaid Harp's tune, I'll come get you anytime. Stay well until then~."
+121|"Oh, right, you came all this way. Enjoy the sea paradise Nautica to the fullest."
+122|"I get wanting to set sail, but Sis Romia is waiting at Silent Shore. Please find Kinai now."
+123|"I get wanting to set sail, but Sis Romia is waiting. Please go to Silent Shore now."
+124|"...Ah. You're the traveler who defeated the Kraken. Thanks to you we can fish again. Thank you."
+125|"But if the star of the feast leaves his seat, the villagers will be lonely. What are you doing here?"
+126|"...What? You're looking for Kinai? Well, I'm Kinai..."
+127|Tell Kinai about Romia?
+128|"Don't you have business with me? You're a strange one."
+129|"You again. Why call on people over and over without real business? You must have something to say to me."
+130|"Sorry, but if you've no business, leave me alone. I want to finish repairing the boat."
+131|"...Hm, the back gate is closed. Judging by the crest on the door, it won't open without a special key."
+132|"If the door won't open, there's no use staying. Let's get that key and come again."
+133|"If the door won't open, there's no use staying. Let's use the Mermaid Harp and head elsewhere."
+134|"They say if you offer six Orbs at the altar atop First Forest, you can reach Yggdrasil."
+135|"I'll wait here, so when all six Orbs are gathered, please come to me."
+136|"Oh, Luminary! It seems you've gathered the six Orbs! Wonderful!"
+137|"We've sent soldiers to investigate the black sun, but another worry is my people. I was troubled over how to encourage them."
+138|"...That's when I had that dream. A man calling himself the legendary warrior Nelsen appeared and told me to hold a top-tier race."
+139|"When I woke, it came to me! A race to thrill Gallopolis, no, the whole world, the unprecedented Black Cup!"
+140|"Heh, you're interested too, aren't you? ...But sadly only the chosen may enter the Black Cup."
+141|"If you wish to enter the Black Cup, win every race up to the Platinum Cup. ...I look forward to your performance."
+142|"A man named Nelsen came to me in a dream. From it I conceived the Black Cup, an unprecedented race to thrill the whole world."
+143|"Having conquered so many races, you will surely run bravely in the Black Cup too. ...I look forward to your performance."
+144|"Welcome back, {var:1}. Did you come to see how we're doing?"
+145|"...When I saw Ishi Village burned to the ground, I was pretty shaken, and so was everyone else..."
+146|"But we can't just stay down. Nothing would ever start! So we're all pulling together to rebuild the village."
+147|"Still, the villagers alone aren't enough. We've been looking for helpers, but nobody's turning up..."
+148|"Oh... I just thought of something! You must know lots of people all over the world, right?"
+149|"{var:1}, could you look for people among your acquaintances who would help rebuild Ishi Village, and ask them to come?"
+150|"Yay! Thank you! Let me tell you about the people we need."
+151|"First, we need a merchant to procure supplies. Someone like Derk, the great merchant of Heliodor, would be so reassuring."
+152|"Next, a bodyguard for the village. The masked wrestler in Octagonia looks tough enough to be perfect for the job."
+153|"We'd also love someone knowledgeable. I hear there's a skilled informant in Hotto. Could you look for them?"
+154|"Last is a village mascot! There's said to be a laid-back holy beast in the snowy forest. Could you somehow ask for its help?"
+155|"...If you find any of them on your travels, please speak to them. If they all come, I'm sure Ishi Village can be rebuilt."
+156|"I see... that's a shame. All right, I'll ask you again another time."
+157|"Even with the rebuilding, the villagers alone aren't enough, and we're in a bind."
+158|"Say, {var:1}, could you look for people among your acquaintances who would help rebuild Ishi Village, and ask them to come?"
+159|"Thank you for hearing my request! Let me tell you about the people we need."
+160|"Someone you asked has already come to Ishi Village to help rebuild! Thank you, {var:1}!"
+161|"Then let me tell you about the people we still need."
+162|"Please find a merchant to procure supplies. Someone like Derk, the great merchant of Heliodor, would be so reassuring."
+163|"Please find someone fit to be the village bodyguard. The masked wrestler in Octagonia looks tough enough to be perfect for the job."
+164|"Please find someone well-informed and knowledgeable. I hear there's a skilled informant in Hotto. Could you look for them?"
+165|"Please find a village mascot. There's said to be a laid-back holy beast in the snowy forest. Could you somehow ask for its help?"
+166|"This village is a wreck, and yet nobody here has given up. I like that. I'll do everything I can to help rebuild!"
+167|"Oh, right. Call it thanks for introducing me to the village. I've got something good for you."
+168|{var:1} received Noah's Treasure Notes!
+169|"Those notes hold all the secret info I've gathered so far... where treasure lies buried around the world."
+170|"I'm sure you can find the treasure by following them. Make good use of them."
+171|"Hey! Are my treasure notes proving useful? You'll find it, I know you will. Good luck!"
+172|"The village rebuilding is finally wrapping up. I plan to stay here a while. I couldn't bear to take my daughter's friend away from her."
+173|"Congratulations on your wedding. Being the Luminary must be tough, but be happy with your wife."
+174|"A man who can't make one girl happy has no hope of saving the world. Remember that."
+175|"Welcome back, {var:1}. ...Oops! You're my husband now, aren't you?"
+176|"Dear, thanks to the people you gathered, the village is completely back to normal."
+177|"Um, will you take this? I made it with all my love, hoping your adventures go safely."
+178|"I'll be waiting for you to finish your mission and come home safe. Do your best, my dear husband."
+179|"Welcome back, d-dear. Hehe, it's a little embarrassing to call you that, {var:1}."
+180|"Aren't you tired from your long journey? When you come home, take it easy. Why not rest for today?"
+181|"Then good night, dear. Thank you for another long day."
+182|"Good morning, {var:1}. I had such a lovely time with you last night. I wish you could stay longer, but you have your mission."
+183|"Don't worry about me. I'll keep this house safe for you, along with Aunt Pe... Mother Pearl."
+184|"Oh, you still have plenty of energy? Then, um... would you like to take a walk with me?"
+185|"Then let's go. Hehe... I can call this a little date, right?"
+186|Emma joined the party!
+187|Kurutchi read the mood and went back to Yocchi Village!
+188|"Oh? Then we'll go out another time... Have a good trip, my dearest hus-band."
+189|Stop walking with Emma?
+190|{var:1} parted ways with Emma.
+191|A painting of the wedding with Emma. Take a closer look?
+192|{var:1} and the party defeated all the monsters and liberated Gondolia!
+193|"I saw what you did! As expected of the Luminary... I was even moved."
+194|"My life has been all bad luck, but meeting you might be my one and greatest stroke of luck."
+195|"You saved me and my daughter this time too. I want to repay you... Name anything."
+196|"...Huh? You want me to help rebuild Ishi Village? As an informant living there?"
+197|"All right... if that's your request, I've no reason to refuse. I'll go to Ishi Village with my daughter!"
+198|Noah and Connie set off together for Ishi Village!
+199|"You saved me and my daughter this time too."
+200|"If you ever have a request, I'll work hard to repay you. Don't hold back."
+201|"Oh, it's you. Is there something you want to ask of me?"
+202|"...You want me to help rebuild Ishi Village? As an informant living there?"
+203|"Welcome! Even with a black sun in the sky, we're open for business! We did close when the monsters attacked, though! Gahaha!"
+204|"Hey, kid. You're just in time. I've got an amazing item for you today. Heh heh, don't be shocked when you hear it..."
+205|"The legendary garment, the Mystic Bustier! They say it's woven from heavenly thread! A one-of-a-kind rarity you'll never see again!"
+206|"Normally it's 1,000,000 gold, but I'm in a good mood today! I'll sell it for 980,000 gold! Will you buy it?"
+207|"Whoa, you're richer than you look! Here, take it! Kid, you made a great purchase!"
+208|{var:1} received a Mystic Bustier!
+209|"Heh heh, keep shopping at my store."
+210|"Step right up! Today's special is the Mystic Bustier! First come, first served! Step right up!"
+211|"...What? My brother was selling the same thing for 900,000 gold? Then what he sold was a fake...?"
+212|"...Well, whatever. I can't lose to him. I'll sell it for 800,000 gold! How about it? You'll buy the Mystic Bustier, right?"
+213|"What!? My brother's selling the Mystic Bustier for 400,000 gold!? He doesn't know the value of anything..."
+214|"Ugh... all right! Half of his price! I'll sell it for 200,000 gold! The Mystic Bustier for 200,000!!"
+215|"Selling the Mystic Bustier for 200,000 is suicide! I can't go any lower... Come on, decide! Will you buy the Mystic Bustier?"
+216|"What!? That idiot brother... selling the Mystic Bustier for 20,000!? Did he drop a digit!?"
+217|"Ugh..........."
+218|"...20,000 gold is crazy! That's no way to run a business! It's practically free!"
+219|"I can't go lower than 200,000. ...But my Mystic Bustier is shiny and glossy! Please, buy from my store!"
+220|"Step right up! Even if a black sun appears in the sky, my store is cheaper than any other!"
+221|"Welcome. Even if a black sun should appear in the sky, my shop is on the customer's side."
+222|"Today I present... an exceptional treasure. The Mystic Bustier, worn by a peerless beauty who captivated the kings of every land!"
+223|"It's an extraordinary rarity you can't normally obtain! And of course, it's the only one!"
+224|"Now then, sir! Normally it would be 1,000,000 gold, but today it's 990,000 gold! What do you say?"
+225|"Amazing! You're wealthy! Thank you for your purchase! Please, take it."
+226|"Please keep patronizing my store, and not my brother's..."
+227|"Today I present the Mystic Bustier! It was worn by a legendary beauty, and it's an incredible rarity! Of course, only one exists!"
+228|"...What? My brother's store was selling the same thing for 980,000 gold? Th-that can't be... Is it a fake...?"
+229|"...Be that as it may, I can't lose to my brother. My store will sell it for 900,000 gold. Now, the Mystic Bustier... how about it?"
+230|"Ha ha, I win this round! Serves my brother right! ...Now then, please take it."
+231|"W-what!? My brother's selling it for 800,000 gold...? What does he think the Mystic Bustier is...?"
+232|"...But I can't lose either! I'll settle for half, 400,000! Now, how about the Mystic Bustier!?"
+233|"What!? My brother's selling the Mystic Bustier for 200,000 gold!? ...Has he finally lost his mind!?"
+234|"...Do you know how hard it was to stock this? It's a shame, but my store really can't go below 400,000..."
+235|"......No, I can't lose here! Come what may! Half is too tame! Let's knock off a digit!!"
+236|"If my brother says 200,000, I say 20,000 gold! I can't go any lower! Please, buy the Mystic Bustier at my store!"
+237|"Even if a black sun should appear in the sky, my store is cheaper than anywhere! Welcome, welcome."
+238|No response. It seems to be under adjustment.
+239|"...Halt. This is Lord Diego's chamber."
+240|"Lord Diego is resting in his chamber. Do you insist on entering?"
+241|"I see. If you have no business, please leave."
+242|"Very well. Be sure to be on your best behavior."
+243|"Well, um... my partner and I are grateful that you helped us. Thanks, Champ."
+244|"I owe you big. Ask me anything, as long as it isn't about money. I'll do it to repay you."
+245|"...Huh? You want us to help rebuild Ishi Village? As gatekeepers guarding it?"
+246|"All right! That's right up my alley! My partner here and I will do it! Leave it to us!"
+247|Garamson and Ballyhoo set off together for Ishi Village!
+248|"I'm not trying to rush you. If there's nothing to ask now, just call on us again."
+249|"Oh, Champ. What's up? Have you decided on a request?"
+250|"...Huh? You want us to help rebuild Ishi Village? As gatekeepers guarding it?"
+251|"Oh, Champ! If there's anything we can do to help, just say the word!"
+252|"I never could have saved everyone alone... Thank you. It's all thanks to you, {var:1}."
+253|"Running the orphanage is as hard as ever, and I haven't prepared much, but please take this as a token of thanks."
+254|{var:1} received a Crystal Claw!
+255|{var:1} and the party defeated Arachtor and returned to Octagonia with the fighters who had been controlled...
+256|The sound of the time cannon announcing dawn echoed over the sky of Lonalulu.
+257|The sound of the time cannon announcing dusk echoed over the sky of Lonalulu.
+258|"Oh, traveler, you've come at a good time. I know it's shameless, but I have something to ask of you."
+259|"When the fishermen sailed west, they were unluckily attacked by a savage pack of Mermen that lived in those waters."
+260|"The fishermen say Kinai acted as a decoy, drawing the pack away so they could escape."
+261|"I want to save him, my lifesaver and dear friend, but we are no match for savage Mermen."
+262|"But you defeated the rampaging Kraken! Mermen must be nothing to you! Won't you go and save Kinai?"
+263|"...I see. If you lent us your strength, we could surely save Kinai..."
+264|"Thank you! You truly are the savior of our village!"
+265|"The fishermen were attacked by the Mermen in the far western sea. Unluckily, it's near those waters where people vanish."
+266|"Traveler, I'm sorry to ask again, but Kinai's life is at stake. I can't back down easily."
+267|"You defeated the rampaging Kraken! Mermen must be nothing to you! Won't you go and save Kinai?"
+268|"Welcome, Luminary {var:1}. I see in you a true hero, and I have a favor to ask."
+269|"You know that since the black sun appeared, monsters all over the world have grown savage? It is the same in this sea."
+270|"The Farsight pearl, which sees across the world... its radiance has been stolen by an evil monster."
+271|"The Farsight pearl is the treasure of us merfolk. Please defeat the monster and restore its radiance."
+272|"I thought you would say so. As expected, Luminary {var:1}."
+273|"...So you say others besides us are calling for the Luminary's strength."
+274|"Then I shall wait a while longer, for the day your helping hand reaches us..."
+275|"Thank you, Luminary {var:1}. Death Aegir has vanished beneath the waves, and the Farsight pearl's radiance has returned."
+276|"You truly did well. Please accept this as a token of my gratitude."
+277|{var:1} received the Queen's Love!
+278|"Throughout Rotozetasia, there must still be many people seeking your help, Luminary."
+279|"When you wish to know, use the Queen's Love I have just given you from among your important items."
+280|"Wherever you may be, I will tell you through the Queen's Love of those seeking the Luminary's aid."
+281|"And one more small gift. As a human, are there places in this undersea kingdom you cannot go?"
+282|"In that case, speak to me, and I will use my magic to turn you into a fish. As a fish, you may go anywhere."
+283|"I believe that one day you will save everyone. Do your best, Luminary {var:1}."
+284|"Welcome, Luminary {var:1}. Would you like me to turn you into a fish?"
+285|"Very well. Please close your eyes for a moment."
+286|"There, you are now a fish. When you wish to return to your original form, speak to me again."
+287|"I see... Very well. If you ever wish to become a fish, speak to me."
+288|"Do you wish to return to your human form?"
+289|"You have returned to your original form. If you wish to become a fish again, speak to me."
+290|"I see... Very well. If you ever wish to return to your original form, speak to me."
+291|"Right away, Luminary! Shall we return to the surface?"
+292|{var:1} tried to change into the parade outfit.
+293|But because of the challenge restrictions, the parade outfit couldn't be equipped.
+294|"I'm a craftsman at this forge. I came back to this village to make, with my own hands, the Sovereign's Sword every smith dreams of."
+295|"If you ever get Orichalcum, bring it to me. I'll spend every last coin to buy it."
+296|"...Wait, that's the Orichalcum I've been looking for!"
+297|"Please, sell me the Orichalcum! Money's no object! My entire fortune, 22,500 gold. How about it!?"
+298|"I... I see. That's a pity. Talk to me again if you change your mind."
+299|{var:1} sold the Orichalcum for 22,500 gold!
+300|"Oh, so this is real Orichalcum...! Thank you, traveler. Now I can make the fine sword I've pictured!"
+301|"Oh, thanks for last time! Thanks to you and the Orichalcum, I did another wonderful job!"
+302|"My masterpiece should already be in the shop. It's a bit pricey like before, but it'll surely serve you well!"
+303|"Looks like you bought the Sovereign's Sword. It's only right that it goes to the one who sold me the Orichalcum."
+304|"If you get more Orichalcum, bring it to me. I want to make more Sovereign's Swords."
+305|"Hm...? Isn't that Orichalcum you're carrying!?"
+306|"I know it's pushy of me, but could you sell me that Orichalcum!? My savings are 22,500 gold. How about it!?"
+307|"Getting precious Orichalcum again... you're no ordinary traveler. Let me make another fine sword."
+308|"Orichalcum is such a beautiful metal... Thank you, traveler. Now I can make the fine sword I've pictured."
+309|"I heard through the grapevine. You defeated the Heliodor king, who was a monster in disguise."
+310|"...But the Luminary's star has fallen, and the world still seems deep in chaos."
+311|"There is something I must give to the Luminary, whose mission is not yet done. Please accept this."
+312|{var:1} received a Rusty Scepter!
+313|"It is what remains of the legendary ornamental staff and royal scepter once used by the Sage Senica, now rusted."
+314|A tasty-looking shrimp is hanging here. Eat the shrimp?
+315|"Oh, former human, you're awake. The Queen awaits you in the throne room. Shall we go to the throne room now?"
+316|"...Understood. Then, former human, please hold on tight to my hand."
+317|"Welcome, former human. The Queen awaits you in the throne room. Shall we go to the throne room now?"
+318|"Oh, are you done here? Shall I take you back to the palace entrance?"
+319|"...Understood. I'll take you to the palace entrance right away."
+320|"Understood. Call on me when you wish to return to the palace entrance."
+321|"The Queen is about to speak in the plaza outside the palace, so no one is in the throne room..."
+322|"Do you still want to go to the throne room?"
+323|"...Then why not go to the plaza outside the palace and hear the Queen's address?"
+324|"The Queen is gathering all the people of the undersea kingdom, so it must be something serious."
+325|"The Queen is gathering the people of the undersea kingdom for an important speech. Why not join them?"
+326|"The speech will be held outside the palace. Shall I take you to the palace entrance?"
+327|"Understood. Call on me when you wish to go to the palace entrance."
+328|The Luminary's power seems to have been lost.
+329|A tattered cupboard. There's nothing unusual about it.
+330|This cupboard looks movable. Move the cupboard?
+331|"...Wake up, wake up, {var:1}."
+332|"...{var:1}, you're awake. We were careless, even after such a fierce battle. I'm glad we're alive."
+333|"It seems Ritaliphon carried us to the fortress... Be sure to thank him later."
+334|"Now, let us pull ourselves together and report to my king that we have defeated Zordrak, Corpse General."
+335|"I'm a total wimp. You saved me, thanks! Take this as a token of thanks!"
+336|"Even though we were your enemies, you still help us! We will repay this kindness someday!"
+337|"Oh, right! Please use this! It will surely help in battle!"
+338|"...And I picked this up just now! It's a find, but please use it if you like!"
+339|"And please take this too! I don't know if it'll help in battle, but it carries my gratitude!"
+340|"Our mission is to infiltrate the castle through the path to the underground waterway on the cliff of Heliodor Hill, and defeat the monster that brings the endless dark..."
+341|"First, we go to the Church of Guidance on Heliodor Hill. We'll use it as our base to find the path to the underground waterway."
+342|There is a strange hole here. It seems you can return to the original world through it. Return to the original world?
+343|"{var:1}, you've returned. When you wish to head to the netherworld again, speak to me."
+344|"...Oh, right. If you get separated from us, {var:1}, we'll be waiting around here, so don't worry."
+345|"...Now, off to Phnom Nonh!"
+346|But because of the challenge restrictions, {var:1} couldn't equip the parade outfit.
+347|"The pendant's broken, too. Dad's gonna be so angry..."
+348|"I'll go with you, so it'll be fine! Come on, let's go!"
+349|"...Yeah, thanks. I'm scared, but I'll go see Dad."
+350|"Huh, you're going back to the village, bro? I can't see Dad until I get Mom's pendant back. I'll wait around here!"
+351|"{var:1}, wait. Aren't you going after Sylvando? He headed out of the village."
+352|"Oh, do you have somewhere to go? Then we'll wait around here!"
+353|"...Oh, you're here. All right, let's set off!"
+354|A fishing rod is propped up here.
+355|A fishing rod is propped up here. Go fishing?
+356|A fishing rod is propped up here. It doesn't look like anything will bite here.
+357|"Welcome. Storm or monster-ridden seas, my shop is on the customer's side."
+358|"Today I present... a treasure of the century! It's..."
+359|"Armor beloved by the hero Hendrik! You won't find such a valuable item in any other shop!"
+360|"Normally 100,000 gold, but I'll discount it to 52,000 gold! ...Now, how about Hendrik's Armor?"
+361|{var:1} received Heliodor Mail!
+362|"Today I present the armor of the hero Hendrik! A treasure of the century you can't normally obtain. I'll offer it at a bargain."
+363|"...What? My brother's store was selling the same thing for 50,000 gold? Th-that can't be... Is it a fake...?"
+364|"...Be that as it may, I can't lose to my brother. My store will sell it for 45,000 gold. Now, Hendrik's Armor... how about it?"
+365|"W-what!? My brother's selling it for 40,000 gold...? What does he think Hendrik's Armor is...?"
+366|"...But I can't lose either! I'll settle for 20,000 gold! Now, how about Hendrik's Armor!?"
+367|"What!? My brother's selling Hendrik's Armor for 10,000 gold!? ...Has he finally lost his mind!?"
+368|"...Do you know how hard it was to stock this? It's a shame, but my store really can't go below 20,000..."
+369|"......No, I can't lose here! Come what may! I'll sell it for 5,000 gold!"
+370|"Hendrik's Armor for 5,000 gold! I can't go any lower! Please, buy it at my store!"
+371|"Storm or monster-ridden seas, my store is cheaper than anywhere!"
+372|"Step right up! Even if the earth splits and the sea tears apart, my store is open all year round!"
+373|"This is the armor worn by the hero Hendrik! I crossed dangerous seas and barely managed to get it."
+374|"Normally 100,000 gold... but in a burst of generosity, half price, 50,000 gold! It's polished till it shines. Well, will you buy?"
+375|"Step right up! Today's special is the hero Hendrik's Armor! First come, first served! Step right up!"
+376|"...What? My brother was selling the same thing for 45,000 gold? Then what he sold was a fake...?"
+377|"...Well, whatever. I can't lose to him. I'll sell it for 40,000 gold! How about it? You'll buy Hendrik's Armor, right?"
+378|"What!? My brother's selling Hendrik's Armor for 20,000 gold!? He doesn't know the value of anything..."
+379|"Ugh... all right! 10,000! I'll sell it for 10,000! Hendrik's Armor for 10,000!!"
+380|"If Hendrik himself found out I sold it at this price, he'd be furious. I can't go any lower... Come on, decide! Will you buy Hendrik's Armor?"
+381|"What!? That idiot brother... selling the hero Hendrik's Armor for 5,000 gold!?"
+382|"..........."
+383|"...5,000 gold is crazy! That's no way to run a business! There's no way Hendrik's Armor is worth 5,000!"
+384|"I can't go lower than 10,000. ...But my Hendrik's Armor is shiny and polished! Please, buy from my store!"
+385|"Step right up! Even if the earth splits and the sea tears apart, my store is cheaper than my brother's on the second floor!"
+386|"Good day, {var:1}. If you wish to stroll through the undersea kingdom, isn't that form rather inconvenient?"
+387|"If you like, shall I turn you back into that cute little fish from before?"
+388|"Oh, I see... what a shame. You look so lovely as a fish..."
+389|"...Hehe. Very well. I shall turn you into a truly lovely form."
+390|"When you wish to return to human form, speak to me again."
+391|"Did you enjoy your undersea stroll? Will you return to human form now?"
+392|"...Hehe. Understood. Enjoy your undersea stroll as long as you like."
+393|"...Hehe. Understood. If you wish to become a fish again, speak to me anytime."
+394|"Long time no see! I'm the harbor-keeper mermaid! Thanks to the Luminary, I could return to the sea floor. Let me thank you. Thanks!"
+395|"Right away, human! Shall we return to the surface?"
+396|"Once you leave the sea, the Queen's magic will wear off and you'll turn back human. Don't worry, you won't suffocate from gill trouble."
+397|"Right away, Luminary! Shall we return to the surface?"
+398|"Hi there! I'm the harbor-keeper mermaid! Thanks to the Luminary, peace has returned to the sea floor. Let me thank you. Thanks!"
+399|"Right away, human! Shall we return to the surface?"
+400|"...Ah, I never thought the day would come to sail again with you, boss {var:1}! Navigator Alice is thrilled to bits!"
+401|"By the way, boss, have you heard this one? They say if you stay at Nelsen's Inn in Champs Sauvages, everyone has the same dream..."
+402|"Everyone has the same dream...? That's intriguing. Let's visit Nelsen's Inn first."
+403|"Champs Sauvages, where Nelsen's Inn stands, lies east of here by ship. Then let's head there, {var:1}."
+404|"Ah, how infuriating...! How dare you... Eleonor and {var:1}...! I won't forgive... I'll never forgive you...!"
+405|A lament can be heard from within the hollowed-out Irwin... Move closer and listen?
+406|{var:1} peered into the face of the hollowed-out Irwin...
+407|Fight Bakumos?
+408|"How was it, traveler? A very strange dream, wasn't it? If you want to dream it again, come stay with us."
+409|"Hm... who are you, ooh? Only VIP guests may enter the Special Roulette Stage beyond here, ooh."
+410|"Normally a shabby one like you would never ever be let through, ooh, but..."
+411|"Bring me Lovely Extract and I'll recognize you as a VIP guest, ooh! So, will you hear my request, ooh?"
+412|"Hmm... what a waste, ooh. The Special Roulette Stage has fun games you can only play here..."
+413|"Go on living small, missing the big chance right in front of you, ooh!"
+414|"Oh, you catch on quick, ooh! Bring me one Lovely Extract and I'll let you through, ooh! A promise between men, ooh!"
+415|"You can trade coins for Lovely Extract at the prize counter on this casino floor, ooh! Now go and fetch it, ooh!"
+416|"Bring me one Lovely Extract and I'll let you through, ooh! A promise between men, ooh!"
+417|"Ooh, could that scent be...! You have Lovely Extract, don't you, ooh!? Quick! Hand it over, ooh!"
+418|"No way! Making me wait like that, you're mean, ooh! Then I won't let you through! Hmph!"
+419|{var:1} handed the Lovely Extract to the monster!
+420|"Wooooooh~~~! The Lovely Extract I've dreamed of...!"
+421|"Ahh, this rich, sweet-and-sour scent... Just like a sweet, bittersweet memory of love! Tonight, I'll savor you, ooh!"
+422|"...All right, you're a proper VIP guest, ooh! Seize the big chance on the Special Roulette Stage ahead, ooh!"
+423|"Hey, hey! You need my permission to pass through here, ooh! Come back later, ooh!"
+424|{var:1}'s casino coins have returned to the amount held before playing at the Monster Casino!
+425|It seems the coins at the Monster Casino were illusory coins...
+426|You sense the presence of residents inside the building. But the door is firmly shut.
+427|"Oh, hello there. Sorry, you came all this way, but the casino is closed."
+428|"We're giving the casino a deep clean, and everyone is polishing the coins in the hall. Please wait until we finish."
+429|Use the Forbidden Key?
+430|Fight the Man-eating Firedrake?
+431|Open the door and rescue Erik?
+432|The cries of residents can be heard from beyond the door. It seems they shut this gate to protect the town from something.
+433|"What's this...? It wasn't here before. We can't go any farther like this..."
+434|"Hmm... the iceberg turned to gold? What on earth happened...?"
+435|"...It can't be helped. Perhaps we should look for companions somewhere else."
+436|"Then in time we will find a way beyond this."
+437|"Hmm, what a bother. Beyond here lies the holy land of Arboria, where clues to defeating the Lord of Shadows sleep..."
+438|"...Oh, yes, {var:1}. There should be a pillar of light rising from the sea north of Sniflheim."
+439|"It may be worth trying to reach Sniflheim's inlet from there. A path might open up."
+440|Erik readies his weapon with a pained expression. He seems about to rush in to deliver the final blow to the rampaging Kilgore.
+441|Stop Erik?
+442|"I can't let you shoulder any more sin because of me... Maya... I'll be the one to..."
+443|"Er... ik... Big... brother..."
+444|"{var:1}, it's terrible! Unidentified golden monsters have entered the town and are rampaging."
+445|"This is no time to set sail. We can't abandon the townsfolk being attacked by monsters!"
+446|"{var:1}, wait! A first-rate sailor learns about the sea before setting out."
+447|"Rather than chase blindly, we should first gather information about Erik's whereabouts."
+448|"Come to think of it, that priest might know something!"
+449|"...Hmm, it can't be helped. Perhaps we should look for companions somewhere else."
+450|"Then in time we will find a way beyond this."
+451|"Oh, Luminary. The elder told me about you. Would you like to rest for the night?"
+452|"I see. Veronica's funeral is only tonight. Please take your time to say your farewells."
+453|"Certainly. Please rest well."
+454|"Welcome back, Luminary. Would you like to return to bed and rest?"
+455|"Certainly. Please rest well."
+456|A barrier of darkness envelops the Fortress of Fear. You can't get any closer.
+457|Use the Sacred Ember to light the candlestick?
+458|You sense a special power from this pedestal. A special sword could be forged here.
+459|...But you seem to lack the materials or tools to forge a sword now.
+460|Use Gaia's Hammer to forge Orichalcum into a new Luminary's Sword?
+461|A barrier of darkness envelops the Fortress of Fear. You can't get any closer like this.
+462|Use the Luminary's Sword to break the barrier around the Fortress of Fear?
+463|You remembered a forgotten Zoom destination. Hotto has been added to your Zoom destinations!
+464|You remembered a forgotten Zoom destination. Gallopolis has been added to your Zoom destinations!
+465|You remembered forgotten Zoom destinations. Hotto and Gallopolis have been added to your Zoom destinations!
+466|"{var:1}, let us go to the site of the final battle."
+467|"If you call Cetacea with the Sky Flute, we should be able to reach the Lord of Shadows' castle floating in the sky."
+468|An evil seal blocks the way. The Luminary's power should break it.
+469|This seems to be a magic circle leading to the Lord of Shadows' temple. Move?
+470|The crystals covering the area have shattered. You can now ride monsters to travel between the floors below.
+471|The seal on the door on the west side of this floor seems to have broken.
+472|The seal on the door at the front of the first floor seems to have broken.
+473|A path to the deepest part of the Fortress of Fear has opened.
+474|Fit the Mystic Cog into the hollow?
+475|If you go up these stairs, there is no turning back. Return to the past anyway?
+476|Really return to the past?
+477|Rest in the bed?
+478|Closed: shopkeeper absent
+479|The castle can't be entered until morning. Wait here until morning?
+480|Hold your hand over the Tree of Guidance?
+481|Hold your hand over the Tree of Guidance again?
+482|There is a cog-shaped hollow on the surface of the sealed door. Use the Mystic Cog?
+483|An immensely terrifying evil presence emanates from within the black sun. Challenge the evil god Calasmos to a final battle?
+484|The door is firmly shut.
+485|The door is firmly shut. There is a cog-shaped hollow on its surface.
+486|It is covered by an ominous barrier. You can't get any closer.
+487|"At last, the showdown with the evil god Calasmos. But first, let's travel the world and build up strength to defeat the evil god."
+488|"First, let's check out the underground labyrinth in Champs Sauvages that Cetacea mentioned."
+489|"If we're going to Champs Sauvages, I think Zooming to Nelsen's Inn is the quickest way."
+490|"Gurgurgurgurgurgurgur............"
+491|"You who dare the trial.\n"You who dare the trial.
+492|"I am the trial.\n"I am the trial.
+493|"Your trial is to defeat us with the Grand Ogre Slash, a duo technique.\n"Neither of us alone will do.
+494|"Neither of us alone will do.\n"Defeat us with Hendrik in the Zone and the Grand Ogre Slash, his duo technique with Sylvando.
+495|"You who dare the trial.\n"Will you take the trial?
+496|"Coward, begone from here.\n"Those without resolve have no right to stand here.
+497|"...Then we begin.\n"...Then we begin.
+498|"You failed to land the finishing blow with the Grand Ogre Slash.\n"Defeat us with Hendrik in the Zone and the Grand Ogre Slash, his duo technique with Sylvando.
+499|"Your trial has failed.\n"Come back and try again.
+500|"You who dare the trial.\n"Will you take the trial again?
+501|"Traveler! Thank you! Thanks to you defeating that monster, we can move freely again!"
+502|"...We were brought here and made to wear these strange clothes by that monster. We were forced to dance nonstop."
+503|"If we'd danced a bit longer, we'd have danced ourselves to death! Thank you so much! We'll head back to the village ahead of you!"
+504|Fell Moon Baba absorbed the power of the holy lightning and became Moon Baba, the forest's holy beast!
+505|What!? The defeated Fell Moon Baba has revived!
+506|It seems Fell Moon Baba can't be finished off unless it is defeated in a special way...
+507|"I never expected anyone to come to a place like this. I see... you are a traveler. It is a long story, but will you hear me out?"
+508|"I see... Please keep what you saw here a secret from the people of Hotto."
+509|"You may not believe it, but this firedrake is my only son... Ryu, changed beyond recognition. A firedrake's curse made him like this."
+510|"I sought a way to save Ryu and finally obtained a sacred treasure to lift this curse: the Yata Mirror, which restores whoever it reflects to their true form."
+511|"But pointing the mirror at him does nothing... It seems drawing out the Yata Mirror's true power requires something called the Drop of Ra."
+512|"Traveler... if you find the Drop of Ra on your journey, would you give it to me? With it, Ryu can be saved..."
+513|"Oh, that is...! What you hold is surely the Drop of Ra I read of in the books...!"
+514|"If I use that on the Yata Mirror, I may be able to restore my son Ryu, cursed by the firedrake."
+515|"Traveler... this is a plea from Miko, priestess of Hotto. Would you give me that Drop of Ra?"
+516|"...Ryu is my only son. Please... please reconsider. I have no one else to turn to...!"
+517|{var:1} gave the Drop of Ra to Miko!
+518|"Oh, I am most grateful...! Then I shall use the Drop of Ra on the Yata Mirror right away...!"
+519|Nelsen
+520|"Luminary {var:1}. Are you ready to take on the trial?"
+521|"Luminary {var:1}. You have done well to pass through the Mentor's Trial and come this far."
+522|"Luminary {var:1}. You have done well to pass through the Sage's Trial and come this far."
+523|"Luminary {var:1}. You have done well to pass through the Luminary's Trial and come this far."
+524|"If you overcome my final trial, I will grant you one wish. Will you take the trial?"
+525|"There's no rush. Facing the fear within yourself is no small matter. Make thorough preparations."
+526|"Very well. Let us begin the trial."
+527|"From now on, each person's action in battle counts as one move, and I will count the total moves it takes to defeat all enemies."
+528|"If you defeat all the enemies who appear within {var:8} moves, I will grant you one wish."
+529|"Here we go!!"
+530|"Very well. Let us begin the trial. Fight and defeat the enemies who appear."
+531|"If you win within {var:8} moves, I will grant you one wish. Here we go!!"
+532|"{var:1}, you were defeated... I'm sorry, but I cannot grant your wish."
+533|"But don't let this discourage you. I'll give you another chance. Why not challenge the same enemies again?"
+534|"I see. Overcoming the fear within is no easy thing. It can't be helped..."
+535|"Well said! That's what a Luminary should say! Let us begin the trial. Fight and defeat the enemies who appear."
+536|"{var:1}, you fought splendidly. If you defeated the enemies within {var:8} moves, you pass the trial. Now, the result this time is..."
+537|"Too bad! It took {var:9} moves. I can't say you've conquered your fear. I cannot grant your wish."
+538|"Then I'll give you this to honor your courage to take on any challenge."
+539|{var:1} received {var:6}!
+540|"Listen, {var:1}. This challenge ended in failure, but you must never give up."
+541|"Grow stronger so you can win within the move limit, and challenge it again."
+542|"I'll be waiting here for your challenge. Farewell!"
+543|"Magnificent! You defeated the enemies in {var:9} moves! Well done, {var:1}! You have conquered your fear!"
+544|"Now, as promised, I will grant you one wish! Choose the wish you want granted."
+545|"I see. You want the recipe for a new weapon to defeat the evil god?"
+546|"What, you're backing out...? Then choose your wish again."
+547|"As expected of Luminary {var:1}! A wish truly worthy of a Luminary! Then I bestow this recipe upon you!"
+548|{var:1} received the recipe book "Luminary's Sword Reborn"!
+549|{var:1} read "Luminary's Sword Reborn"!
+550|Learned the recipe for the Luminary's Sword+!
+551|"With this recipe you can strengthen the Luminary's Sword. Already powerful, once strengthened it will leave you nothing to fear."
+552|"Hmm... not satisfied with the horse races so far, you wish to take on the top-tier race?"
+553|"To become the fastest man in the world... a dream every boy has once. You want to take on that dream too."
+554|"Understood. I like men who never lose their boyish heart, no matter their age. Your wish is granted."
+555|"Done. I have given the Sultan of Gallopolis a revelation. Head to the Kingdom of Gallopolis. The top-tier race should be open."
+556|"What!? You want to read a saucy book!? You're a sly one."
+557|"Even a Luminary can't help this. Just enjoy it in moderation."
+558|{var:1} received a Saucy Book!
+559|"...This is a prized saucy book I've treasured all these years. Read it with care."
+560|"I see... you wish to walk your future together with your childhood friend Emma?"
+561|"...There's no need to be embarrassed. Wanting to live with the woman you love is natural for any person."
+562|"And only with a warm home can one fight a mighty foe. Your wish is granted."
+563|"...Your home village is still in ruins. Even if you marry your childhood friend, you couldn't fully enjoy married life."
+564|"Save this wish for after the village is rebuilt, and choose another wish first."
+565|"From this moment, you and Emma are husband and wife. Go back to your home village. Your lovely wife should be waiting."
+566|"Long hair or short... a woman's hairstyle has divided men for ages, a difficult question."
+567|"But you, greedy as you are, want to enjoy both?"
+568|"What a greedy man, but I like your honesty. I bestow this upon you."
+569|{var:1} received a Makeover Ring!
+570|"If Serena equips it, her hairstyle becomes short. Change her hairstyle to your heart's content."
+571|"Oh? You overcame the trial, yet you won't have a wish granted? Is that really all right?"
+572|"What, you chose wrongly! You were so happy you jumped the gun. Choose calmly this time."
+573|"...Hm, I see. How modest. But that stoic attitude of seeking only strength... I don't dislike it..."
+574|"Then I'll give you this as my reward."
+575|"My trial isn't over yet. Next time, even stronger enemies await you."
+576|"When you wish to take on a further trial, come here. Farewell!"
+577|"...{var:1}, you have overcome all of my trials. You have nothing left to fear."
+578|"Now ride Cetacea, defeat the evil god, and bring true peace to Rotozetasia!"
+579|"I'll be cheering for you here! Farewell!"
+580|"{var:1}, at last you have conquered the fear within yourself and had all your wishes granted..."
+581|"Just as I saw in you, you are a true Luminary, no less than my friend Erdwin!"
+582|"Though you may have nothing left to wish for, I bestow this recipe as a final reward!"
+583|{var:1} received the recipe book "Hero's Chronicle, Vol. 2"!
+584|{var:1} read "Hero's Chronicle, Vol. 2"!
+585|Learned the recipes for the Galaxy Sword, Trillion Dagger and Hypernova!
+586|Learned the recipes for the Aurora Staff, Hellish Spear and Super Garinham Whip!
+587|Learned the recipes for the Divine Dragon Claw and God Axe!
+588|"You have nothing left to fear. Ride Cetacea, defeat the evil god, and bring true peace to Rotozetasia!"
+589|"You have conquered all your fears, but there are still wishes left to be granted."
+590|"If you wish to have the remaining wishes granted, take on the final trial again. Will you take my trial?"
+591|"You won't take the trial...? Well, you have overcome all the trials, so that's fine."
+592|"Understood. Which opponent will you challenge?"
+593|"You're backing out...? Well, you have overcome all the trials, so that's fine."
+594|"If you defeat {var:5} within {var:8} moves, I will grant you one wish. Will you fight {var:5}?"
+595|"What, you're backing out? Then which opponent will you challenge?"
+596|"Very well. I shall summon {var:5}. Here we go!!"
+597|"Well said! That's what a Luminary should say! I shall summon {var:5} right away."
+598|"If you win within {var:8} moves, I will grant your wish. Here we go!!"
+599|"You have overcome all the trials, but if you wish to take on a trial again, come here."
+600|"You have had all your wishes granted, but will you take on my final trial again?"
+601|"You won't take the trial...? Well, you have had all your wishes granted, so that's fine."
+602|"You're backing out...? Well, you have had all your wishes granted, so that's fine."
+603|"Will you fight {var:5}?"
+604|"{var:1}, you were defeated..."
+605|"Well said! That's what a Luminary should say! I shall summon {var:5} right away. Here we go!!"
+606|"Grow stronger and challenge it again."
+607|"{var:1}, you have overcome my trial!"
+608|"No wishes remain to be granted, but you defeated such a foe. I'll give you this as my reward."
+609|The sacred sapling glows brightly. Hold your hand over the sapling?
+610|Warrior Nelsen acknowledged {var:1}'s power and opened the next trial, the Sage's Trial!
+611|Warrior Nelsen acknowledged {var:1}'s power and opened the next trial, the Luminary's Trial!
+612|"{var:1}, thanks for coming. Thank you for defeating them. I thank you from my heart."
+613|"After the Mermen attacked and I lost my ship, I drifted at sea and miraculously washed ashore in this mysterious cove."
+614|"Covered in wounds and unable to move, I was nursed by this mermaid. Thanks to her, at least I survived."
+615|"...Who'd have thought I, who hated mermaids, would have my life saved by one."
+616|"I thought it was a rare visitor, but it was a badly injured human! I was truly shocked then!"
+617|"I treated the human's wounds and had just got him conscious when the Mermen attacked..."
+618|"But the human protected me with his wounded body, so strangely, I wasn't afraid."
+619|"And somehow I was happy. The human seemed a little like someone I'm waiting for..."
+620|"Hehe, how silly of me. ...I even felt as though he had come to rescue me."
+621|"Anyway, {var:1}, thanks to you we're saved! Let me thank you. Thank you so much!"
+626|"Welcome. This is the coin counter.
+627|Mordegon
+628|Fell Nedra

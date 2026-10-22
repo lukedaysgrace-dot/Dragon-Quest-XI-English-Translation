@@ -1,0 +1,199 @@
+1|Use the +Control Pad to set your bet,\nthen press A to start.
+2|You're out of tokens. Please buy some and come again!
+3|You're over the limit of tokens you can hold.\nYou won't be able to carry any more. Play anyway?
+4|Incredible! You can spin the slots {var:8} more times without using any tokens...!
+5|Incredible! Free Spin has been extended by {var:8} spins...!
+6|Free Spin has ended.
+7|Incredible! The tokens you win have been doubled...!
+8|Incredible! Metal Spin has been extended by {var:8} spins...!
+9|Metal Spin has ended.
+10|You got {var:8} tokens.
+11|Congratulations!\nYou won {var:8} tokens!
+12|Play the slots again?
+13|Too bad!\nPlay the slots again?
+14|Press A to spin the slots.
+15|Quit the slots?
+16|You still have Metal Spins left.\nAre you sure you want to quit?
+17|You still have Free Spins left.\nAre you sure you want to quit?
+18|You still have Metal Spins and Free Spins left.\nAre you sure you want to quit?
+19|The sealed door has opened!
+20|Skill gauge number {var:8} has been unlocked!
+21|The limit on {var:5}-rank Tockles received through StreetPass has been lifted!
+22|You can now enter {var:5}'s Adventure Log world {var:6}!
+23|Set this as your restart point? If you do, you can begin from here next time.
+24|Restart point updated.
+25|Restart point updated.\nReturn to Tickington with the items you've collected so far?
+26|Return to Tickington with the items you've collected so far?
+27|Return to Tickington with the items you've collected so far?\n{var:102}*The Tockles now exploring will be lost.{var:100}
+28|This door seems to be the last one in the Labyrinth of Time!\nYou've finally conquered the Labyrinth of Time!
+29|The Tockle that found the Adventure Password decided to return to Tickington.
+30|It seems there are {var:8} more Adventure Passwords left on this floor.
+31|You've collected every Adventure Password on this floor!
+32|Found {var:5}!
+33|You got the Tockle accessory "{var:5}"!
+34|"Which floor shall we start from?
+35|"How do you want to pick the Tockles to send into the labyrinth?
+36|"What kind of party do you like?
+37|"Is this the team you want to send into the labyrinth?
+38|"Where would you like to start from?
+39|"Okay, then, let the expedition begin!\nOff you go, and give it your all!
+40|All the Tockles that went exploring have been defeated.
+41|You have no Tockles to send out.\nYou'll return to Tickington with the items you've collected so far.
+42|Send in new Tockles and resume exploring from here?
+43|How do you want to pick the new Tockles to send in?
+44|What kind of party do you want?
+45|Is this the team you want to send in?
+46|Spend {var:9} skill points to learn "{var:5}"?
+47|Not enough skill points!
+48|This Hidden Panel hasn't been unlocked yet, so you can't learn it!\nLearn the four skills around it to unlock it.
+49|You've already learned that skill.
+50|That panel is sealed by a mighty power!
+51|The chosen skill is a {var:6} skill.\nYou haven't obtained any {var:6} yet. Are you sure you want to learn it?
+52|Cancel the batch assignment?\nAre you sure?
+53|Spend {var:9} skill points to learn all the skills you chose?
+54|Your selection includes skills for a weapon you haven't obtained yet.\nAre you sure you want to learn them?
+55|Lucky! The panel you chose was a winner!\nYou got {var:9} skill points!
+56|{var:2} and {var:3} can now use the pep power "{var:5}"!
+57|{var:2}, {var:3} and {var:4} can now use the pep power "{var:5}"!
+58|{var:2} can now use the pep power "{var:5}", which all four allies can use when pepped up!
+59|Incredible! The Hidden Panel crumbled away and the "{var:5}" panel appeared!
+60|Learned the skill "{var:5}"!
+61|Learned the spell "{var:5}"!
+62|You won {var:8} tokens!
+63|You got {var:5}!
+64|Use the +Control Pad to set your bet,\nthen press A to deal the cards.
+65|Congratulations!\nYou got a {var:5}!
+66|You won {var:8} tokens.
+67|If you win, you'll have {var:8} tokens.\nTry Double Up number {var:9}?
+68|If you win, you'll have {var:8} tokens.\nYou can't carry any more tokens, but\ntry Double Up number {var:9}?
+69|Pick a card from the four on the right that beats the card that's face up.
+70|You found a treasure chest with {var:8} locks!
+71|Win {var:9} Double Ups to open the chest!
+72|Double Up success!\nYou won {var:8} tokens.
+73|It's a draw.\nOnce more...!
+74|One of the chest's locks came undone!
+75|You removed every lock on the chest!\nIt will open when Double Up ends!
+76|All the locks are gone, so the chest will now open!
+77|You've succeeded at Double Up 10 times,\nso Double Up is over.
+78|Too bad!\nPlay Poker again?
+79|Play Poker again?
+80|Quit Poker?
+81|The treasure chest hasn't been opened yet.\nAre you sure you want to quit?
+82|There are no downloaded gifts.\nYou can receive gifts by entering a code from the adventure log menu.
+83|Choose a gift to receive.
+84|Receive the gift from {var:2}?
+85|You seem to be carrying too much.\nTidy up your items, then receive it.
+86|Received {var:8} {var:5}.
+87|Received {var:8} gold.
+88|{var:1} read\n"{var:5}"!
+89|But you already know every recipe in this book.
+90|Learned the recipe for {var:5}!
+91|Learned the recipe for {var:5}!\nLearned the recipe for {var:6}!
+92|Learned the recipe for {var:5}!\nLearned the recipe for {var:6}!\nLearned the recipe for {var:7}!
+93|Press A to place a chip where you want to bet.
+94|While betting, press X to spin the roulette wheel.
+95|You're over the limit of tokens you can hold.\nYou won't be able to carry any more. Play anyway?
+96|The ball landed on {var:8}!
+97|Congratulations!\nYou won {var:8} tokens.
+98|Congratulations!\nYou won {var:8} tokens with the jackpot!
+99|Too bad!
+100|Play roulette again?
+101|Quit roulette?
+102|There's a Fun-Size Forge here.\nIt looks like you can craft and reforge gear like weapons and armour.
+103|Choose the type of item to make.
+104|You don't have the recipe, so you can't make that.
+105|You don't have enough materials to make {var:5}.
+106|Which {var:5} will you use?
+107|Use the {var:5} that {var:102}{var:2} has equipped?
+108|Use the {var:5} that {var:2} is carrying?
+109|The materials in your bag aren't enough, so you'll use the materials you're carrying.
+110|Make {var:5}?\nAre you sure?
+111|You don't have the recipe.
+112|It's probably best not to reforge this piece of gear.
+113|You don't have enough reforge orbs.
+114|Use {var:8} reforge orbs to reforge {var:5}?\nAre you sure?
+115|Not enough focus!
+116|You made a slightly shoddy {var:5}...
+117|You made {var:5}!
+118|Reforging {var:5} failed...
+119|{var:2} equipped {var:5}.
+120|Put {var:5} in {var:2}'s items.
+121|Put {var:5} in the bag.
+122|You got {var:8} reforge orbs.
+123|Continue using the Fun-Size Forge?
+124|You can't stop partway through.\nTo finish forging, choose "Finish."
+125|Your smithing skill has improved thanks to your adventures so far!
+126|Learned the skill "{var:5}"!
+127|"...There we are. The number of stamps you've collected, {var:1}, is now {var:8}, my dear.
+128|"When this reaches {var:9}, I shall give you {var:5}. Do keep up the good work, my dear!
+129|"Congratulations, my dear!\nYou've reached {var:8} stamps. Here is {var:5} for you!
+130|"Congratulations, {var:1}!\nYou've completed page {var:8} of the Medal Stamp Book at last!
+131|"But the journey of medal collecting is far from over!\nOn to the next page, my dear!
+132|"Congratulations, {var:1}!\nYou've completed the whole Medal Stamp Book!
+133|"A student who fills the entire stamp book - the first in the Medal Academy's history!\nI knew my eye for talent was not mistaken!
+134|"Though the stamp book is done, the road of collecting Mini Medals goes on.
+135|"{var:1}, since you completed the stamp book, I shall give you splendid prizes in exchange for Mini Medals!
+136|"If you wish to trade medals for a splendid prize, just talk to me!
+137|"On to page four at once!\n...I wish I could say that, but I'm terribly sorry.
+138|"The truth is, the next page isn't ready in time, so I can only stamp up to here for now...
+139|"But everyone at the Academy is working hard to prepare it.\nPlease look forward to it!
+140|"...Sorry to have kept you waiting so long!\nThe final page of the stamp book, page four, is finally ready!
+141|"The prizes you can trade for on this page are truly spectacular, so do look forward to them.
+142|"...There we are. The number of stamps you've collected, {var:1}, is now {var:8}.
+143|"When this reaches {var:9}, I'll give you {var:5}. Do your best to collect them.
+144|"Congratulations!\nYou've reached {var:8} stamps. Here is {var:5} for you!
+145|"Congratulations, {var:1}!\nYou've completed page one of the Medal Stamp Book at last!
+146|"On to page two at once!\n...I wish I could say that, but I'm terribly sorry.
+147|"This branch, the Medal Exchange Outpost, is only authorised to stamp up to page one.
+148|"To get stamps from page two onward, please visit Principal Medal at the main Royal Medal Academy.
+149|Profile updated.
+150|Discard your changes and finish editing your profile?\nAre you sure?
+151|I'm sorry, but that text can't be entered.
+152|Profile registered.
+153|Choose the Tockle to set as your envoy Tockle.
+154|Set {var:5} as your envoy Tockle?
+155|{var:5} is now your envoy Tockle.
+156|You can send out Tockles you received from passers-by as companions.
+157|Set a Tockle helper?
+158|You have no Tockles received from passers-by, so you can't change your Tockle helper.
+159|Keep sending out the Tockle helper that's currently set?
+160|Set {var:5} as your Tockle helper?
+161|Stop setting a Tockle helper?
+162|{var:5} is now your Tockle helper.
+163|Updating the data to send via StreetPass.
+164|Tockle settings complete.
+165|Say goodbye to {var:5}?\nThe Tockle you part with will be gone. Are you sure?
+166|Add {var:5} to the VIP Album?\nAre you sure?
+167|Added {var:5} to the VIP Album.
+168|The VIP Album is full, so you can't add any more.
+169|{var:5} is already in the VIP Album.\nRemove {var:5} from the VIP Album?
+170|Remove {var:5} from the VIP Album?
+171|Removed {var:5} from the VIP Album.
+172|Choose the Tockles to say goodbye to.
+173|Say goodbye to the Tockles you chose?\nThey will be gone. Are you sure?
+174|You said goodbye to {var:5}.
+175|You said goodbye to the chosen Tockles.
+176|You can't say goodbye to your envoy Tockle.
+177|You can't say goodbye to Tockles in the VIP Album.
+178|You aren't registered for StreetPass right now.\nYou can register in Tickington.
+179|You haven't passed any Tockles.
+180|Send the Tockles you passed to Tickington?
+181|The Tockles were sent to the village!\nAs a token of friendship, they left hat tickets behind!
+182|The Tockles you passed were sent to the village!
+183|The village has too many residents.
+184|Choose Tockles to say goodbye to so that there are {var:8} or fewer.\nAre you sure?
+185|Stop sending Tockles to the village?
+186|Choose {var:8} more.
+187|Got a ticket for {var:2}!
+188|Got a ticket for {var:2}!\nGot a ticket for {var:3}!
+189|Got a ticket for {var:2}!\nGot a ticket for {var:3}!\nGot a ticket for {var:4}!
+190|{var:3}'s sender, {var:2}: StreetPass number {var:8}!\n{var:3} got a little stronger!
+191|"So it's {var:5}.\nThat will cost {var:8} gold. Is that all right?
+192|"Looks like you don't have enough money to call {var:5} back.
+193|"Oh, {var:5}!\nThe Luminary is calling for you!
+194|{var:5} came back again.
+195|"Is there anyone else you want to call back?
+196|"There don't seem to be any more Tockles to call back.
+197|"The village is full of residents, so I can't call anyone else back.
+198|"Stop your StreetPass registration, tchi?
+199|You haven't agreed to the latest terms of use, so the StreetPass profile couldn't be set to {var:5}{var:8}.

@@ -1,0 +1,151 @@
+5|Loto
+6|Veronica
+7|{var:2} attacks!\nA critical hit!
+8|{var:2} attacks!\nA smart hit!
+9|{var:2} and co. attack together!
+10|{var:2} and co. attack together!\nA critical hit!
+11|{var:2}'s Tockles join forces\nand cast {var:5}!
+12|The skill gauge is full!
+13|{var:2} is protected\nby a {var:5} barrier!
+14|The Tockles' attack was\nrepelled by {var:2}'s barrier!
+15|{var:2} broke\nthe barrier it wore!
+16|Got {var:5} and {var:6}!
+17|Got {var:9} gold!
+18|Whoa! The chest was a {var:2}!
+19|Monsters
+20|Door guardian
+21|{var:2} and {var:3} took\n{var:8} damage on average!
+22|{var:2}, {var:3} and {var:5} took\n{var:8} damage on average!
+23|{var:2} was defeated!
+24|{var:2} and {var:3}\nwere defeated!
+25|{var:2}, {var:3} and {var:5}\nwere defeated!
+26|{var:2} and co. were defeated!
+27|Red
+28|Blue
+29|Green
+30|White
+31|Metal
+32|Red/Blue
+33|Red/Green
+34|Yellow/Red
+35|Purple/Red
+36|Red/White
+37|Green/Blue
+38|Blue/Yellow
+39|Blue/Purple
+40|White/Blue
+41|Yellow/Green
+42|White/Green
+43|Purple/Yellow
+44|Yellow/White
+45|Purple/White
+46|High rank
+47|Low rank
+48|Order found
+49|More red
+50|More blue
+51|More green
+52|More yellow
+53|More white
+54|Floor {var:8}
+55|By colour
+56|By rank
+57|Red first
+58|Blue first
+59|Green first
+60|Yellow first
+61|Purple first
+62|White first
+63|Auto
+64|Manual
+65|Auto-run
+66|Stop auto-run
+67|Tockle morale
+68|Results of this trip
+69|Items found
+70|Items found\n\n\n\n\nNo items found
+71|Red Tockles\ncast Frizz-\nfamily spells
+72|Blue Tockles\ncast Crack-\nfamily spells
+73|Green Tockles\ncast Woosh-\nfamily spells
+74|Yellow Tockles\ncast Bang-\nfamily spells
+75|Purple Tockles\ncast Zam-\nfamily spells
+76|White Tockles\ncast Sizz-\nfamily spells
+77|Metal Tockles\ncast Zap-\nfamily spells
+78|Observe
+79|{var:8}/{var:9}
+80|Profile
+81|{var:5}'s profile
+82|Tockle profile
+83|Sent profile
+84|Envoy Tockle settings
+85|Envoy Tockle
+86|Tockle helper
+87|View helper
+88|View profile
+89|Tockles that can be envoys
+90|Tockles that can be helpers
+91|Registered Tockles
+92|/{var:8}
+93|Sort: order found
+94|Sort: colour
+95|Sort: rank
+96|Sort: red first
+97|Sort: blue first
+98|Sort: green first
+99|Sort: yellow first
+100|Sort: purple first
+101|Sort: white first
+102|From StreetPass
+103|From your world
+104|Remove {var:5} barrier
+105|Skill: {var:5}
+106|Red
+107|Blue
+108|Green
+109|Yellow
+110|Purple
+111|White
+112|First finder
+113|2nd sent
+114|3rd sent
+115|4th sent
+116|Set as envoy Tockle
+117|Pleased to\nmeet you!
+118|The truth is,\n{var:10}!
+119|{var:9} rocks!
+120|Viva\n{var:9}!
+121|I love\n{var:11}!
+122|I love\n{var:11}!
+123|Viva\n{var:11}!
+124|Memory list
+125|Watch "{var:5}"?
+126|Playing "{var:5}".\nWhich mode do you want?
+127|Learnable
+128|Locked
+129|Locked
+130|{var:5}/{var:6}
+131|Need/Have
+132|Return point
+133|-
+134|Open the four\nsurrounding panels\nto unlock
+135|You can unlock\nthe Hidden Panel
+136|Any 3 others
+137|{var:2} pepped up
+138|{var:8} pepped up
+139|Hit one square\nwith normal force
+140|Use a skill learnt\nby levelling up
+141|Details
+142|Check the\nitem you're\ncurrently making
+143|Finish
+144|Cool the metal in\nwater to complete\nthe item
+145|Special
+146|Use a very\npowerful special\nmove
+147|Focus cost
+148|A solid hit!
+149|Whoa! The metal's temper recovered a little!
+150|It'll turn out a bit poor...
+151|It'll turn out average
+152|It'll turn out a little good
+153|It'll turn out quite good
+154|It'll turn out very good!
+155|It'll turn out the same as before

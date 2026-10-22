@@ -1,0 +1,167 @@
+上下打ち	Up-Down Strike
+チカラ強く\n上下２マスを\nたたく	Strikes two\nsquares, up\nand down
+４連打ち	Quad Strike
+チカラ強く\n２×２マスを\nたたく	Strikes a 2x2\narea with\nforce
+超４連打ち	Super Quad Strike
+２倍のチカラで\n２ｘ２マスを\nたたく	Strikes a 2x2\narea with\ndouble force
+ななめ打ち	Diagonal Strike
+チカラ強く\nななめ２マスを\nたたく	Strikes two\ndiagonal\nsquares
+てかげん打ち	Gentle Strike
+半分のチカラで\n１マスをたたく	Strikes one\nsquare with\nhalf force
+２倍打ち	Double Strike
+２倍のチカラで\n１マスをたたく	Strikes one\nsquare with\ndouble force
+３倍打ち	Triple Strike
+３倍のチカラで\n１マスをたたく	Strikes one\nsquare with\ntriple force
+ねらい打ち	Aimed Strike
+通常より\n高い会心率で\nたたく	Strikes with\na higher crit\nrate than usual
+熱風おろし	Cooling Gale
+地金の温度を\n１５０度下げて\n打つ強力な一撃	A powerful blow\nthat lowers the\nheat by 150°
+火力上げ	Stoke the Fire
+温度を３００度\n上昇させ効率ＵＰ\n最初にやるのが吉	Raises heat by\n300° for better\nefficiency. Do first!
+冷やし込み	Quench
+温度を３００度\n下降させ地金を\n変化しにくくする	Lowers heat by\n300° so the metal\nresists change
+みだれ打ち	Flurry
+ランダムに\n４マスたたく\n最高効率と噂の技	Hits 4 random\nsquares. Said to\nbe most efficient
+へパイトスの炎	Hephaestus's Flame
+次のひと打ちが\n必ず会心になる\n鍛冶神の炎	Your next strike\nis a sure crit.\nThe smith god's fire
+ドラゴン一騎討ち	Dragon Duel
+デルカダール四獣士	Heliodor's Four Beasts
+世乱れパレード	Parade of Chaos
+魔法大合戦	Great Magic Battle
+マッスル動物園	Muscle Zoo
+魅惑の妖女たち	Bewitching Sirens
+殺りく兵器改良工程	Killing Machine Refit
+ランタンカーニバル	Lantern Carnival
+闇の拳王	Dark Fist King
+スライム四面楚歌	Slimes on All Sides
+メタル総進撃	Metal March
+激おこヒーローズ	Furious Heroes
+紅蓮の決闘	Crimson Duel
+邪霊たちの狂宴	Fell Spirit Frenzy
+疾風のタコ殴り	Swift Beatdown
+パンドラの玩具箱	Pandora's Toy Box
+そして伝説へ…	And Into Legend...
+ガライの町	Garinham
+ドムドーラの町	Hauksness
+ラダトームの城	Tantegel Castle
+ムーンペタの町	Hamlin
+サマルトリアの城	Cannock Castle
+ロンダルキアへの洞くつ	Cave to Rhone
+勇者の実家	Hero's Home
+バラモス城	Baramos's Castle
+その後のバラモス城	Baramos's Castle After
+パデキアの洞くつ	Padequia Cave
+ロザリーの部屋	Rosaly's Room
+山奥の村	Mountain Village
+迷いの森	Lost Forest
+ルドマンの屋敷	Rudman's Mansion
+サンタローズの村	Santa Rosa Village
+ダーマ神殿	Dharma Temple
+天馬の塔	Pegasus Tower
+ライフコッド	Lifecod
+カラーストーン採掘場	Colorstone Quarry
+ユバール族の休息地	Yubar Camp
+夜のユバール族の休息地	Yubar Camp at Night
+ラパンハウス	Rapin House
+夕暮れのラパンハウス	Rapin House at Dusk
+トロデーン城	Trodain Castle
+天使界	Angel Realm
+見えざる魔神の道	Path of the Unseen Fiend
+リッカの宿屋	Rica's Inn
+神々の間	Hall of the Gods
+エテーネの村	Etene Village
+追憶の神殿　２層	Temple of Memory B2
+追憶の神殿　３層	Temple of Memory B3
+冒険	Adventure
+今までに獲得したゴールド	Total gold earned
+ツボやタルなどを壊した数	Pots and barrels smashed
+{var:8}回	{var:8}
+キャンプした回数	Times camped
+宿屋に泊まった回数	Inn stays
+バトル	Battles
+れんけいを使用した回数	Pep powers used
+メタル系モンスターを倒した数	Metal monsters defeated
+{var:8}匹	{var:8}
+スロットを遊んだ回数	Slot plays
+ポーカーを遊んだ回数	Poker plays
+ルーレットを遊んだ回数	Roulette plays
+つかまえたヨッチ族	Tockles caught
+{var:8}人	{var:8}
+手に入れたヨッチ族のぼうし	Tockle hats obtained
+クリアした時渡りの迷宮	Labyrinths of Time cleared
+{var:8}階	{var:8}F
+過ぎ去りし時の祭壇	Altar of Lost Time
+ツーペア	Two Pair
+スリーカード	Three of a Kind
+ストレート	Straight
+フラッシュ	Flush
+フルハウス	Full House
+フォーカード	Four of a Kind
+ストレートフラッシュ	Straight Flush
+ファイブカード	Five of a Kind
+ロイヤルストレートフラッシュ	Royal Straight Flush
+ロイヤルストレートスライム	Royal Straight Slime
+おたずね者	Wanted man
+謎の盗賊	Mystery thief
+{var:1}の相棒	{var:1}'s partner
+記憶喪失の男	Man without memory
+贖い人	The Atoner
+勇者の相棒	Luminary's partner
+ベロニカの妹	Veronica's sister
+聖賢の名を継ぐ者	Heir to the Sage's name
+デルカダールの英雄	Hero of Heliodor
+デルカダール王の娘	Daughter of Heliodor
+気高き女武闘家	Noble martial artist
+デルカダールの戦姫	War princess of Heliodor
+{var:1}の祖父	{var:1}'s grandfather
+むっつりスケベ	Secret lecher
+目覚めし老賢人	Awakened sage
+勇者の祖父	Luminary's grandfather
+夢見る旅芸人	Dreamer of the stage
+世助け旅芸人	World-saving performer
+セーニャの姉	Serena's sister
+レジョヘ	Rejohe
+ゾヒカ	Zohika
+ジョナッシ	Jonash
+ルーグル	Roogle
+マセツ	Masetsu
+ハリガ	Hariga
+ジュンカー	Junker
+パドナット	Padnat
+モルテザ	Morteza
+イッショー	Isshoh
+シンバ	Simba
+セイモッド	Seymod
+スハウル	Suhaul
+イレブン	Eleven
+謎の青年	Mystery youth
+犬	Dog
+孤児院	Orphanage
+魔王誕生	Birth of the Dark Lord
+よろず屋	General store
+特等	Grand prize
+一等	1st prize
+二等	2nd prize
+三等	3rd prize
+四等	4th prize
+はずれ	No prize
+ファーリス杯	Faris Cup
+？？？？	????
+？？？？？	?????
+？？？？？？	??????
+？？？？？？？	???????
+？？？？？？？？	????????
+ファピラ	Fapira
+チロロ	Chiroro
+チャラタ	Charata
+オパップ	Opapp
+ポアンナ	Poanna
+モンドド	Mondodo
+次のひと打ち　威力が２倍！	Next strike: double power!
+次のひと打ち　威力が半減！	Next strike: half power!
+消費集中力が　1.5倍で　会心率アップ！	Focus cost x1.5, crit rate up!
+消費集中力が　半分になった！	Focus cost halved!
+１つのマスの　威力と会心率がアップ！	One square's power and crit up!
+スロット	Slots
+ポーカー	Poker
+ルーレット	Roulette

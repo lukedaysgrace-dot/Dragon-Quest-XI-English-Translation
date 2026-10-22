@@ -412,3 +412,28 @@ Remaining untranslated: cutscene_chapter_param (866), staffroll_text_1/2 (760 ea
 - Verified in game: Titles pages 3/5/7/16 (names + descriptions fit), Records summary, Gear bag lists + stat/special-effect panes (swords, spears, capes, accessories).
 - Known cosmetic: item-count suffix in Gear bag list shows a clipped Japanese counter "こ" ("1こ"). Not in any bxon/layout/code string I could find (win_*_have/caption layouts are 'skip' = runtime-filled). Added tm '{var:8}こ'->'x{var:8}' (no effect there) and 'こ'->' ' for the "How many?" popup. TODO: locate source (maybe format built in code via SJIS/ASCII table, or a texture).
 - Still unverified: passive skills/Skills tab, profile text, Tockle screens, cutscene chapter titles, StreetPass, late-game dialogue.
+
+## Session 8
+- Cloud workspace rebuilt from the synced folder (ROM padded with 0xFF; work/maps must be an ABSOLUTE symlink to DQXI_EN/maps).
+- New translations (all fan, unverified unless noted): `110_small1_fan.json` (167), `111_panels_fan.json` (114 skill-panel bonus texts, built by maps/src_small/panels_build.py), `112_cs_chapters_fan.json` (122), `113_uimsg_fan.json` (199), `114_uitext_fan.json` (151), `115_story2_fan.json` (385 story recaps, <=~190 chars so they fit the 5-line pane; source maps/src_small/story2_en.txt, later lines override; build with story2_build.py -> must print `bad: []`).
+- New tools: `tools/unc.py` (list/fill uncovered strings by btype), `tests_emu/newgame.sh`.
+- Names used in recaps: Dundrasil, Heliodor, Hotto, Mount Huji, Octagonia, Sniflheim, Arboria, Zwaardsrust, Gallopolis Desert, Emerald Coast, Erdwin (ローシュ), Senya (セニカ), Uranos, Calasmos, Kilgore, Garinga, Atsuo/Atsuko, Miko, Ryu, Maya. Unsure: Elder "Igoltap" (イゴルタプ), "Yata Mirror", "Divine Folk" (神の民), "Trees of Guidance".
+- Coverage now ~85% of all strings (75,281/88,012). Remaining: party chat TalkPartyContent2 (9% done, ~5.5k lines), credits CreditTextData (0/1520), BattleText 81%, LYT 53%.
+- Verified in game with mksave test save (lv40): Records summary, Quest list + details, Monster list (All), Stats + Detailed stats, battle command menu, Tor dialogue (old keeper). Story recap pane is only reachable with story flags, so recaps were checked by computed wrap only.
+- Seen cosmetic issue: "Sword God" label overflows on the Skill Panel left edge (not fixed).
+- Reaching a save from a fresh game: talk to the old keeper (left terrace) -> real path to the top is the staircase north of the plateau; three slimes battle; then cutscene. mksave works on the Data0 created right after name entry (no need to progress).
+- Still open: Gear bag "こ" counter; Skill Panel label overflow; party chat; credits; unverified: passive skills tab, profile, Tockle, chapter titles, StreetPass.
+
+## Session 8 (cont.) - party chat (talk_party_*) 4331/4331 translated
+* Source: maps/src_small/party_jp_all.txt (frozen JP list, `N talk_party_xxx OFF | text`), English in maps/src_small/party_en.txt (`N|English`, later lines override earlier ones). Build: `python3 tools/party_fill.py` -> text/en/116_party_fan.json (tm map JP->EN, purges stale DB tm keys). NEVER use `unc.py --fill` for party chat: tr_import loads earlier batches and shifts its numbering.
+* Names follow the Switch-official glossary (query tm first): Irwin (アーウィン), Erdwin (ローシュ), Erik (カミュ), Octagonia (グロッタ), Gondolia (ダーハルーネ), Puerto Valor, Hotto, Miko/Ryu/Atsuo/Atsuko (ヤヤク/ハリマ/テバ/サキ), Charlotte, Lizzlette, Eckhart, Hunfrey, Diego/Goliath, Kilgore, Arachtor, Calasmos (ニズゼルファ), Koron, Garinham, Hamlin, Adventure Log, Emerald Coast, Angri-La, Lonalulu, Phnom Nonh, Arboria (ラムダ), Sniflheim (クレイモラン), Cetacea (ケトス), Mount Zeran/Dooran (guess), Hustle Codger.
+* Rebuild: 0 errors. Party chat wrap is automatic (talk type, 3 lines) but NOT yet seen in game.
+* Unsure: Mount Dooran/Zeran, Rhondarkia, Necrogond, Padequia, Litarifon, Color Stone, Yubar, Viva Grape, Borongo/Pukkuru/Chirol/Gele-Gele, Lady Massive, Rudman.
+* Remaining: credits (1520), BattleText ~81%, LYT ~53%, ChurchMsg, TalkParty2DOverwrit; in-game checks of party chat/recaps.
+* Credits: text/en/117_credits_fan.json translates 157 role/company/department titles; staff person names intentionally left as original. Rebuild 0 errors. NOT seen in game (credits only play at game end); long lines like 'Representative Director' may overflow.
+
+## Session 8 (cont.) — LYT + misc
+- text/en/118_lyt_fan.json: ~58 LYT area/menu labels. Remaining LYT = dummy/placeholder or split single-char signage (left).
+- text/en/119_misc_fan.json: 624 CharacterIEData/ChurchMsg/CasinoMsg/TextBlock lines (Ishi Village rebuild, Emma, bustier/armor brother merchants, Nelsen trials, Lonalulu, undersea queen, etc.). Source: maps/src_small/misc_jp.txt (frozen 628) + misc_en.txt; regenerate with `python3 tools/misc_fill.py`. 622-625 (punctuation) skipped.
+- BattleText effectively complete (only unused placeholders left).
+- Rebuild: errors 0. NOT yet verified in-game: wrapping of the above, 491-500 two-voice trial lines, party chat, credits.
