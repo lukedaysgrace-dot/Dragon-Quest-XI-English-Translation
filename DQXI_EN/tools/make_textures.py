@@ -52,6 +52,18 @@ def main():
                 open(src, 'wb').write(fl['data'])
                 subprocess.check_call([sys.executable, os.path.join(HERE, 'badge_tex.py'), os.path.join(fonts, '3D12.bffnt'), src, badge[name], dst])
                 os.remove(src); n += 1
+    # title screen: English subtitle plate over the Japanese subtitle under the logo (logo art untouched)
+    pk_rel = 'ui/logo_3d.pack'
+    pk = Pack(os.path.join(romfs, pk_rel))
+    for e in pk.entries:
+        if e['data'][:4] != b'SARC': continue
+        for fl in Sarc(e['data']).files:
+            if (fl['name'] or '') != 'timg/title_logo_3d.bflim': continue
+            dst = os.path.join(out, pk_rel, e['name'], fl['name'])
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            src = dst + '.orig'; open(src, 'wb').write(fl['data'])
+            subprocess.check_call([sys.executable, os.path.join(HERE, 'logo_sub.py'), src, dst])
+            os.remove(src); n += 1
     print('textures', n)
 
 if __name__ == '__main__':
