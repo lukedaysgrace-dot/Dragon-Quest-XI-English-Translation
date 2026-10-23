@@ -11,7 +11,7 @@ import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bffnt
 
-VAR_WIDTH = {1: 8, 2: 10, 3: 10}     # assumed max visible chars for {var:N} (hero name=8)
+VAR_WIDTH = {1: 8, 2: 10, 3: 10, 8: 8, 9: 8, 100: 0, 102: 0}   # 100/102 = colour on/off codes (zero width); 8/9 = numbers
 DEFAULT_VAR_CHARS = 12
 
 class Metrics:
@@ -41,14 +41,18 @@ class Metrics:
 CONTEXTS = {
     'talk':   ([('3D14', 326), ('2D14', 290)], 3),
     'battle': ([('2D9', 326), ('3D14', 326)], 3),
+    'quest':  ([('3D14', 260), ('2D9', 200)], 5),     # menu_senreki_quest2 txt (quest log details)
+    'guide':  ([('3D14', 310), ('2D14', 270)], 3),    # win_guide (scenario objective)
 }
 TALK_TYPES = {'CharacterIEData', 'TalkPartyContent2', 'TextBlock', 'ChurchMsg', 'ShopMsg', 'InnMsg', 'BankMsg',
               'CasinoMsg', 'JewelShopMsg', 'SavePointMsg', 'SerenHintMessage', 'ItemFailureMessage',
-              'SpiritTalkParam', 'UIMessage', 'DummyPlayerMessage'}
+              'SpiritTalkParam', 'UIMessage', 'DummyPlayerMessage', 'TalkParty2DOverwrit'}
 
 def context_for(btype):
     if btype in TALK_TYPES: return 'talk'
     if btype == 'BattleText': return 'battle'
+    if btype == 'QuestUIParam': return 'quest'
+    if btype == 'UIGuideParam': return 'guide'
     return None
 
 CONDENSE = float(os.environ.get('DQXI_CONDENSE', '1'))   # text panes are drawn at fontSize.x*CONDENSE

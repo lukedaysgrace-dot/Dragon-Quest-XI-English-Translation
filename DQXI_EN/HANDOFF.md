@@ -99,3 +99,16 @@ Session 8 addendum: party chat is complete (4331/4331) via tools/party_fill.py +
 
 ## Session 8 addendum 2
 Added 118_lyt_fan.json and 119_misc_fan.json (see PROGRESS.md). Next: emulator checks of party chat, recaps, credits, Nelsen trial dialogue, Ishi Village/Emma scenes, bustier merchants; fix Skill Panel "Sword God" overflow; find Gear bag counter.
+
+## Session 8 addendum 3 — voices
+English voices are wired in (see PROGRESS "English voices"). Build with `VOICE=1 bash tests_emu/rebuild.sh`. Voices come from Lucas's own Steam copy and stay private (never commit them). Next: listen-test on Lucas's side, fix the 166 unmapped links, optionally add their English movies.
+
+## Session 8 addendum 4 — fit audit
+Every string was checked against its real box (see PROGRESS "fit audit"). Tools: tools/ui_fit.py, tools/lyt_fit.py,
+tools/lyt_fix.py; per-pane font squeeze lines 'layout|pane=xS' in tools/grow.txt; short labels in maps/lyt_short.txt;
+fixes in text/en/998_lyt_fit_fan.json and 999_fit_fan.json (loaded last). Still unverified on screen: 2D-mode area maps,
+late-game menus (need a later save).
+
+## Session 8 addendum 5
+Two builds: `VOICE=1 bash tests_emu/rebuild.sh` (voices + English movies) and plain `bash tests_emu/rebuild.sh` (text only, Japanese audio).
+Official names come from maps/official_glossary.tsv. Never commit voices/movies/PC files. Next: playtesting feedback from Lucas.

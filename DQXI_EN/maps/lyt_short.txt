@@ -1,0 +1,66 @@
+# English label -> shorter forms to try (first that fits wins). Used by tools/lyt_fix.py
+Main hand|Main|Wpn
+Pep powers|Pep|Pep pwr
+Hand over|Give
+Swordfiend of Hatred|Hate Swordfiend|Swordfiend
+Demon of Darkness|Dark Demon|Dark demon
+Rotate|Turn
+Rest till night|Rest to night|Wait for night|Rest
+Draconian Quest setup|Draconian setup|Draconian rules
+Balance|Even|Bal.
+Adventure Log Passwords Obtained|Passwords Obtained|Passwords
+Big shields|Shields
+Kitchen|Kitch.|Cook
+Throne Room|Throne
+Guest Room|Guests|Guest
+Secret Passage|Secret Way|Secret
+Derk's Shop|Derk's|Shop
+Garbage Dump|Dump
+Landlady's Lodging|Lodging|Inn
+Prince's Chamber|Prince's|Prince
+Gallopolis Castle|Castle
+To Racetrack|Racetrack|Races
+Storehouse|Store
+Dundrasil Castle Vaults|Castle Vaults|Vaults
+Courtyard|Yard
+King and Queen's Chamber|Royal Chamber|Royals
+Conference Room|Council|Meeting
+Home|Home
+Cobblestone Tor|The Tor|Tor
+Laguna di Gondolia|Laguna|Lagoon
+Mayor's House|Mayor's|Mayor
+Puerto Valor Coast|Valor Coast|Coast
+Tourney Registration|Registration|Sign-up
+Orphanage|Orphans
+To Upper Level|Up|Upstairs
+To Colosseum|Colosseum|Arena
+Octagonia Colosseum|Colosseum|Arena
+Prize Exchange|Prizes
+Labyrinth of Time|Labyrinth
+Altar Room|Altar
+Kinai's House|Kinai's|Kinai
+Silent Shore|Shore
+Undersea Palace|Palace
+Bahatra's House|Bahatra's|Bahatra
+Master's Palace|Palace
+To Master's Palace|To Palace|Palace
+Great Training Ground|Training Ground|Training
+Miko's Shrine|Shrine
+Steam Bath|Bath
+Cathedral|Church
+To Summit|Summit|Up
+Silent Forest|Forest
+Temple of the Sun|Sun Temple|Temple
+Ancient Sacred Garden|Sacred Garden|Garden
+First Forest|Forest
+Temple of Respite|Respite|Temple
+Chapel of Guidance|Chapel
+Female|W
+Yellow|Y
+Lo|S
+Tower of Lost Time|Lost Tower|Tower
+Medal Academy|Academy
+Leviathan of Wrath|Wrath Leviathan|Leviathan
+Other|Etc.
+Movement Settings|Movement|Move setup
+Hand acc.|Hand|Ring

@@ -437,3 +437,30 @@ Remaining untranslated: cutscene_chapter_param (866), staffroll_text_1/2 (760 ea
 - text/en/119_misc_fan.json: 624 CharacterIEData/ChurchMsg/CasinoMsg/TextBlock lines (Ishi Village rebuild, Emma, bustier/armor brother merchants, Nelsen trials, Lonalulu, undersea queen, etc.). Source: maps/src_small/misc_jp.txt (frozen 628) + misc_en.txt; regenerate with `python3 tools/misc_fill.py`. 622-625 (punctuation) skipped.
 - BattleText effectively complete (only unused placeholders left).
 - Rebuild: errors 0. NOT yet verified in-game: wrapping of the above, 491-500 two-voice trial lines, party chat, credits.
+- Emulator check (session 8): boot -> prologue -> Tor controllable OK; main menu (Talk/Spells/Items/Search/Misc), Records > Story so far (fits), Titles list (fits; many "Unused" placeholder titles show because the test save has 243 titles flagged earned — untranslatable placeholders, harmless). Party chat/credits/late-game scenes still need a late save to verify.
+
+## Session 8 — English voices (BlackDes1 voice patch v18)
+- Source: github.com/BlackDes1/Dragon-Quest-XI-3DS-Translation-Voice-Patch (cloned to /home/claude/ext/vp). It does NOT ship audio; it converts voices from the user's own Steam DQXI S.
+- PC files: 1,112 needed files pulled from Lucas's Steam paks with work/vp/pakx.py (UE4 pak v4; names XOR DEADFADEBEEFCAFE on the low byte, data ^0xFF, compressed blocks also ^DEADFADEBEEFCAFE). Stored in DQXI_EN/work/vp/pc_src (git-ignored, private).
+- Conversion (cloud): their pc_components.py + vgmstream r2023 -> 5048/5048 BCSTM clips (/home/claude/vpwork/out/voice-components).
+- tools/voice_build.py: rebuilds their DQV4 voice table (syscmn.pack/sound_se.bxon) from OUR built text (fingerprints of our strings), copies their SndProj-1-SYS.bcsar + pool slots + clips into romfs/sound. 4871/5095 links mapped (166 text_id mismatch, 36 duplicate-text conflicts).
+- code.ips merge: their code.ips is the base (12 hooks into the .text cave 0x72403c-0x725000); our relocated strings moved to the .rodata end padding 0x79aa18-0x79b000 (env VOICE_BASE_IPS in code_patch.py). Verified: their hooks/cave untouched, all our other bytes identical except 178 moved pointers.
+- Build: `VOICE=1 bash tests_emu/rebuild.sh` -> errors 0, ~1.4 GB extra in romfs/sound.
+- Emulator: at the Tor/Gemma scene the game opened sound/str/dqxi_voice/V_04728.bcstm exactly when our English line appeared (strace on Azahar). Audio itself can't be heard in the headless VM. Not yet checked: more scenes, the 166 unmapped lines, their English movies (not added).
+- Fix (important, affects the text patch too): tools/bxon.py treated the TextBlock text-ID field as a pointer when id+offset happened to land on a string, and rewrote IDs (e.g. 800 -> 3024) in 166+ cutscene rows. Now the ID/flag fields of TextBlock rows are never relocated; verified 451 TextBlocks, 0 rows with changed IDs. Voice links now 5034/5095 mapped (39 left = identical lines sharing one key).
+- Emulator: Tor/Gemma scene now opens 5 different voice clips with our text.
+- Voiced build delivered to Lucas's PC: "Claude outputs/DQXI3DS_EN_voice" (5856 files, 1,559,410,128 bytes, verified). Private — built from his own Steam copy.
+
+## Session 8 — fit audit (all text vs real box sizes)
+- Dialogue (talk/battle/quest/guide contexts, auto-wrapped by tools/wrap.py): fixed every line that needed more lines than the box (113: 73 in misc_en.txt, rest in text/en/999_fit_fan.json). Added contexts 'quest' (menu_senreki_quest2 txt 260/200 px, 5 lines) and 'guide' (win_guide 310/270 px, 3 lines); TalkParty2DOverwrit is now wrapped as talk. {var:100}/{var:102} are colour codes (zero width), {var:8}/{var:9} numbers.
+- Remaining dialogue report: only the battle stat-gain line (vars counted as 12 chars; verified it fits with 3-digit numbers).
+- LYT panes: tools/lyt_fit.py (exact: pane font/size from the built layout vs pane width; map labels may run 1.3x) + tools/lyt_fix.py (per-pane horizontal squeeze >= 0.80 via new grow.txt 'layout|pane=xS' entries, else shorter forms from maps/lyt_short.txt -> text/en/998_lyt_fit_fan.json). 359 -> 5 marginal.
+- Runtime-filled fields: tools/ui_fit.py, limit = max(real pane, widest Japanese line of the same field). Pane squeeze for map place names, chapter titles, status epithet, enemy list/target names (grow.txt). 2156 -> 87 marginal guesses (<15% over the Japanese floor, no pane found).
+- Fixed bug-like translations: single-kanji map markers 女/黄/小 were 'Female/Yellow/Lo' in 14 px panes -> W/Y/S.
+- Emulator: main menu, guide line, Stats screen (epithet), Detailed stats all fit.
+
+## Session 8 — names, Skill Panel, movies, two builds
+- Official names: checked against the English text tables of Lucas's own DQXI S PC copy. maps/official_glossary.tsv (JP anchor -> fan variants -> official) is applied by tools/tr_import.py to fan/name translations, e.g. Hunfrey->Vince, Moon Baba->Jörmun, Nelsen->Drustan, Kinai->Kainui, Kraken->Tentacular, Diego->Don Rodrigo, Pearl->Amber, Champs Sauvages/Bunderfon->Zwaardsrust, Mount Dooran->Mount Pang Lai, Yata Mirror->Seeing Glass, Drop of Ra->lumen essence, Mermaid Harp->Lorelei's harp, Ishi->Cobblestone. Kept "Medal Academy" (official French name too long for the boxes).
+- Skill Panel: 剣神 = official "Swordmastery"; category labels squeezed (grow.txt menu_skill_get_3d x0.82). Verified in emulator: fits.
+- Movies: their pc_movie_builder.py run in the cloud with mobipeg v2.3 (Linux build) on the 7 USM sources copied from Lucas's Steam install -> 10 English MOFLEX movies (/home/claude/vpwork/movies/movie). VOICE=1 rebuild copies them to romfs/movie. Verified: the title movie MOVIE_001 loads and plays in Azahar, then the title screen.
+- Deliveries (private, Claude outputs/): DQXI3DS_EN_voice (English text + voices + movies) and DQXI3DS_EN_text (English text, original Japanese voices/movies; plain rebuild).

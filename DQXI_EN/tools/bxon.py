@@ -56,9 +56,18 @@ class Bxon:
         str_ranges = set()
         for s in self.strings:
             str_ranges.update(range(s, starts[s], 4))
+        # TextBlock rows (28 bytes from 0x40): +0/+4 flags, +8 text ID, +12/+16/+20 string ptrs.
+        # The text ID is NOT a pointer even when id+offset happens to land on a string block
+        # (that false match used to rewrite text IDs, e.g. 800 -> 3024).
+        not_ptr = set()
+        if self.typename == 'TextBlock' and n >= 0x30:
+            cnt = struct.unpack_from('<I', d, 44)[0]
+            for i in range(min(cnt, (n - 64) // 28)):
+                o = 64 + i * 28
+                not_ptr.update((o, o + 4, o + 8))
         self.ptrs = {}              # target -> [pointer positions]
         for p in range(0x20, n - 3, 4):
-            if p in str_ranges: continue
+            if p in str_ranges or p in not_ptr: continue
             v = struct.unpack_from('<i', d, p)[0]
             if v <= 0: continue
             t = p + v

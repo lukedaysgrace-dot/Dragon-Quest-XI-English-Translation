@@ -27,14 +27,16 @@ MIN_BUF = int(os.environ.get('DQXI_MIN_BUF', '0'))
 CONDENSE = float(os.environ.get('DQXI_CONDENSE', '1'))
 # per-pane buffer growth whitelist: lines 'layoutname.bflyt|pane=bytes' in tools/grow.txt
 TEX_DIR = os.environ.get('DQXI_TEX_DIR', '')
-GROW = {}; SIZES = {}   # grow.txt: 'layout|pane=bytes' (buffer) or 'layout|pane=w,h' (pane size)
+GROW = {}; SIZES = {}; FSCALE = {}   # grow.txt: 'layout|pane=bytes' (buffer), 'layout|pane=w,h' (pane size),
+                                     # 'layout|pane=x0.85' (extra horizontal font squeeze for long English)
 _gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'grow.txt')
 if os.path.exists(_gp):
     for _l in open(_gp, encoding='utf-8'):
         _l = _l.split('#')[0].strip()
         if '=' in _l:
             _k, _v = _l.split('=')
-            if ',' in _v: SIZES[_k.strip()] = tuple(float(x) for x in _v.split(','))
+            if _v.strip().startswith('x'): FSCALE[_k.strip()] = min(FSCALE.get(_k.strip(), 9), float(_v.strip()[1:]))
+            elif ',' in _v: SIZES[_k.strip()] = tuple(float(x) for x in _v.split(','))
             else: GROW[_k.strip()] = int(_v)
 # NOTE: growth of all panes crashed the game in a cutscene (a_010_cs_040) - default off; use GROW whitelist
 # targeted growth: every text pane gets buf*SCALE+ADD bytes, capped at CAP (runtime-filled names/labels need room)
@@ -112,9 +114,10 @@ def main():
                     lname = fl['name'].rsplit('/', 1)[-1]
                     grow = {k.split('|', 1)[1]: v for k, v in GROW.items() if k.split('|', 1)[0] == lname}
                     sizes = {k.split('|', 1)[1]: v for k, v in SIZES.items() if k.split('|', 1)[0] == lname}
-                    if edits or all_layouts or BUF_SCALE != 1 or grow or sizes:
+                    fsc = {k.split('|', 1)[1]: v for k, v in FSCALE.items() if k.split('|', 1)[0] == lname}
+                    if edits or all_layouts or BUF_SCALE != 1 or grow or sizes or fsc:
                         nd = lyt.rebuild(fl['data'], edits, min_buf=MIN_BUF, buf_scale=BUF_SCALE, buf_cap=BUF_CAP, buf_add=BUF_ADD,
-                                         grow=grow, fsx_scale=CONDENSE, sizes=sizes)
+                                         grow=grow, fsx_scale=CONDENSE, sizes=sizes, fscale=fsc)
                         if nd != fl['data']:
                             s.replace(fl['name'], nd); sch = True
                 # replacement textures: <TEX_DIR>/<pack path>/<arc>/<file>

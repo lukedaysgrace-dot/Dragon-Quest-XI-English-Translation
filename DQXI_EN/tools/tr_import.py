@@ -18,6 +18,23 @@ from text_dump import SCHEMA
 RUBY = re.compile(r'\{ruby:([^|{}]*)\|[^{}]*\}')
 def norm(jp): return RUBY.sub(r'\1', jp)
 
+# official-name glossary (maps/official_glossary.tsv): fixes fan translations to the official English names
+GLOSS = []
+_gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'maps', 'official_glossary.tsv')
+if os.path.exists(_gp):
+    for _l in open(_gp, encoding='utf-8'):
+        if not _l.strip() or _l.startswith('#'): continue
+        _p = _l.rstrip('\n').split('\t')
+        _v = _p[1].split('|'); _o = _p[2].split('|')
+        if len(_o) != len(_v): _o = [_o[0]] * len(_v)
+        GLOSS.append((_p[0], [(re.compile(r'(?<![A-Za-z])' + re.escape(a) + r'(?![a-z])'), b) for a, b in zip(_v, _o)],
+                      _p[3] if len(_p) > 3 and _p[3] else None))
+def gloss(jp, en):
+    for anchor, reps, excl in GLOSS:
+        if anchor in jp and not (excl and excl in jp):
+            for rx, b in reps: en = rx.sub(b, en)
+    return en
+
 def main():
     proj = sys.argv[1]
     db = sqlite3.connect(os.path.join(proj, 'db', 'progress.sqlite'))
@@ -33,12 +50,16 @@ def main():
         st = d.get('status', 'translated'); src = d.get('source', 'fan')
         for jp, en in d.get('tm', {}).items():
             k = norm(jp)
+            if src in ('fan', 'name'): en = gloss(k, en)
             db.execute('INSERT INTO tm(jp,en,source,status) VALUES(?,?,?,?) ON CONFLICT(jp) DO UPDATE SET '
                        'en=excluded.en, source=excluded.source, status=excluded.status', (k, en, src, st))
             hit = db.execute("update strings set status=? where jp_norm=? and status in ('untranslated','translated') and (en is null or en='')", (st, k)).rowcount
             if not hit: missing.append((os.path.basename(fn), k))
             ntm += 1
         for sid, en in d.get('id', {}).items():
+            if src in ('fan', 'name'):
+                r = db.execute('select jp from strings where id=?', (sid,)).fetchone()
+                if r: en = gloss(norm(r[0]), en)
             c = db.execute('update strings set en=?, status=? where id=?', (en, st, sid)).rowcount
             if not c: missing.append((os.path.basename(fn), sid))
             nid += 1

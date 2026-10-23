@@ -1,0 +1,50 @@
+# Official English names (DQXI S English text, checked against Lucas's own PC copy).
+# jp_anchor<TAB>fan variants (|-separated)<TAB>official<TAB>[jp_exclude]
+# Applied by tools/tr_import.py to FAN translations whose Japanese contains the anchor.
+イシ	Ishi Village|Ishi	Cobblestone
+ハンフリー	Hunfrey	Vince
+ムンババ	Moon Baba|Munbaba	Jörmun
+ネルセン	Nelsen	Drustan
+セニカ	Senica	Serenica
+キナイ	Kinai	Kainui
+クラーゴン	Krakens|Kraken	Tentaculars|Tentacular
+ジエーゴ	Diego	Don Rodrigo
+ペルラ	Pearl	Amber
+ガレムソン	Garamson	Underdigger
+ベロリンマン	Ballyhoo	Abominable Showman
+バクーモス	Bakumos	Gloomnivore
+デスエーギル	Death Aegir	Bathysfear
+ゾルデ	Zordrak	Tyriant
+キラゴルド	Kilgore	Gyldygga
+アリス	Alice	Dave	アリス伝説
+ドゥーラン	Mount Dooran	Mount Pang Lai
+ラーのしずく	Drop of Ra	lumen essence
+王者の剣	Sovereign's Sword	Sword of Kings
+ネドラ	Nedra	Auroral Serpent
+女王の愛	Queen's Love|Queen's love	Sea Queen's Conch
+しんぴのビスチェ	Mystic Bustier|Mystic bustier	divine bustier
+リタリフォン	Ritaliphon	Obsidian
+イゴルタプ	Igoltap	Eegoltap
+バンデルフォン	Champs Sauvages|Bunderfon|Bandelfon	Zwaardsrust
+ヨッチ村	Yocchi Village	Tickington
+クルッチ	Kurutchi	Ickle
+ラブリーエキス	Lovely Extract|Lovely extract	love potion
+禁足地	Forbidden Key|Forbidden key	Crucible key
+ガイアのハンマー	Gaia's Hammer|Gaia's hammer	Forging Hammer
+神秘の歯車	Mystic Cog|Mystic cog	Wheel of Time
+聖なる種火	Sacred Ember|Sacred ember	Guiding Light
+天空のフルート	Sky Flute|Sky flute	Calamus Flute
+イメチェンリング	Makeover Ring|Makeover ring	ring of changes
+エッチな本	Saucy Book|Saucy book|saucy book	Ogler's Digest
+パレードの服	parade outfit	mardi garb
+さびたおうしゃく	Rusty Scepter	rusty sceptre
+勇者のつるぎ	Luminary's Swords|Luminary's Sword|Luminary's sword	Swords of Light|Sword of Light|Sword of Light
+セレン	Queen Seren|Seren	Queen Marina|Marina
+鉄鬼軍王	Kilgore	Gyldygga
+屍騎軍王	Zordrak	Tyriant
+ベロリン	Ballyhoo	Abominable Showman
+黄金病	Kilgore	Gyldygga
+やたの鏡	Yata Mirror	Seeing Glass
+千里の真珠	Farsight pearl|Farsight Pearl	Pearl of Wisdom|Pearl of Wisdom
+マーメイドハープ	Mermaid Harp|Mermaid harp	Lorelei's harp|Lorelei's harp
+ロンダルキア	Rhondarkia	Rendarak

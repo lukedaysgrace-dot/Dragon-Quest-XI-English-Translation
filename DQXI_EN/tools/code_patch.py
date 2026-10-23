@@ -76,6 +76,21 @@ def main():
     # free area: zero padding after .text (exheader text size 0x62403c -> mapped to 0x725000)
     free = 0x724040; free_end = 0x725000
     text_end = 0x724040
+    base = os.environ.get('VOICE_BASE_IPS')
+    if base:
+        # voice patch: start from their code.ips (native voice code fills the .text cave),
+        # put our relocated strings in the .rodata end padding instead (0x79aa18-0x79b000)
+        b = open(base, 'rb').read(); i = 5
+        while b[i:i+3] != b'EOF':
+            o = int.from_bytes(b[i:i+3], 'big'); n = int.from_bytes(b[i+3:i+5], 'big'); i += 5
+            if n == 0:
+                n = int.from_bytes(b[i:i+2], 'big'); data = bytes([b[i+2]]) * n; i += 3
+            else:
+                data = b[i:i+n]; i += n
+            d[o:o+n] = data
+        free = 0x79aa18; free_end = 0x79b000
+        assert not any(d[free-BASE:free_end-BASE]) and not any(orig[free-BASE:free_end-BASE])
+    free0 = free
     log = []
     for line in open(tsv, encoding='utf-8'):
         line = line.rstrip('\n')
@@ -131,7 +146,7 @@ def main():
     ips += b'EOF'
     open(os.path.join(out, 'code.ips'), 'wb').write(ips)
     open(os.path.join(out, 'code_patch.log'), 'w').write('\n'.join(log) + '\n')
-    print('\n'.join(log)); print('ips bytes', len(ips), 'free used', hex(free - 0x724040))
+    print('\n'.join(log)); print('ips bytes', len(ips), 'free used', hex(free - free0))
 
 if __name__ == '__main__':
     main()

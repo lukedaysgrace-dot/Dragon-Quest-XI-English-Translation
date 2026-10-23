@@ -48,7 +48,7 @@ def text_panes(d):
                     'toff': toff, 'text': txt.rstrip('\0')})
     return out
 
-def rebuild(d, edits=None, min_buf=0, buf_scale=1, buf_cap=0xFFF0, buf_add=0, grow=None, fsx_scale=1.0, sizes=None):
+def rebuild(d, edits=None, min_buf=0, buf_scale=1, buf_cap=0xFFF0, buf_add=0, grow=None, fsx_scale=1.0, sizes=None, fscale=None):
     """edits: {pane_name: new_text}. Returns new file bytes.
     Rewrites each txt1 section: text string replaced/kept, textBufBytes enlarged."""
     edits = edits or {}
@@ -77,9 +77,10 @@ def rebuild(d, edits=None, min_buf=0, buf_scale=1, buf_cap=0xFFF0, buf_add=0, gr
                         pass
                 sl = len(new); buf = len(area)
                 struct.pack_into('<HH', sec, 0x54, buf, sl)
-            if fsx_scale != 1.0:
+            sc = fsx_scale * (fscale or {}).get(name, 1.0)
+            if sc != 1.0:
                 fx = struct.unpack_from('<f', sec, 0x70)[0]
-                struct.pack_into('<f', sec, 0x70, fx * fsx_scale)
+                struct.pack_into('<f', sec, 0x70, fx * sc)
             if sizes and name in sizes:
                 v = sizes[name]
                 struct.pack_into('<ff', sec, 0x4C, v[0], v[1])
