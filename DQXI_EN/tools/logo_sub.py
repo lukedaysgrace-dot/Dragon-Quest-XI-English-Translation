@@ -11,7 +11,9 @@ import bflim_rgb
 
 TEXT = 'Echoes of an Elusive Age'
 AREA = (186, 170, 322, 202)        # Japanese subtitle area in the 512x256 texture (both lines)
-FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+FONT = os.environ.get('LOGO_FONT', '/usr/share/fonts/truetype/crosextra/Caladea-Bold.ttf')
+TEXT_BOX = (176, 170, 336, 204)    # room for the English line (a bit wider than the old Japanese)
+MAX_SIZE = 16
 
 def erase(img):
     a = np.array(img).astype(np.int16)
@@ -28,8 +30,8 @@ def erase(img):
 def main(src, dst):
     orig = open(src, 'rb').read()
     img = erase(bflim_rgb.decode(orig))
-    x0, y0, x1, y1 = AREA
-    size = 13
+    x0, y0, x1, y1 = TEXT_BOX
+    size = MAX_SIZE
     while True:
         f = ImageFont.truetype(FONT, size)
         bb = f.getbbox(TEXT)
